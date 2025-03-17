@@ -35,7 +35,9 @@ Este repositório serve como um espaço para compartilhar meu aprendizado contí
 ## 📫 Contato
 
 Se quiser trocar ideias ou colaborar, sinta-se à vontade para me contatar:
+
 📩 jacksonsventura@gmail.com
+
 🌎 www.linkedin.com/in/jackson-dos-santos-ventura-716290b4
 
 ---
