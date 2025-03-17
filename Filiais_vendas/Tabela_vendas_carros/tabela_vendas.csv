@@ -1,0 +1,1001 @@
+ID_CLIENTE,NOME,IDADE,CPF,SEXO,EMAIL,TELEFONE,CIDADE,ESTADO,MARCA_VEICULO,MODELO_VEICULO,ANO_FABRICACAO,COR,VALOR_VENDA,DATA_VENDA,FORMA_PAGAMENTO
+1,Sofia Macedo,27,965.124.730-43,Feminino,joao-gabriel19@example.com,(081) 6412-6677,Câmara de Gonçalves,MA,Ford,EcoSport,2024,Preto,50136.81,2023-09-25,A vista
+2,Lucas Rezende,69,839.240.716-40,Masculino,raul27@example.net,(081) 4955 4252,Pimenta de Goiás,SP,Ford,Ka,2017,Azul,59243.45,2025-02-28,Financiomanto
+3,Alana Camargo,43,341.879.052-60,Feminino,saleslorena@example.org,11 3840-3719,Barros do Oeste,GO,Ford,Ka,2016,Vermelho,114137.67,2024-10-25,Consórcio
+4,Hellena Peixoto,21,794.085.236-10,Feminino,nuneslarissa@example.net,(041) 9166-0074,Barros,GO,Ford,Ka,2019,Branco,56370.2,2023-12-09,A vista
+5,Maria Clara Mendonça,42,903.485.762-00,Feminino,biancafogaca@example.org,+55 (071) 6595 4499,Vasconcelos,AP,Honda,Fit,2015,Branco,94035.69,2025-02-21,Consórcio
+6,Ágatha Rodrigues,51,025.193.864-60,Feminino,cardosovinicius@example.com,(071) 2059 2245,Almeida de Pacheco,GO,Chevrolet,S10,2015,Azul,141349.74,2024-01-14,Leasing
+7,Levi Oliveira,47,839.516.470-00,Masculino,davimoura@example.org,(051) 9026 9707,Pastor,TO,Ford,Ka,2018,Vermelho,135261.53,2023-10-04,Consórcio
+8,Manuella Moura,35,358.904.176-57,Feminino,nfogaca@example.org,(081) 5078-6059,Rodrigues,MS,Honda,HR-V,2020,Preto,194047.72,2023-05-05,A vista
+9,José Miguel Cardoso,46,425.801.397-88,Masculino,kevin69@example.net,0300-852-7234,Novais da Serra,SC,Ford,Ka,2019,Azul,63749.97,2024-11-25,A vista
+10,Antonella Campos,51,346.719.528-82,Feminino,ana-cecilia20@example.com,+55 31 5977-6740,Melo do Norte,RO,Chevrolet,Onix,2018,Preto,60062.36,2023-12-11,Consórcio
+11,Léo da Paz,62,652.138.047-80,Masculino,melissacasa-grande@example.com,+55 (021) 2108 8835,Vieira da Prata,SP,Volkswagem,Gol,2022,Azul,66760.06,2024-09-24,Financiomanto
+12,Júlia Pereira,69,153.469.280-06,Feminino,rcavalcanti@example.net,+55 51 7696 7578,Peixoto das Pedras,ES,Honda,HR-V,2023,Preto,131446.46,2023-10-24,Financiomanto
+13,Bruno Rocha,69,976.410.532-70,Masculino,paparecida@example.com,(031) 6812-5789,da Cunha,MT,Honda,HR-V,2022,Prata,96349.01,2025-02-03,Leasing
+14,Heitor Nascimento,36,291.436.857-73,Masculino,melissa55@example.org,+55 (021) 4917-7216,Cassiano,RJ,Ford,Ranger,2018,Vermelho,53563.54,2023-06-21,A vista
+15,Breno Correia,44,708.195.624-67,Masculino,ravi00@example.com,+55 51 9608 9928,Brito,MA,Volkswagem,T-Cross,2021,Prata,63829.55,2023-05-05,A vista
+16,Brenda Mendonça,25,394.726.085-74,Feminino,gabrielda-cunha@example.com,(021) 6460-4714,Sales do Norte,CE,Honda,HR-V,2018,Prata,59863.74,2024-07-07,Consórcio
+17,Fernando Albuquerque,23,578.301.629-21,Masculino,mcastro@example.com,41 1596 1127,Lopes Verde,SE,Honda,Civic,2023,Azul,157296.58,2024-01-21,A vista
+18,Guilherme Pacheco,69,143.269.875-37,Masculino,stephany23@example.org,+55 (041) 8115 2322,Nogueira Alegre,SE,Chevrolet,S10,2022,Branco,228789.56,2024-12-21,Leasing
+19,Enrico Souza,51,865.749.201-67,Masculino,pereirapietro@example.net,41 4676-7847,das Neves,DF,Chevrolet,Onix,2015,Preto,109389.63,2024-10-21,A vista
+20,Clara Ramos,59,268.573.094-00,Feminino,xgomes@example.com,(061) 1748-5235,Monteiro,SE,Chevrolet,S10,2017,Prata,226516.27,2024-07-31,Consórcio
+21,Maria Eduarda Novaes,37,017.856.492-30,Feminino,isabelly11@example.org,+55 (084) 5189-9768,Moura,GO,Volkswagem,T-Cross,2015,Branco,234849.44,2024-10-31,Consórcio
+22,Vinícius Gonçalves,58,041.792.586-76,Masculino,pietra37@example.org,+55 (011) 0194-3147,Cardoso,ES,Volkswagem,Polo,2017,Preto,225140.22,2023-06-25,Leasing
+23,Emanuella Peixoto,68,294.357.016-80,Feminino,machadopaulo@example.net,21 3794 7042,Rocha das Pedras,PA,Chevrolet,Onix,2021,Branco,238440.77,2023-06-17,A vista
+24,Luiz Gustavo Leão,65,472.956.813-37,Masculino,raul47@example.org,+55 11 0413-0779,da Mata,MA,Ford,EcoSport,2019,Azul,39427.29,2023-08-29,A vista
+25,Maria Liz Siqueira,39,306.579.421-70,Feminino,rhavida-cunha@example.com,(011) 7579-1004,Rocha,AP,Toyota,Yaris,2018,Preto,228574.9,2023-10-15,Leasing
+26,Carlos Eduardo Cardoso,33,195.764.230-07,Masculino,rodrigosiqueira@example.net,+55 71 1041 4612,Vieira,RS,Volkswagem,Polo,2017,Vermelho,201548.46,2023-05-03,Consórcio
+27,Benjamin Mendes,43,927.415.380-50,Masculino,isabelly47@example.com,+55 84 0338-6180,Cirino,ES,Chevrolet,Tracker,2021,Prata,33705.75,2024-10-08,Leasing
+28,Kevin Farias,26,596.327.810-40,Masculino,joao-pedro89@example.org,+55 11 5262 5029,da Mata,SE,Chevrolet,Onix,2023,Branco,175463.96,2024-09-16,A vista
+29,Bernardo Casa Grande,34,920.637.814-78,Masculino,srocha@example.net,81 8759 6881,Albuquerque de Pacheco,AP,Honda,HR-V,2021,Preto,213577.48,2023-09-15,Consórcio
+30,Francisco Albuquerque,48,520.746.138-90,Masculino,amandacampos@example.com,+55 71 8128-5919,Campos de Sales,PA,Chevrolet,S10,2021,Prata,245899.29,2025-02-06,Financiomanto
+31,Gabriela Novais,43,819.603.254-42,Feminino,da-rosaapollo@example.net,+55 51 0109 8305,Barbosa de Sampaio,SC,Ford,Ka,2022,Prata,216149.18,2024-11-01,Financiomanto
+32,Brenda Siqueira,69,369.540.728-00,Feminino,caleboliveira@example.net,71 8731 1544,Casa Grande,MA,Volkswagem,Polo,2016,Azul,209206.74,2024-08-27,Leasing
+33,Thiago Macedo,21,235.608.791-59,Masculino,larissa81@example.com,51 5615 9569,Azevedo,PR,Ford,Ranger,2018,Vermelho,145165.86,2025-01-22,A vista
+34,Gabriela Pastor,18,607.982.431-04,Feminino,maite54@example.com,0800 220 1684,Mendes,ES,Ford,EcoSport,2017,Branco,42801.1,2024-08-30,A vista
+35,Kaique Cirino,21,784.320.195-50,Masculino,da-rosaester@example.net,+55 81 2125 9832,Moreira,PA,Toyota,Hilux,2020,Branco,54669.57,2023-06-25,Leasing
+36,Alice Nogueira,70,230.176.495-80,Feminino,cfreitas@example.net,+55 (081) 4137 0391,Castro,AM,Volkswagem,T-Cross,2023,Azul,131783.11,2024-10-10,Consórcio
+37,José Pedro da Cruz,18,871.530.294-60,Masculino,duarteluigi@example.org,(061) 1725 6412,Mendes,ES,Toyota,Yaris,2023,Branco,146374.46,2023-04-24,Consórcio
+38,Larissa da Cruz,59,230.851.694-15,Feminino,miguel08@example.net,+55 84 3188 7480,Melo,RS,Toyota,Yaris,2015,Prata,30151.11,2024-08-30,Consórcio
+39,Laís da Costa,40,643.892.715-55,Feminino,vbarbosa@example.com,+55 11 9334-3841,Vargas Grande,PA,Ford,Ka,2021,Branco,181118.22,2023-12-12,A vista
+40,Olivia Freitas,67,426.935.710-06,Feminino,gabrielcunha@example.com,+55 71 3801 4530,Câmara do Norte,MA,Chevrolet,Onix,2022,Vermelho,167277.9,2024-08-30,Financiomanto
+41,Mariane Pires,63,749.183.265-28,Feminino,anna-liz71@example.net,81 0865 2721,Marques,MA,Chevrolet,Onix,2023,Prata,138120.83,2024-04-13,Financiomanto
+42,Maria Vitória Monteiro,48,143.869.720-13,Feminino,valentina12@example.com,+55 41 3346 3843,Andrade,SC,Toyota,Corolla,2017,Branco,94242.77,2023-07-10,Leasing
+43,Ryan da Paz,53,725.416.908-94,Masculino,barrosalana@example.org,11 2523-0924,Cirino do Galho,PI,Volkswagem,T-Cross,2016,Azul,137844.4,2023-05-23,Consórcio
+44,Yan Cassiano,60,326.495.817-19,Masculino,guilhermefogaca@example.org,71 9982-5948,Aragão,AC,Honda,Fit,2015,Branco,129080.23,2024-02-11,Leasing
+45,Alícia Lopes,56,347.052.916-70,Feminino,kaiquerocha@example.org,+55 (011) 2901 1595,Barbosa,AC,Honda,Fit,2024,Branco,222961.45,2023-03-23,Financiomanto
+46,Caio Sales,52,627.498.530-10,Masculino,da-rochapaulo@example.com,51 3691 1083,Ribeiro,PI,Chevrolet,S10,2019,Azul,67953.01,2023-10-13,Leasing
+47,Lorenzo Ferreira,19,013.298.657-40,Masculino,clopes@example.net,+55 31 5921-4224,Almeida,MT,Volkswagem,T-Cross,2022,Preto,234568.29,2023-10-07,Consórcio
+48,Vitor Gabriel Freitas,30,384.067.915-00,Masculino,benjamin11@example.org,+55 81 6527 9148,das Neves da Praia,MA,Toyota,Hilux,2023,Prata,245874.4,2024-02-12,Consórcio
+49,Luiz Gustavo Novaes,46,491.362.580-24,Masculino,pcunha@example.net,(051) 6184 6074,Fogaça,SE,Chevrolet,Onix,2015,Vermelho,74432.36,2024-11-12,A vista
+50,Lorenzo Garcia,20,374.285.190-04,Masculino,eduardasouza@example.com,(081) 9361 1987,Oliveira,TO,Ford,Ranger,2015,Azul,188358.72,2023-05-07,Leasing
+51,Rhavi Souza,20,561.920.374-34,Masculino,rafaelsilveira@example.com,+55 71 1511 7849,Costela do Galho,AP,Volkswagem,T-Cross,2019,Preto,198632.12,2024-02-07,A vista
+52,Lucas Cavalcanti,42,071.429.856-58,Masculino,pcassiano@example.com,+55 (041) 0804 6603,Pires das Flores,RS,Chevrolet,S10,2023,Branco,227087.97,2024-06-21,Leasing
+53,Ravy Carvalho,63,723.614.805-90,Masculino,carvalhodavi-lucca@example.org,61 0749 3241,da Mota,BA,Ford,EcoSport,2015,Prata,123513.21,2024-09-23,A vista
+54,Pedro Cavalcante,52,357.968.240-74,Masculino,joao57@example.org,(021) 3577 4696,da Paz,RJ,Honda,Civic,2017,Prata,171066.4,2025-02-02,Leasing
+55,Lucca Azevedo,37,308.946.572-83,Masculino,heloisacamargo@example.org,+55 81 3502 9407,Rocha do Oeste,RS,Chevrolet,S10,2021,Branco,43966.83,2024-08-16,Financiomanto
+56,Bruna Jesus,22,589.426.037-00,Feminino,marcos-vinicius95@example.net,+55 51 7798 9811,Nunes,SP,Toyota,Yaris,2017,Branco,184104.4,2025-02-05,Leasing
+57,João Macedo,30,285.731.694-19,Masculino,da-motalara@example.org,+55 (031) 9274 3132,Monteiro,AL,Ford,EcoSport,2021,Prata,58224.55,2024-10-22,Leasing
+58,Emanuel Porto,32,209.856.413-98,Masculino,ccassiano@example.com,+55 (081) 8631 5717,Macedo da Prata,GO,Chevrolet,Onix,2024,Preto,235204.6,2023-09-11,Leasing
+59,Mariana Dias,70,436.781.205-71,Feminino,santosvitor-hugo@example.net,+55 11 2622-7371,Martins,GO,Ford,Ranger,2019,Vermelho,69127.12,2023-03-21,Financiomanto
+60,Heloisa Garcia,19,328.507.146-07,Feminino,emilly17@example.net,(031) 3533-3417,da Mata de Vieira,RO,Volkswagem,Polo,2017,Azul,166637.16,2023-07-28,Financiomanto
+61,Heloisa Santos,55,093.482.175-50,Feminino,npereira@example.net,+55 (081) 0942 6670,Gomes,SP,Honda,Civic,2020,Azul,243377.23,2025-03-12,Consórcio
+62,Ian Pacheco,34,857.913.624-55,Masculino,fsouza@example.org,0900-778-9978,Aragão das Pedras,SP,Chevrolet,Onix,2024,Vermelho,189132.51,2023-11-12,Financiomanto
+63,Pietro Castro,28,160.427.985-02,Masculino,carvalhovalentina@example.net,31 7296 0438,Aparecida de Minas,PA,Toyota,Corolla,2020,Azul,43534.29,2023-06-09,Consórcio
+64,Pietro Pereira,44,746.091.832-69,Masculino,carolina43@example.net,+55 (081) 5737 3916,Duarte da Mata,AP,Toyota,Corolla,2023,Vermelho,56662.72,2023-12-12,Leasing
+65,Davi Luiz Aragão,23,942.581.670-02,Masculino,julia18@example.net,+55 (051) 9779-4468,Rodrigues,MG,Chevrolet,S10,2017,Branco,230965.15,2024-02-19,Leasing
+66,Maria Gonçalves,41,032.416.975-25,Feminino,maria-alice84@example.com,(031) 0747 5153,Gonçalves do Campo,PA,Toyota,Corolla,2023,Branco,30708.05,2023-10-15,Financiomanto
+67,Joaquim Rezende,61,352.890.416-05,Masculino,jose-pedro93@example.com,+55 81 3213 8419,Ribeiro,PE,Volkswagem,Gol,2019,Azul,220134.89,2024-09-17,Leasing
+68,Nicole Santos,23,172.596.380-95,Feminino,cirinojoao-vitor@example.org,+55 21 5112 2627,Guerra,AL,Volkswagem,Gol,2024,Branco,75705.3,2023-08-27,Financiomanto
+69,Theodoro Carvalho,20,762.358.901-68,Masculino,fbarros@example.org,71 7491 5876,da Paz,PA,Ford,EcoSport,2018,Preto,123538.26,2024-01-15,A vista
+70,Lara Teixeira,53,204.816.579-67,Feminino,cassianoliam@example.com,0300-826-3867,Nunes de Siqueira,SE,Ford,Ka,2021,Branco,215690.04,2023-05-10,Leasing
+71,Rafael Cardoso,67,026.593.714-07,Masculino,tda-cunha@example.net,61 4197-9784,Marques,TO,Volkswagem,Polo,2017,Prata,136909.23,2024-10-13,Consórcio
+72,Davi Luiz Borges,67,531.279.068-03,Masculino,maria-luiza30@example.com,61 6000 8897,Alves,RO,Toyota,Yaris,2018,Vermelho,67973.83,2024-08-02,Financiomanto
+73,Théo Montenegro,64,307.942.186-87,Masculino,emanuel96@example.com,(071) 2643-9888,Cavalcante,PA,Chevrolet,S10,2023,Azul,167487.37,2024-04-30,A vista
+74,Antônio Mendes,34,357.912.046-80,Masculino,novaisisis@example.net,+55 11 7133 7314,Sá Grande,CE,Chevrolet,Tracker,2024,Preto,58807.41,2023-07-29,Leasing
+75,Ana Luiza Vargas,70,539.421.786-64,Feminino,macedoana-carolina@example.org,+55 61 5194-1394,Nascimento,SP,Chevrolet,S10,2019,Preto,222579.52,2024-01-29,Financiomanto
+76,Leandro Ferreira,45,874.916.532-19,Masculino,henry82@example.com,+55 11 1440 4399,Teixeira,PR,Volkswagem,Polo,2019,Prata,68833.55,2023-12-31,Leasing
+77,Maria Júlia Rocha,32,798.146.025-58,Feminino,novaisluiz-otavio@example.com,+55 (051) 0916-5986,Cunha do Campo,RN,Toyota,Yaris,2022,Preto,202420.17,2023-08-11,Leasing
+78,Heitor Nunes,23,039.267.814-40,Masculino,cardososabrina@example.net,0500-112-6001,Gomes,RS,Honda,Civic,2024,Preto,216956.41,2023-08-18,Financiomanto
+79,Gael Rios,65,541.279.830-60,Masculino,ibarros@example.com,(084) 7606 6788,Monteiro,AL,Ford,Ranger,2020,Branco,40718.03,2024-07-26,Leasing
+80,Benicio Vasconcelos,55,145.983.267-19,Masculino,valentimvasconcelos@example.com,+55 (081) 8898-4355,Ferreira Grande,AP,Toyota,Corolla,2022,Preto,220422.95,2023-07-29,A vista
+81,Oliver Pimenta,53,260.143.895-98,Masculino,jesusjose@example.org,61 6864-4721,Garcia,RR,Chevrolet,Onix,2022,Vermelho,127068.48,2023-06-02,A vista
+82,Thales Cardoso,38,405.197.286-02,Masculino,lorenzo78@example.com,0500-868-8823,da Cunha Verde,SE,Ford,Ka,2021,Vermelho,174217.3,2023-06-17,Financiomanto
+83,Ana Júlia da Mata,64,065.947.182-58,Feminino,mouraolivia@example.com,+55 (011) 1842-0821,Oliveira do Campo,PA,Honda,Fit,2022,Prata,155053.01,2024-07-17,Leasing
+84,Cecilia Monteiro,33,920.873.156-12,Feminino,nunespedro@example.org,+55 51 0891 4114,Cavalcante,SC,Honda,Civic,2016,Preto,184345.32,2023-08-25,Leasing
+85,Theo Sales,19,302.641.978-87,Masculino,mateus81@example.net,+55 (021) 7427 9830,Leão das Pedras,PA,Ford,Ka,2020,Preto,130705.02,2023-07-10,Consórcio
+86,Cecília Rezende,60,034.651.829-60,Feminino,sabrina40@example.net,(051) 9316 9243,da Paz,PE,Volkswagem,Gol,2023,Prata,233656.27,2024-07-16,Financiomanto
+87,Juliana Duarte,52,765.941.028-85,Feminino,gcarvalho@example.net,(051) 2905 4251,Montenegro,CE,Toyota,Hilux,2019,Azul,216131.86,2023-05-04,A vista
+88,Antônio Oliveira,27,314.098.762-50,Masculino,isa@example.org,51 2216 4703,Sá de Minas,DF,Volkswagem,Polo,2018,Azul,116443.4,2023-09-24,Leasing
+89,Arthur Aragão,60,571.906.428-11,Masculino,lunnada-costa@example.com,+55 (031) 2783-0837,da Costa de Sá,CE,Honda,Civic,2018,Branco,229967.03,2024-03-01,A vista
+90,Luiz Gustavo Correia,56,856.210.439-60,Masculino,pastorhenry-gabriel@example.org,(061) 8195 1140,Nogueira,PI,Chevrolet,Onix,2019,Prata,156015.4,2024-10-14,Consórcio
+91,Larissa Albuquerque,56,264.357.981-09,Feminino,lucasviana@example.org,(031) 8755-9772,Marques,ES,Toyota,Hilux,2016,Prata,191762.38,2024-06-01,Leasing
+92,Guilherme Sá,57,564.721.398-73,Masculino,rhavi97@example.com,61 6441 4074,Marques,PB,Toyota,Hilux,2015,Preto,119704.84,2024-01-02,Consórcio
+93,Marcela Nunes,39,624.791.085-11,Feminino,asilva@example.com,+55 (071) 3081 7448,Barros da Praia,PR,Chevrolet,S10,2023,Azul,144104.51,2023-11-22,Leasing
+94,Maitê Nascimento,19,863.429.715-28,Feminino,maitecaldeira@example.net,(031) 4797 3246,da Luz,GO,Chevrolet,Tracker,2017,Branco,73586.39,2025-01-21,Leasing
+95,Gabrielly Guerra,28,759.164.820-94,Feminino,theovasconcelos@example.net,21 3731-3793,Borges dos Dourados,RO,Chevrolet,Onix,2021,Azul,194284.42,2023-11-01,Consórcio
+96,Anthony Martins,49,385.947.206-29,Masculino,jvieira@example.com,+55 51 4344 7408,Abreu,AP,Ford,Ka,2017,Azul,159738.63,2024-09-19,Leasing
+97,Pedro Lucas Sousa,43,584.706.912-01,Masculino,carvalhoalicia@example.net,(084) 8321 4891,Farias,ES,Toyota,Yaris,2017,Azul,64161.43,2024-02-06,Consórcio
+98,Maria Luísa Jesus,40,154.206.987-49,Feminino,ffernandes@example.org,(081) 6609 0959,Cunha,BA,Ford,Ranger,2018,Branco,39480.79,2024-08-29,Consórcio
+99,Francisco Pinto,18,634.082.157-07,Masculino,abreumaria-eduarda@example.net,(084) 6838-7418,Moura,MG,Ford,EcoSport,2017,Branco,62962.87,2023-05-08,Consórcio
+100,Otávio Barros,20,723.690.518-68,Masculino,ualbuquerque@example.org,84 0514 7540,Câmara,SE,Volkswagem,Gol,2024,Branco,189742.85,2024-10-12,Leasing
+101,Ágatha da Mata,25,234.501.876-35,Feminino,vferreira@example.com,+55 81 4099-5475,da Mata,PE,Volkswagem,T-Cross,2018,Prata,140102.32,2023-04-04,Financiomanto
+102,Théo Vieira,41,978.014.235-50,Masculino,erickmoura@example.org,+55 21 1032-8981,Nascimento,MA,Ford,Ka,2023,Vermelho,117312.44,2023-07-04,Financiomanto
+103,José Pedro Montenegro,23,678.245.093-38,Masculino,noah98@example.com,(011) 7707-8924,Aragão do Galho,PR,Toyota,Hilux,2016,Azul,33693.67,2024-09-05,A vista
+104,João da Mota,51,725.908.613-03,Masculino,jose-miguel26@example.net,(031) 3780 5820,Gonçalves,AM,Ford,Ka,2022,Azul,141087.86,2023-09-02,Financiomanto
+105,Valentim da Mata,40,123.987.654-82,Masculino,luanaporto@example.org,0800-357-5169,Correia,ES,Ford,EcoSport,2023,Azul,123156.01,2025-02-19,Financiomanto
+106,Ana Mendes,19,321.460.975-07,Feminino,santosemanuella@example.org,(031) 2405 9822,Azevedo da Prata,RS,Toyota,Corolla,2017,Azul,55258.68,2024-12-21,Financiomanto
+107,Gael Henrique Macedo,39,725.913.648-00,Masculino,jose-pedrosa@example.com,(031) 1730-0332,Viana do Norte,ES,Chevrolet,Tracker,2022,Prata,52736.79,2024-12-19,Consórcio
+108,Ian Ferreira,69,321.658.970-68,Masculino,cfogaca@example.com,51 9657 2482,Câmara,AP,Honda,HR-V,2020,Branco,68950.09,2023-06-23,Leasing
+109,Davi Lucas Caldeira,61,392.068.475-38,Masculino,sajose@example.net,+55 (061) 0347 9634,Ferreira de Gomes,RN,Volkswagem,Gol,2017,Preto,99678.68,2023-10-27,Leasing
+110,Nina Moreira,65,015.487.236-90,Feminino,ana-sophiapimenta@example.com,+55 31 9396 8238,Mendonça,AL,Ford,EcoSport,2018,Azul,67901.75,2023-05-28,Leasing
+111,Luara Farias,46,063.172.584-90,Feminino,gael-henriquecaldeira@example.org,+55 (084) 4474-4867,Mendes Alegre,SE,Ford,EcoSport,2019,Vermelho,187743.91,2024-05-07,Financiomanto
+112,Lívia Teixeira,33,145.630.728-26,Feminino,pintoester@example.com,+55 (051) 7393 8311,Alves,RJ,Volkswagem,Gol,2017,Preto,47955.03,2023-11-30,A vista
+113,Otávio Pereira,45,765.291.048-01,Masculino,benjamim23@example.org,81 6930 0979,Araújo de Andrade,BA,Chevrolet,Tracker,2016,Prata,141219.97,2023-07-21,Consórcio
+114,Isaac Cirino,27,596.012.478-58,Masculino,juanda-cunha@example.net,(021) 6659 7927,Rios de Sales,RJ,Toyota,Corolla,2022,Vermelho,196012.03,2024-12-05,Financiomanto
+115,Lucas da Paz,22,201.687.945-94,Masculino,ana78@example.com,+55 51 1215 8969,Rios,AM,Chevrolet,Onix,2015,Azul,68770.63,2023-12-20,A vista
+116,Sophia Costela,46,351.468.207-08,Feminino,sofia05@example.net,(084) 4574 6427,Albuquerque,SE,Chevrolet,S10,2019,Branco,52027.41,2023-05-11,A vista
+117,Laura Marques,26,158.463.079-57,Feminino,ana-beatriz63@example.net,+55 (061) 3214-6738,Silva do Campo,TO,Honda,Civic,2015,Azul,45072.68,2024-01-12,Financiomanto
+118,Fernanda Cunha,47,152.308.794-32,Feminino,luiz-miguel14@example.com,+55 71 6202-1573,da Costa de Freitas,SP,Ford,EcoSport,2023,Azul,176515.15,2023-11-30,Consórcio
+119,Vitor Gabriel Costa,50,781.594.206-76,Masculino,macedoluiz-henrique@example.net,31 4777-6927,Oliveira,MT,Toyota,Corolla,2018,Prata,51835.9,2024-09-21,Consórcio
+120,Ian Lopes,36,481.260.579-20,Masculino,monteiroemilly@example.com,+55 61 1977 3475,Aragão do Oeste,PA,Chevrolet,Tracker,2020,Prata,203635.38,2024-02-19,Financiomanto
+121,Anthony Gabriel Fogaça,35,781.654.209-76,Masculino,maria-lizsilva@example.com,51 3060 9317,Fonseca,PR,Toyota,Hilux,2020,Branco,105985.7,2023-10-02,Consórcio
+122,Larissa Abreu,49,097.281.453-14,Feminino,hellena67@example.net,+55 (041) 4169-4646,Pacheco,PB,Toyota,Hilux,2022,Prata,48781.42,2024-07-29,Financiomanto
+123,Asafe Ferreira,64,615.498.023-05,Masculino,ana58@example.com,+55 41 3409-6853,da Paz de Viana,MG,Volkswagem,T-Cross,2024,Vermelho,96924.62,2024-08-14,Consórcio
+124,Brayan Alves,56,271.983.450-50,Masculino,cassianoluara@example.org,+55 21 1665 8472,Albuquerque Paulista,RJ,Chevrolet,Onix,2016,Vermelho,30543.41,2024-06-04,A vista
+125,Luana Ramos,23,427.985.316-91,Feminino,yuri27@example.net,0500 377 9508,Oliveira da Prata,AC,Chevrolet,Tracker,2019,Branco,247284.08,2023-11-27,Leasing
+126,Ian Pinto,23,694.215.703-16,Masculino,icostela@example.com,51 2691 7834,Sá das Flores,AP,Chevrolet,S10,2022,Azul,213999.99,2024-11-05,Leasing
+127,Kaique Pires,50,659.481.273-46,Masculino,oliver82@example.org,+55 31 0826-1391,Aparecida do Galho,RJ,Chevrolet,S10,2021,Azul,154113.49,2023-06-03,Financiomanto
+128,Ana Julia Marques,40,984.037.612-87,Feminino,murilovasconcelos@example.com,+55 (081) 1888 5116,Costela Grande,MA,Chevrolet,Onix,2019,Branco,239027.78,2023-08-11,Financiomanto
+129,Rodrigo Marques,42,205.941.367-25,Masculino,cassianohelena@example.org,+55 41 8584 0594,Fernandes,AC,Honda,Fit,2016,Prata,41229.63,2024-08-28,Consórcio
+130,Maria Luísa Cunha,57,085.791.643-20,Feminino,pimentavinicius@example.net,+55 (071) 8225-8994,Gonçalves Verde,PR,Toyota,Yaris,2024,Prata,188739.21,2023-11-22,Financiomanto
+131,Lucas Cirino,65,349.170.528-23,Masculino,luiz-otavioalbuquerque@example.net,51 4483 0116,Rios do Galho,RO,Ford,Ranger,2018,Prata,220153.5,2024-03-04,Consórcio
+132,Rael Fogaça,34,850.746.921-30,Masculino,maria-clarafonseca@example.org,(084) 8323 5478,Dias da Serra,SP,Volkswagem,Polo,2016,Vermelho,201190.76,2023-09-11,A vista
+133,Juan Lopes,49,964.087.512-02,Masculino,nogueirathales@example.org,+55 (084) 8128-4765,Ferreira,GO,Ford,Ka,2019,Vermelho,174692.2,2024-12-09,Consórcio
+134,João Guilherme Barbosa,33,865.140.729-76,Masculino,danteda-paz@example.com,+55 (084) 2966-2691,Novais,TO,Toyota,Yaris,2019,Preto,128127.1,2024-11-07,Leasing
+135,João Vitor Moraes,59,617.329.548-28,Masculino,xda-conceicao@example.net,11 0979-7628,Camargo,ES,Volkswagem,T-Cross,2017,Preto,163627.24,2023-04-13,Leasing
+136,Aurora Lima,70,517.960.432-06,Feminino,esousa@example.com,+55 61 7625 0099,Almeida dos Dourados,RO,Volkswagem,Polo,2022,Prata,231102.22,2024-11-14,Leasing
+137,Luana Caldeira,21,531.096.427-43,Feminino,gpeixoto@example.org,(011) 9096 6836,Abreu de Silveira,AL,Chevrolet,S10,2024,Azul,186231.97,2023-04-21,Consórcio
+138,Stephany Dias,18,431.982.506-33,Feminino,pgomes@example.org,+55 (031) 2144-7563,Macedo do Galho,RJ,Honda,Fit,2021,Prata,159580.99,2023-10-04,Leasing
+139,Marina Cunha,69,349.861.572-64,Feminino,tsiqueira@example.com,+55 (041) 4898-7580,Novaes de Montenegro,CE,Honda,Civic,2023,Prata,179269.86,2024-03-17,Consórcio
+140,Luiz Gustavo da Luz,41,487.621.903-69,Masculino,stellaferreira@example.org,(051) 2225-4236,Rios de Aparecida,GO,Chevrolet,S10,2021,Vermelho,61097.78,2025-02-06,Financiomanto
+141,João Guilherme Pereira,34,075.682.914-30,Masculino,ncassiano@example.org,0800 998 9674,Rocha,SP,Toyota,Hilux,2024,Preto,163341.14,2024-06-04,A vista
+142,Lucca Santos,43,398.610.475-57,Masculino,kmarques@example.net,+55 (084) 9954-6439,Viana Alegre,AP,Toyota,Hilux,2023,Azul,67997.84,2024-10-18,Leasing
+143,Isaque Fernandes,34,132.069.854-98,Masculino,knovais@example.org,0800 969 4026,Leão dos Dourados,ES,Ford,Ranger,2021,Vermelho,180564.83,2025-02-28,Leasing
+144,Nathan Rocha,43,153.709.426-25,Masculino,joao48@example.org,+55 31 2216-7972,Melo,BA,Ford,EcoSport,2019,Azul,82885.01,2024-10-06,Financiomanto
+145,Otto Cirino,31,295.037.148-50,Masculino,raelda-cunha@example.com,81 5260-6242,Moraes,PI,Honda,HR-V,2017,Azul,167770.19,2023-04-12,A vista
+146,Ana Cecília Gomes,62,418.253.079-97,Feminino,oliveirahenry@example.org,(084) 9603-5898,Machado,PA,Toyota,Hilux,2020,Preto,101061.38,2024-05-11,A vista
+147,Rafael Marques,56,594.726.830-29,Masculino,vitor-gabriel67@example.org,21 4527-0416,Moraes Alegre,MS,Chevrolet,Onix,2016,Azul,244198.39,2023-03-26,Consórcio
+148,Sophie Viana,39,572.986.043-92,Feminino,barrosluiz-miguel@example.net,+55 (071) 0498 7619,Lopes,MG,Toyota,Yaris,2017,Azul,189930.9,2024-02-21,A vista
+149,Luan Novais,50,329.071.845-04,Masculino,maria26@example.net,+55 84 2203 4404,Leão de Costa,GO,Honda,HR-V,2016,Azul,193501.86,2023-09-24,Leasing
+150,Otávio Martins,43,165.823.749-82,Masculino,abreuleonardo@example.org,11 1012 3326,Andrade da Serra,AL,Ford,Ka,2021,Preto,31685.43,2024-12-30,A vista
+151,Camila Alves,47,654.370.128-53,Feminino,sophia84@example.com,+55 41 4395 4596,Vieira de Vieira,DF,Toyota,Yaris,2021,Vermelho,92565.49,2024-06-07,Financiomanto
+152,Henry Gabriel Moura,26,738.069.142-22,Masculino,ycarvalho@example.net,(011) 0340-2339,Barbosa de Gonçalves,PE,Volkswagem,T-Cross,2018,Azul,44862.67,2023-10-26,Consórcio
+153,Gael Viana,32,517.849.032-05,Masculino,costatheodoro@example.org,(081) 0808-7466,Marques,SE,Honda,Civic,2023,Azul,238987.18,2023-10-15,Consórcio
+154,Caroline Sampaio,49,601.748.325-08,Feminino,raquel76@example.org,(084) 5691 8189,Porto,SE,Toyota,Corolla,2023,Prata,198650.07,2023-04-09,Financiomanto
+155,Sophie da Mata,46,980.516.723-21,Feminino,cassianoana-julia@example.com,+55 84 4744-5204,Moreira Grande,RN,Ford,EcoSport,2021,Prata,156217.62,2024-11-22,Leasing
+156,Valentim da Rosa,63,638.175.249-19,Masculino,agatha15@example.net,0500-390-1434,Cavalcante de Goiás,GO,Chevrolet,S10,2021,Prata,183619.02,2024-02-19,Consórcio
+157,Alexandre Mendonça,51,935.607.814-93,Masculino,luiz-miguelferreira@example.net,+55 81 7953-1272,Martins de Ribeiro,CE,Ford,Ka,2020,Preto,87780.17,2025-02-08,Leasing
+158,Francisco Pacheco,33,536.920.471-34,Masculino,duartezoe@example.org,+55 21 0868-8067,Moreira,MG,Volkswagem,Gol,2022,Preto,167286.56,2024-01-23,A vista
+159,Maya Cavalcante,45,714.960.582-67,Feminino,tmachado@example.org,+55 (071) 7882 7670,Aragão,DF,Toyota,Corolla,2021,Azul,119243.42,2023-10-24,A vista
+160,Enzo Gabriel Jesus,36,195.830.724-60,Masculino,maria-fernandadas-neves@example.org,(051) 9655-4039,Vargas das Pedras,RO,Honda,Civic,2017,Branco,34401.41,2023-08-07,Financiomanto
+161,Ana Julia Ramos,23,816.349.052-70,Feminino,mariah38@example.org,(021) 8978 1921,Pereira,MA,Ford,Ka,2021,Azul,200434.16,2023-07-06,A vista
+162,Guilherme Lima,64,321.479.058-79,Masculino,thiago91@example.org,+55 21 2144 6045,Oliveira,PB,Chevrolet,Onix,2023,Branco,231778.02,2024-11-16,Consórcio
+163,Ryan Macedo,32,613.278.495-00,Masculino,vcorreia@example.org,(021) 2238 3750,Novais,MS,Chevrolet,Onix,2017,Azul,92523.4,2023-12-03,Consórcio
+164,Diogo Monteiro,48,453.902.671-25,Masculino,joao-pedro11@example.net,(084) 0371-4689,Siqueira,PA,Honda,Civic,2017,Vermelho,115377.3,2023-06-20,Financiomanto
+165,Raquel Leão,62,792.685.104-30,Feminino,pereirahadassa@example.org,(011) 7186 0482,Pereira Paulista,SP,Toyota,Hilux,2022,Preto,229513.38,2024-01-08,Leasing
+166,Alícia Lima,64,627.418.593-37,Feminino,camposbento@example.com,0500 170 2975,da Paz,AC,Chevrolet,Tracker,2016,Preto,243134.62,2023-09-28,A vista
+167,Ana Sophia Cassiano,35,598.327.041-97,Feminino,valentinaalves@example.net,+55 61 9972-3058,Nascimento,TO,Volkswagem,Gol,2016,Azul,194714.59,2024-09-16,Leasing
+168,Gabriela Alves,26,365.712.098-02,Feminino,wnogueira@example.org,84 2910-0797,Moreira Paulista,CE,Ford,EcoSport,2020,Vermelho,34117.6,2023-10-16,Leasing
+169,Pedro Macedo,45,398.610.725-86,Masculino,yanteixeira@example.org,(011) 7815 8843,Moura de Goiás,DF,Chevrolet,S10,2019,Prata,109755.03,2025-01-16,Consórcio
+170,Caroline Oliveira,33,753.218.469-28,Feminino,halves@example.com,41 4533-2259,Machado,SP,Volkswagem,T-Cross,2020,Preto,45374.19,2025-01-10,Financiomanto
+171,Benício da Conceição,40,068.321.594-98,Masculino,jose63@example.com,+55 84 0772-2044,Mendonça do Sul,RR,Honda,Fit,2024,Preto,98192.02,2023-04-18,A vista
+172,Vicente Costa,67,046.128.379-40,Masculino,maya23@example.com,+55 61 6495-7942,Teixeira,AP,Chevrolet,Onix,2021,Vermelho,110200.34,2024-04-02,Financiomanto
+173,Nicole Costa,36,806.743.915-00,Feminino,maysa42@example.com,+55 81 9045-4998,Cardoso dos Dourados,PB,Volkswagem,Polo,2017,Vermelho,241982.3,2023-08-30,Leasing
+174,Gael Henrique Pacheco,47,719.064.532-25,Masculino,vcosta@example.org,11 0448 4128,da Rosa do Amparo,AM,Toyota,Hilux,2024,Vermelho,175702.57,2024-12-18,A vista
+175,Bella da Mata,35,045.289.163-98,Feminino,raqueljesus@example.com,84 3872-8802,Novaes,DF,Honda,HR-V,2023,Prata,150250.4,2023-08-19,Leasing
+176,Lucca Souza,64,437.985.062-56,Masculino,rda-rosa@example.org,84 3993-4349,Rios,AL,Volkswagem,Gol,2021,Prata,196967.03,2024-05-10,Consórcio
+177,João Vitor Caldeira,63,854.921.376-46,Masculino,danielda-cunha@example.net,(061) 2158 5655,Peixoto Verde,BA,Volkswagem,Gol,2017,Prata,39470.56,2023-11-22,Leasing
+178,Maria Cecília Vargas,29,297.863.401-40,Feminino,kevin24@example.net,(081) 6402 8638,Pires,MT,Chevrolet,S10,2024,Preto,151406.44,2023-03-28,A vista
+179,Gustavo Henrique Ribeiro,43,869.051.432-51,Masculino,castromurilo@example.net,31 8817-0375,Nogueira,MT,Toyota,Corolla,2016,Preto,60903.37,2024-07-19,Financiomanto
+180,Milena Sousa,68,837.059.162-03,Feminino,maysa55@example.net,(041) 6106 4366,Duarte do Oeste,PA,Volkswagem,Polo,2016,Prata,58137.37,2024-10-28,Financiomanto
+181,Rodrigo Sampaio,57,927.043.158-41,Masculino,sophiecarvalho@example.org,31 6124-5804,Mendonça da Praia,SC,Chevrolet,Tracker,2020,Prata,135057.4,2023-09-20,A vista
+182,Catarina Sampaio,34,430.728.956-00,Feminino,vmachado@example.net,+55 61 4490-2417,Rezende de Ferreira,DF,Volkswagem,Gol,2016,Azul,58452.48,2023-10-29,Leasing
+183,Antonella Pacheco,61,189.054.726-30,Feminino,gda-rocha@example.net,(011) 1015 0875,Guerra do Oeste,RS,Chevrolet,Tracker,2020,Prata,85271.3,2023-11-09,A vista
+184,Maria Liz Nascimento,32,932.506.174-07,Feminino,jnascimento@example.net,+55 21 2422-7490,Mendes Verde,MS,Honda,Fit,2021,Azul,134342.42,2024-09-14,Financiomanto
+185,Letícia Porto,47,439.278.065-10,Feminino,silvaana@example.org,+55 (071) 2751-3988,Sá Grande,PR,Chevrolet,S10,2024,Branco,151212.1,2023-06-30,Leasing
+186,Luiz Miguel Pimenta,63,187.420.693-78,Masculino,agatha87@example.net,+55 71 6970 3128,Santos,DF,Volkswagem,Gol,2021,Branco,38374.45,2023-11-09,Leasing
+187,Marcela da Conceição,20,841.573.096-93,Feminino,duarteisabelly@example.net,(041) 8733 9754,Sales,TO,Chevrolet,Tracker,2016,Vermelho,188384.2,2024-03-04,A vista
+188,Raquel Melo,29,091.463.275-25,Feminino,riosisaac@example.net,(051) 5937 0187,Almeida das Flores,MT,Chevrolet,Tracker,2016,Preto,191325.25,2023-06-28,Consórcio
+189,Breno Porto,41,935.017.428-60,Masculino,luiz-henriquerios@example.org,+55 61 7864 8151,Fonseca,ES,Toyota,Yaris,2016,Preto,124039.09,2024-09-05,Leasing
+190,Yan da Rosa,42,056.438.792-47,Masculino,mirella42@example.org,+55 (081) 6044 1921,Macedo Verde,SC,Honda,Fit,2018,Prata,114792.22,2024-05-17,Leasing
+191,Ana Clara Vargas,60,234.697.081-69,Feminino,mathias92@example.com,+55 41 7593 6768,Pacheco da Prata,SC,Chevrolet,Onix,2019,Azul,154477.71,2023-08-27,Consórcio
+192,Léo Oliveira,61,052.347.961-16,Masculino,alicerocha@example.net,+55 81 0533-3320,Almeida de Novaes,PB,Chevrolet,S10,2022,Prata,191556.41,2025-02-11,A vista
+193,Isabela Macedo,36,345.617.809-39,Feminino,kevin28@example.com,+55 (031) 4068-9495,Teixeira Alegre,SP,Volkswagem,Gol,2015,Azul,56047.67,2024-11-18,Financiomanto
+194,Pietro da Conceição,35,257.908.346-47,Masculino,henry-gabrielda-rosa@example.org,(051) 7731-4611,Fonseca,AL,Honda,Fit,2024,Preto,133784.17,2024-08-01,Leasing
+195,Isadora Câmara,70,481.350.267-90,Feminino,marina12@example.com,+55 51 3490 7565,Macedo Grande,MT,Volkswagem,Gol,2017,Vermelho,117998.96,2023-09-05,A vista
+196,Ana Clara da Paz,27,512.397.684-19,Feminino,novaislorenzo@example.com,(084) 3736-5269,Rezende de Melo,AL,Chevrolet,Onix,2024,Azul,183588.39,2023-04-24,Leasing
+197,Augusto Araújo,36,834.295.071-97,Masculino,qfonseca@example.org,+55 81 8616-2168,Cardoso,AC,Toyota,Hilux,2017,Preto,64476.23,2024-09-01,Financiomanto
+198,Otto Silva,21,981.045.237-32,Masculino,dsantos@example.org,+55 (021) 6796 6571,Almeida,MG,Chevrolet,Tracker,2023,Branco,40861.28,2024-07-05,Consórcio
+199,Isaque Macedo,51,840.391.526-89,Masculino,peixotoenrico@example.com,31 7186 1494,da Rocha de Minas,SP,Volkswagem,Polo,2023,Prata,76849.48,2023-07-31,Financiomanto
+200,Kevin Rocha,40,614.982.507-85,Masculino,lara83@example.com,61 1275-2700,Fogaça,DF,Chevrolet,Tracker,2019,Prata,186822.6,2024-08-09,Leasing
+201,Stella Caldeira,25,589.361.204-33,Feminino,murilo19@example.net,81 7306-2687,Pacheco de da Mota,BA,Chevrolet,Onix,2015,Vermelho,220514.91,2023-10-14,A vista
+202,Lavínia Caldeira,30,520.896.714-67,Feminino,macedodavi-luiz@example.net,+55 81 8000-2972,Rocha,RN,Chevrolet,Tracker,2017,Branco,120569.36,2023-08-12,Consórcio
+203,Isabella Ramos,43,401.598.732-23,Feminino,vargasjoao-guilherme@example.com,+55 (051) 4548 3101,da Cunha de Vieira,PR,Chevrolet,Onix,2016,Prata,192400.9,2024-01-17,A vista
+204,Raquel Santos,58,802.357.641-08,Feminino,mleao@example.net,(041) 2264 4745,Vieira de Minas,GO,Volkswagem,T-Cross,2016,Prata,69336.71,2023-08-17,Consórcio
+205,Maria Isis Marques,50,261.408.739-40,Feminino,pietraribeiro@example.org,(071) 1029-7634,Melo do Galho,MS,Ford,EcoSport,2017,Prata,31097.49,2023-04-24,Leasing
+206,Kamilly Pastor,61,304.781.592-50,Feminino,valentimcostela@example.net,+55 51 8986 5068,da Cruz da Serra,SC,Toyota,Yaris,2023,Preto,68000.38,2023-08-18,Financiomanto
+207,Dom Gonçalves,21,423.916.578-46,Masculino,glima@example.net,+55 51 0689 3547,Nogueira,AL,Honda,Civic,2022,Azul,44766.3,2025-02-04,Financiomanto
+208,Apollo Mendonça,31,209.418.536-24,Masculino,alexia67@example.com,(011) 0382-2734,Freitas,AP,Volkswagem,T-Cross,2024,Preto,247865.04,2024-11-05,Consórcio
+209,Nicolas Monteiro,59,739.582.164-55,Masculino,teixeiranathan@example.org,+55 (061) 3503-7814,Oliveira,MT,Honda,HR-V,2020,Vermelho,105302.76,2023-12-23,Consórcio
+210,Mirella Novaes,61,894.321.506-15,Feminino,cecilia57@example.org,+55 (061) 9057 5168,Rocha Paulista,MT,Honda,Fit,2022,Azul,34024.46,2023-08-13,Financiomanto
+211,Laura Sales,25,721.385.049-05,Feminino,brendasilva@example.net,+55 11 6597 0816,Montenegro de Fogaça,SP,Chevrolet,S10,2017,Branco,105357.28,2025-02-22,Consórcio
+212,Ísis Cavalcanti,39,038.197.524-04,Feminino,sarhavi@example.org,61 3374-2854,Cardoso,AC,Volkswagem,T-Cross,2021,Prata,163242.92,2024-01-31,Consórcio
+213,Laís Silva,41,458.260.931-70,Feminino,freitasarthur-gabriel@example.net,+55 (021) 5719 9565,Marques,RS,Toyota,Yaris,2018,Preto,154681.6,2025-02-10,Consórcio
+214,Pedro Henrique Cassiano,33,645.371.829-46,Masculino,luiz-fernando85@example.net,(061) 3161 8242,Gomes,ES,Toyota,Yaris,2019,Preto,77185.37,2024-03-27,Financiomanto
+215,Ísis da Costa,48,591.827.306-95,Feminino,sarah69@example.org,+55 51 8760 1001,Ribeiro do Amparo,PI,Chevrolet,S10,2024,Prata,123179.08,2023-10-26,Leasing
+216,Brayan Barbosa,62,289.560.734-65,Masculino,rafaelacasa-grande@example.com,+55 (011) 6104 9070,Santos,PE,Ford,Ranger,2017,Azul,51652.38,2024-04-09,Consórcio
+217,Vitor Gabriel Teixeira,70,962.358.170-02,Masculino,rnogueira@example.net,+55 51 0540 9189,Dias Verde,SC,Volkswagem,Polo,2024,Branco,202175.11,2023-10-24,Consórcio
+218,Renan Pinto,69,792.345.061-70,Masculino,noahpereira@example.net,(041) 4779-4137,Pinto das Pedras,PA,Toyota,Corolla,2019,Azul,151974.56,2023-10-07,Consórcio
+219,Dante da Cruz,53,387.541.926-09,Masculino,vinicius27@example.net,51 3477 1752,Aragão das Flores,PA,Volkswagem,Polo,2021,Preto,177002.55,2024-08-23,Financiomanto
+220,Maria Alice Farias,57,167.025.893-95,Feminino,novaisdaniela@example.com,(021) 1803 6264,Azevedo,RO,Chevrolet,Onix,2017,Vermelho,124595.61,2025-01-24,A vista
+221,Erick Guerra,55,630.759.482-92,Masculino,yasmin33@example.net,0800-869-6729,da Conceição,AL,Honda,Civic,2024,Vermelho,191227.22,2023-05-13,Leasing
+222,Caroline Silva,29,704.865.213-62,Feminino,julia75@example.org,81 8940 8696,da Luz,SC,Toyota,Corolla,2017,Prata,122482.57,2024-07-27,Financiomanto
+223,Maria Eduarda Garcia,49,512.409.637-34,Feminino,ana-vitoria80@example.com,(041) 0429 9670,Alves do Oeste,PB,Ford,EcoSport,2017,Vermelho,239926.71,2023-06-03,Financiomanto
+224,Ana Liz Rocha,46,602.759.843-38,Feminino,rafaelnovais@example.com,(031) 5396-8819,Macedo,RO,Chevrolet,Onix,2016,Branco,192831.14,2024-02-22,A vista
+225,Lorenzo Cirino,38,295.407.138-97,Masculino,rodriguesvitor-gabriel@example.net,+55 (021) 2038-8632,Silveira,MT,Chevrolet,Tracker,2018,Preto,172399.15,2023-06-17,Financiomanto
+226,Ana Júlia Fernandes,44,153.289.074-50,Feminino,zramos@example.org,+55 41 0739-6411,Marques de Pereira,DF,Chevrolet,S10,2021,Azul,144606.06,2024-05-08,Leasing
+227,Bruna Montenegro,29,570.836.241-35,Feminino,lauramendonca@example.com,+55 21 4438 7568,Santos,PE,Volkswagem,T-Cross,2022,Vermelho,153493.02,2023-12-22,Financiomanto
+228,Heitor Lima,45,905.812.437-14,Masculino,davimoreira@example.net,(011) 0576 7067,Fernandes de Minas,RJ,Ford,Ka,2017,Prata,182286.48,2023-09-18,Leasing
+229,Júlia Teixeira,38,914.562.078-49,Feminino,andre09@example.net,+55 (071) 0714-3529,Porto,SE,Honda,Civic,2018,Preto,84727.61,2023-12-03,Financiomanto
+230,Isabela Jesus,41,123.940.576-61,Feminino,lmartins@example.net,+55 84 7899-2436,da Mota,AM,Volkswagem,T-Cross,2016,Prata,118945.62,2024-08-26,Consórcio
+231,Luana Costela,48,396.501.847-75,Feminino,gaelguerra@example.org,+55 (031) 5132-0685,Nogueira,MG,Honda,Civic,2015,Preto,140964.33,2024-02-29,A vista
+232,Gabriel Nogueira,57,473.102.958-97,Masculino,zcamara@example.com,+55 84 7378-0014,Rezende de Rios,RS,Toyota,Yaris,2017,Branco,128602.17,2025-02-06,Leasing
+233,Bryan da Cruz,47,764.351.982-09,Masculino,avasconcelos@example.com,(084) 8164 9359,das Neves dos Dourados,PA,Honda,Fit,2017,Preto,237228.0,2024-02-10,Financiomanto
+234,Anthony Alves,43,451.260.938-51,Masculino,luiz-henrique38@example.net,(084) 3377-4031,Peixoto do Amparo,TO,Toyota,Hilux,2022,Preto,184832.07,2024-08-20,Leasing
+235,Marina Sá,57,364.219.570-99,Feminino,heloisa69@example.org,+55 61 5537 1884,Gonçalves,CE,Volkswagem,Polo,2016,Prata,246061.03,2023-12-28,Leasing
+236,Ana Cecília Melo,45,043.652.897-56,Feminino,raquel62@example.net,(084) 9223-9022,Almeida,MS,Ford,Ranger,2017,Azul,50046.09,2024-12-18,Leasing
+237,Pedro Henrique Araújo,40,712.349.650-70,Masculino,silveiraluiz-henrique@example.net,+55 (084) 9961-2336,Sá dos Dourados,MT,Chevrolet,S10,2022,Vermelho,177732.79,2024-09-02,A vista
+238,Antônio Araújo,25,264.039.587-47,Masculino,yguerra@example.org,(071) 3231-2489,Duarte,RN,Volkswagem,T-Cross,2023,Preto,108262.19,2023-07-20,Leasing
+239,Hellena Campos,50,952.834.167-55,Feminino,valentinada-mata@example.com,+55 21 9807-5759,Teixeira,MA,Toyota,Hilux,2022,Vermelho,155534.46,2024-01-18,Leasing
+240,Kamilly Camargo,70,723.159.406-99,Feminino,lara74@example.com,(071) 1991-1846,Moura do Norte,AL,Ford,Ka,2017,Preto,59842.3,2024-01-30,Financiomanto
+241,Pedro Rodrigues,26,852.763.041-90,Masculino,ysouza@example.com,+55 11 4722-7091,da Conceição da Serra,AP,Volkswagem,T-Cross,2021,Prata,223703.4,2024-01-13,Consórcio
+242,Theo Mendonça,34,471.823.659-28,Masculino,xda-rocha@example.net,41 6966 5893,Viana,PE,Ford,Ka,2017,Prata,187030.75,2025-02-06,Leasing
+243,Pietro Carvalho,41,893.104.562-05,Masculino,sousamathias@example.net,0800 461 6790,Duarte da Serra,AP,Volkswagem,Polo,2018,Branco,229607.93,2024-03-08,A vista
+244,João Felipe Sales,39,472.395.108-32,Masculino,rafaelaalves@example.org,41 4882-5794,da Costa Paulista,DF,Chevrolet,Tracker,2024,Preto,185256.93,2023-12-08,Consórcio
+245,Luara das Neves,30,760.132.495-80,Feminino,orodrigues@example.org,+55 81 1049 5255,Camargo de Goiás,MA,Toyota,Hilux,2021,Preto,135043.04,2023-06-03,Consórcio
+246,Yago Silva,69,231.687.059-77,Masculino,rda-conceicao@example.org,(081) 0568 4829,Pimenta da Praia,PR,Ford,EcoSport,2020,Prata,130572.42,2023-09-07,Consórcio
+247,Agatha Novais,67,490.276.815-11,Feminino,azevedohenry@example.com,(081) 8925 2377,Araújo,MA,Toyota,Corolla,2020,Branco,68273.08,2024-04-26,Financiomanto
+248,Mirella Marques,66,901.253.768-12,Feminino,da-motaantony@example.net,+55 (084) 4908-6123,Sales,SP,Chevrolet,S10,2022,Preto,31596.46,2023-12-17,Consórcio
+249,João Miguel Casa Grande,65,725.406.981-58,Masculino,alexandre61@example.com,0800-220-1636,Gomes,MS,Ford,Ranger,2020,Azul,133494.24,2023-05-18,Consórcio
+250,Nina Nascimento,59,314.902.587-79,Feminino,maria-luisa24@example.org,+55 61 5169 8632,Peixoto,SP,Ford,EcoSport,2019,Vermelho,119278.9,2024-01-20,Leasing
+251,Maria Cecília Garcia,42,026.489.713-78,Feminino,luiz-gustavo44@example.net,+55 (084) 9866-0796,Vargas,RJ,Volkswagem,Polo,2022,Preto,92551.93,2024-03-11,Financiomanto
+252,Maria Júlia Sales,52,369.215.804-15,Feminino,jose81@example.net,+55 41 0574-9156,Marques das Pedras,SP,Toyota,Hilux,2020,Vermelho,121011.27,2024-12-14,Consórcio
+253,João Guilherme Caldeira,43,137.952.648-55,Masculino,ybrito@example.com,0500 200 0161,Pires,RJ,Chevrolet,S10,2020,Vermelho,74626.29,2024-01-05,Leasing
+254,Maria Isis Teixeira,50,439.782.501-79,Feminino,lsantos@example.net,84 4998-3303,Oliveira Alegre,RJ,Chevrolet,Onix,2023,Preto,174539.17,2024-02-23,Leasing
+255,Marcela Azevedo,36,603.571.428-53,Feminino,maria-luisaoliveira@example.net,+55 71 4231 2231,da Cunha da Prata,PR,Toyota,Hilux,2020,Branco,198123.07,2023-11-03,Financiomanto
+256,Matheus Melo,29,587.619.430-10,Masculino,ana-liz87@example.com,+55 61 7476 5724,Câmara,TO,Volkswagem,Gol,2022,Branco,142687.6,2024-08-30,Financiomanto
+257,Manuella Silveira,21,473.126.058-26,Feminino,qgoncalves@example.org,+55 (071) 2088 3190,Leão de Mendes,RO,Ford,EcoSport,2023,Vermelho,240701.75,2024-01-23,Consórcio
+258,Marcelo Peixoto,45,685.134.072-08,Masculino,isaac53@example.net,0900 563 8841,Pires,CE,Ford,Ka,2016,Branco,156030.01,2024-03-27,Consórcio
+259,Leandro Souza,67,213.580.764-80,Masculino,oliviaalmeida@example.net,+55 (071) 1569 7274,da Luz,PA,Chevrolet,Tracker,2016,Prata,34871.42,2024-02-24,Consórcio
+260,Kamilly Martins,69,739.102.546-16,Feminino,gael-henrique11@example.org,81 9059-0612,Novaes de Borges,AP,Volkswagem,Polo,2024,Vermelho,219517.24,2023-05-04,Leasing
+261,Sabrina Peixoto,28,604.132.758-17,Feminino,raulnascimento@example.com,(031) 0802-2427,Farias Paulista,PB,Toyota,Hilux,2016,Branco,214355.99,2024-11-27,Consórcio
+262,Caroline da Costa,21,853.974.021-41,Feminino,isaqueazevedo@example.com,+55 (021) 7465 5010,da Mota de Gonçalves,MS,Toyota,Corolla,2017,Preto,182481.59,2023-06-17,Financiomanto
+263,Ana Liz Rodrigues,34,021.346.758-53,Feminino,ynascimento@example.com,84 9535-2654,Aragão,TO,Honda,Civic,2018,Azul,58573.32,2024-12-15,Financiomanto
+264,Otto Novaes,26,745.193.680-57,Masculino,emanuelfreitas@example.com,+55 71 2340-6632,Cirino da Prata,PE,Ford,Ka,2015,Azul,121169.48,2023-08-03,Leasing
+265,Letícia Souza,54,109.825.637-95,Feminino,borgesisaque@example.com,+55 (031) 8813 7472,Fogaça,PR,Volkswagem,Polo,2016,Vermelho,203521.7,2023-05-29,A vista
+266,Laís Correia,41,206.974.138-96,Feminino,dribeiro@example.org,61 5392 7649,Pereira,TO,Chevrolet,Tracker,2019,Prata,199461.86,2023-07-25,Financiomanto
+267,Valentim Rios,52,049.256.387-00,Masculino,costelaisadora@example.net,21 6580-1299,Moraes do Oeste,RO,Toyota,Yaris,2022,Vermelho,224151.06,2023-06-09,Leasing
+268,Mateus Siqueira,62,730.149.652-43,Masculino,diasvalentim@example.net,(084) 7192 0860,Sampaio,AC,Chevrolet,Tracker,2022,Azul,143741.31,2024-05-25,A vista
+269,Mariane Farias,47,548.360.921-24,Feminino,nogueiramaria-vitoria@example.net,0900-279-6642,Novais,SE,Toyota,Yaris,2023,Vermelho,231575.0,2025-03-01,Leasing
+270,Ana Clara Nascimento,20,897.064.213-78,Feminino,isabela60@example.net,0300 797 5920,Moraes,TO,Chevrolet,Onix,2018,Preto,131285.05,2023-12-10,Leasing
+271,Ester Ramos,44,615.798.342-64,Feminino,pimentabenjamim@example.org,+55 41 1363 8539,Leão,AC,Chevrolet,Onix,2023,Branco,161009.2,2024-07-18,Consórcio
+272,Letícia Teixeira,69,412.970.538-50,Feminino,omendes@example.net,51 8347 3370,Pinto,BA,Volkswagem,Polo,2016,Preto,187561.09,2024-02-05,Consórcio
+273,Ana Julia Barros,43,198.642.357-37,Feminino,cirinomatteo@example.net,61 3831 6176,Pacheco Alegre,RJ,Ford,Ranger,2024,Vermelho,115860.86,2025-02-11,Consórcio
+274,Olívia Casa Grande,41,760.815.293-12,Feminino,cauesilveira@example.net,+55 51 3063 4237,Cardoso,AL,Toyota,Hilux,2015,Vermelho,225541.27,2023-11-05,A vista
+275,João Moreira,70,716.584.903-39,Masculino,sousapaulo@example.com,+55 51 8852 4637,Martins de Viana,SP,Chevrolet,Onix,2021,Preto,87021.96,2023-10-09,Leasing
+276,Arthur Miguel Montenegro,35,370.615.892-21,Masculino,spereira@example.org,(071) 5047-9232,Silveira de Cavalcante,AM,Volkswagem,Gol,2017,Preto,208080.81,2024-07-22,A vista
+277,Giovanna Mendonça,59,352.640.897-10,Feminino,vieiraleticia@example.com,61 2572 5974,Marques Verde,DF,Ford,Ka,2022,Azul,190086.97,2023-06-14,Financiomanto
+278,Isadora Pires,28,103.942.768-50,Feminino,allana57@example.org,+55 31 1991-5016,Nunes do Galho,SC,Volkswagem,Polo,2016,Azul,125178.29,2023-07-12,Financiomanto
+279,Lara Cassiano,61,541.982.067-67,Feminino,anthony-gabrielpereira@example.net,+55 51 9055 1329,Rios,MT,Toyota,Corolla,2018,Preto,106263.25,2024-05-23,A vista
+280,Léo Nunes,22,679.123.584-55,Masculino,pda-mata@example.net,+55 11 8679-6736,Oliveira,PI,Volkswagem,T-Cross,2021,Preto,174753.5,2024-05-14,Consórcio
+281,Ravi Lucca Lopes,68,231.694.578-37,Masculino,pteixeira@example.org,11 3438 2082,Aparecida,RJ,Chevrolet,S10,2018,Preto,108964.74,2023-04-13,Consórcio
+282,Lucas Gabriel Rios,45,938.047.521-79,Masculino,viniciusporto@example.net,(041) 2971-6123,Fonseca,SE,Chevrolet,Onix,2024,Azul,182942.79,2023-09-22,Financiomanto
+283,Carlos Eduardo da Rocha,33,204.937.651-07,Masculino,carvalhoeloa@example.com,(041) 0816 6688,Barros,SE,Volkswagem,Gol,2024,Preto,184718.89,2025-03-03,Leasing
+284,Luiz Gustavo Sousa,70,716.890.423-03,Masculino,hpacheco@example.org,(041) 5432 9667,Fogaça,CE,Ford,Ranger,2015,Preto,130809.87,2023-10-28,Leasing
+285,Ana Carolina Pastor,38,987.214.650-02,Feminino,valentim59@example.net,11 1483 7419,Silveira de Minas,MT,Honda,Civic,2019,Vermelho,115193.91,2024-05-15,Leasing
+286,Ana Laura Mendonça,40,608.425.179-01,Feminino,voliveira@example.org,+55 41 0157-8737,Vieira,RN,Ford,Ranger,2015,Branco,214144.15,2024-10-25,Consórcio
+287,Anna Liz Monteiro,18,152.697.308-12,Feminino,isabelamachado@example.com,(071) 8162-3938,Freitas,BA,Volkswagem,Polo,2018,Prata,202313.13,2024-10-09,A vista
+288,Danilo Silveira,41,869.430.157-10,Masculino,gomesbruna@example.com,(071) 8187 5888,Cassiano de Goiás,PA,Ford,Ka,2019,Azul,62327.93,2024-10-11,Financiomanto
+289,Bella Pastor,33,376.514.820-26,Feminino,peixotodante@example.net,(041) 2983 2371,Oliveira,AL,Chevrolet,Onix,2016,Preto,81080.03,2023-09-17,A vista
+290,Gustavo da Costa,34,910.657.284-76,Masculino,josesouza@example.net,+55 61 0222 7026,Viana do Norte,AL,Ford,Ka,2021,Vermelho,226358.8,2023-03-29,Consórcio
+291,Lorenzo Teixeira,50,918.054.726-58,Masculino,castroeloa@example.org,61 7151 7360,Albuquerque,PI,Chevrolet,Onix,2023,Prata,141055.64,2023-07-13,Financiomanto
+292,Danilo Lopes,43,820.379.641-96,Masculino,piresalana@example.com,(041) 6384 9500,Barbosa do Sul,PA,Toyota,Hilux,2024,Vermelho,82781.29,2023-06-04,Leasing
+293,Erick Machado,65,376.294.105-06,Masculino,diegocamara@example.com,+55 (041) 9618-8888,Sousa,SE,Toyota,Hilux,2019,Branco,126361.64,2023-12-29,A vista
+294,Alana Silveira,18,582.706.941-85,Feminino,mrodrigues@example.com,(061) 9199 1470,da Costa,PB,Honda,Civic,2022,Vermelho,242277.75,2024-05-29,Financiomanto
+295,João Guilherme Aparecida,62,185.607.429-30,Masculino,heloisa95@example.com,(031) 1312-0487,Ribeiro da Praia,AM,Volkswagem,Polo,2018,Vermelho,109425.46,2024-02-25,Financiomanto
+296,Isadora Lima,29,869.432.017-78,Feminino,isadora49@example.org,0800 423 0990,Pimenta,AL,Chevrolet,Onix,2017,Azul,129658.04,2025-01-02,Consórcio
+297,Gustavo Henrique Sá,68,268.541.397-91,Masculino,camila37@example.org,(061) 2486-1470,Cavalcante das Pedras,RJ,Toyota,Hilux,2016,Vermelho,106646.34,2023-09-06,Financiomanto
+298,Alexandre Ramos,20,651.208.937-59,Masculino,lizgarcia@example.net,(081) 1988 8133,Gonçalves,PR,Chevrolet,S10,2020,Azul,217194.92,2023-11-29,A vista
+299,Mirella Nogueira,55,374.650.891-66,Feminino,theodoro14@example.net,(051) 9296 5358,Mendonça,RO,Toyota,Corolla,2020,Azul,161478.93,2024-12-03,Financiomanto
+300,Diego da Paz,19,901.642.387-78,Masculino,moraespedro-lucas@example.org,(041) 5449 1122,Porto,AP,Honda,Fit,2019,Preto,62242.39,2025-01-07,A vista
+301,Rael Mendonça,47,782.546.193-28,Masculino,gustavocavalcante@example.com,0800 391 9950,Araújo de Minas,MA,Chevrolet,Onix,2017,Branco,159805.63,2024-02-14,A vista
+302,Heloísa Sousa,18,813.067.295-21,Feminino,bernardo11@example.org,(041) 9868-4831,da Luz de Casa Grande,AM,Chevrolet,S10,2024,Azul,138775.23,2024-12-08,Financiomanto
+303,Larissa Melo,40,670.354.298-83,Feminino,joao-guilherme93@example.org,+55 61 5447 0694,Macedo,MS,Toyota,Hilux,2024,Azul,222272.8,2025-01-22,Consórcio
+304,Vitor Hugo Abreu,65,098.273.645-29,Masculino,ccassiano@example.net,(041) 8694 1150,Casa Grande,DF,Chevrolet,S10,2018,Azul,243402.71,2024-12-25,Consórcio
+305,Lucas Gabriel Azevedo,55,937.856.041-57,Masculino,lavinia80@example.net,+55 (081) 0527 5121,das Neves,GO,Ford,Ka,2016,Vermelho,177006.56,2023-06-14,Leasing
+306,Sara Marques,47,285.403.796-00,Feminino,liz11@example.org,+55 61 4056 0640,da Rocha,AC,Toyota,Hilux,2017,Prata,217234.29,2023-11-22,Financiomanto
+307,Ana Júlia Novaes,54,826.143.709-40,Feminino,maria-luizagarcia@example.net,+55 (061) 2290 8032,Campos da Serra,RO,Volkswagem,Polo,2019,Preto,178082.37,2025-02-17,A vista
+308,Vitória Azevedo,54,391.042.765-07,Feminino,jgoncalves@example.com,0900-368-4271,Mendonça de Pereira,AM,Volkswagem,Gol,2024,Branco,233958.79,2023-08-22,Consórcio
+309,Manuella Cavalcante,49,874.932.156-00,Feminino,anthony68@example.org,81 4638 9275,Rios,AP,Toyota,Yaris,2018,Prata,172406.36,2023-12-15,Leasing
+310,Esther Marques,55,583.647.190-84,Feminino,tcavalcanti@example.net,+55 (041) 5876 5363,Jesus,RO,Toyota,Hilux,2021,Preto,178654.44,2024-03-07,A vista
+311,Eduarda Albuquerque,66,601.973.284-31,Feminino,emanuellynunes@example.com,81 5286-7545,Marques,MA,Honda,HR-V,2019,Preto,73940.92,2024-07-19,A vista
+312,Pietra Câmara,36,319.475.682-64,Feminino,silveiravitor-hugo@example.com,+55 (031) 5618-6921,da Luz Verde,PI,Volkswagem,Gol,2016,Branco,62695.81,2024-10-18,Financiomanto
+313,Sophie Freitas,52,473.806.591-20,Feminino,pachecosara@example.org,+55 (061) 7849 1009,Moraes de Minas,RO,Volkswagem,Gol,2016,Azul,225137.12,2024-10-19,A vista
+314,Pedro Lucas Carvalho,26,293.578.610-68,Masculino,fernandesbrenda@example.net,(061) 1285 9892,Mendonça Grande,AP,Honda,Civic,2023,Prata,155930.16,2024-11-26,Consórcio
+315,Ana Sophia Andrade,28,538.916.704-00,Feminino,mirella29@example.net,+55 61 8200 3756,Sousa do Campo,GO,Chevrolet,S10,2017,Branco,85256.38,2024-10-24,Leasing
+316,Bruno Andrade,49,089.345.167-39,Masculino,oliver03@example.net,+55 (031) 4615-4369,Moura,AL,Ford,EcoSport,2017,Vermelho,236158.17,2024-06-19,Financiomanto
+317,João Vitor da Rosa,28,501.283.794-05,Masculino,beniciomendonca@example.net,(081) 5447-3230,Barbosa do Norte,DF,Ford,Ranger,2021,Preto,52005.69,2025-02-09,Consórcio
+318,Enzo da Costa,51,280.539.714-23,Masculino,monteirojoao@example.net,+55 41 2091-7227,Correia,TO,Volkswagem,T-Cross,2017,Preto,139656.5,2023-09-20,Leasing
+319,Ana Vitória Monteiro,49,307.564.129-43,Feminino,mayacassiano@example.com,+55 (084) 3672-6380,Leão,RS,Toyota,Corolla,2016,Preto,49541.97,2024-04-09,Financiomanto
+320,Natália Brito,54,930.728.651-59,Feminino,joanasilveira@example.org,+55 11 9207-7077,Oliveira,CE,Ford,EcoSport,2022,Azul,180020.26,2023-10-11,Financiomanto
+321,Breno Abreu,66,475.013.628-07,Masculino,lais23@example.com,+55 71 3638 0310,Silveira,PI,Ford,Ka,2020,Vermelho,186741.38,2024-09-12,Leasing
+322,Gabrielly Andrade,28,291.507.438-05,Feminino,bryanaparecida@example.com,+55 21 4560 3069,Pastor de Siqueira,SC,Honda,Civic,2016,Azul,115539.64,2023-10-25,A vista
+323,Noah Abreu,31,431.802.596-98,Masculino,azevedolucas@example.net,31 5783-5670,Pastor das Flores,SP,Ford,EcoSport,2021,Preto,112870.59,2024-07-06,Financiomanto
+324,Yago Pacheco,51,024.653.981-05,Masculino,henrique51@example.com,+55 (031) 1357-4365,Moraes Alegre,RO,Volkswagem,T-Cross,2015,Branco,190838.63,2025-03-02,Leasing
+325,Carolina Montenegro,18,508.132.794-88,Feminino,joao-lucaspereira@example.net,71 5836 6993,Azevedo,SP,Ford,Ranger,2023,Branco,149592.39,2024-06-06,Consórcio
+326,Cecília Pereira,46,485.932.160-05,Feminino,marcela67@example.com,0500 372 7226,Andrade dos Dourados,ES,Volkswagem,Gol,2023,Branco,42783.1,2024-05-09,Leasing
+327,Rebeca Almeida,60,302.461.798-13,Feminino,oliviavieira@example.net,(081) 5108-3367,Sá de Goiás,MT,Chevrolet,S10,2019,Branco,38947.36,2024-04-11,Consórcio
+328,Pedro Miguel Aparecida,55,376.481.290-78,Masculino,aparecidadavi-luiz@example.com,(011) 9120 8856,Leão,TO,Toyota,Hilux,2020,Preto,197736.82,2024-01-09,Financiomanto
+329,Marcela Alves,38,547.802.139-32,Feminino,wmendes@example.org,+55 (041) 9134 5330,Cassiano do Sul,AP,Toyota,Yaris,2017,Azul,100473.58,2024-07-02,Financiomanto
+330,Juan Santos,59,920.367.541-80,Masculino,da-rochaclara@example.com,(041) 5071 2509,da Rocha do Sul,RO,Volkswagem,Gol,2022,Azul,239239.39,2023-11-08,Consórcio
+331,Carlos Eduardo Campos,49,378.204.915-23,Masculino,agatha99@example.org,0800-022-9483,Rodrigues,SC,Honda,Civic,2020,Vermelho,150926.3,2024-05-29,A vista
+332,Vinicius Alves,46,530.769.241-25,Masculino,theodororocha@example.org,+55 (051) 2018-6204,Costa,AC,Ford,Ka,2017,Vermelho,71679.3,2023-08-13,Financiomanto
+333,Davi Lucca Silveira,66,241.738.506-62,Masculino,da-rosamarcela@example.net,0300 572 7248,Fernandes do Galho,RJ,Honda,Fit,2018,Vermelho,40488.08,2023-04-15,A vista
+334,Ana Lívia Carvalho,32,890.426.175-94,Feminino,gomesyago@example.net,+55 71 2673 0718,Azevedo Alegre,PI,Ford,EcoSport,2016,Vermelho,63680.43,2024-09-07,Consórcio
+335,Ana Cecília Mendes,32,792.568.031-86,Feminino,leticiada-mota@example.com,(084) 8523-4315,Costela,SP,Chevrolet,Tracker,2015,Vermelho,133346.84,2024-01-29,A vista
+336,Leonardo Pastor,52,468.750.391-84,Masculino,pmontenegro@example.org,(051) 5507-7917,Alves do Oeste,RJ,Honda,Fit,2024,Branco,42205.69,2025-02-13,Financiomanto
+337,Marcos Vinicius Rezende,67,506.149.287-02,Masculino,qfernandes@example.net,71 3359-1687,Fogaça,AL,Ford,Ka,2019,Branco,69692.66,2024-01-22,Financiomanto
+338,Daniela Porto,51,598.637.240-92,Feminino,kaique51@example.net,+55 (081) 2694 6363,Sá,PI,Ford,EcoSport,2021,Azul,230937.74,2023-10-22,A vista
+339,Giovanna Cavalcante,54,817.406.392-78,Feminino,anna-lizvasconcelos@example.org,+55 (051) 8506-0579,Oliveira do Campo,SE,Toyota,Yaris,2015,Azul,60857.99,2023-06-21,A vista
+340,Clarice Dias,47,619.025.374-16,Feminino,emilly53@example.org,61 1571 1426,Cardoso da Praia,PA,Volkswagem,Gol,2023,Branco,70143.15,2023-12-20,Financiomanto
+341,Ana Julia Borges,19,685.019.342-24,Feminino,agatha26@example.com,84 2004-5544,Nunes Grande,AC,Ford,Ranger,2017,Preto,188490.44,2024-05-25,A vista
+342,Oliver Freitas,69,879.640.523-65,Masculino,mendoncaluan@example.net,21 3102 7913,Lima,AL,Volkswagem,Gol,2023,Vermelho,224125.08,2024-10-19,Consórcio
+343,Valentim Monteiro,41,695.174.083-66,Masculino,ana-beatrizrodrigues@example.org,(021) 2071 6734,Jesus da Serra,RJ,Chevrolet,Tracker,2024,Preto,212339.3,2023-11-06,A vista
+344,Vitor Gabriel Aragão,42,471.069.835-00,Masculino,bsantos@example.com,+55 11 0889-4290,Fonseca,PA,Honda,Civic,2024,Vermelho,107908.47,2024-10-02,A vista
+345,Natália Albuquerque,62,325.849.170-41,Feminino,vsilveira@example.net,+55 84 1378 4879,Montenegro do Amparo,RS,Volkswagem,Gol,2024,Azul,201446.23,2024-05-08,Leasing
+346,Thiago da Mata,32,629.104.358-06,Masculino,luisalopes@example.net,+55 (061) 3104-1758,Oliveira de Cavalcante,RR,Honda,Fit,2017,Preto,81741.48,2024-11-16,A vista
+347,Theodoro Caldeira,60,491.807.362-03,Masculino,oliviafonseca@example.com,+55 (081) 3195 5828,Almeida do Sul,MA,Honda,Fit,2023,Azul,47517.68,2024-05-01,Financiomanto
+348,Luiz Gustavo da Cruz,34,089.615.274-01,Masculino,raquel42@example.net,21 4872 7168,Silveira,PR,Chevrolet,S10,2016,Vermelho,106562.31,2024-09-25,Consórcio
+349,Isabela Albuquerque,41,265.783.041-26,Feminino,caio96@example.net,+55 11 7463 3552,Freitas de Marques,RO,Toyota,Corolla,2019,Branco,75347.4,2024-07-20,Consórcio
+350,Brenda Nascimento,37,163.075.928-77,Feminino,fernandesmarcela@example.net,+55 21 6318-2926,Pastor Alegre,MA,Toyota,Corolla,2024,Vermelho,223800.31,2023-05-11,Financiomanto
+351,Mariah Cardoso,60,251.489.630-42,Feminino,nicole58@example.org,11 4251-6699,Almeida,AP,Ford,Ka,2017,Vermelho,236992.13,2023-11-23,Leasing
+352,Julia Camargo,48,265.489.713-37,Feminino,isadora16@example.org,+55 11 0124-4193,Pires da Mata,MA,Toyota,Hilux,2022,Vermelho,34560.04,2025-02-22,Consórcio
+353,Noah Costela,40,259.314.067-43,Masculino,gabrielacostela@example.net,+55 (031) 1734 0733,Casa Grande de Pires,PE,Toyota,Yaris,2020,Preto,199789.38,2023-12-31,Consórcio
+354,Ester da Rosa,36,876.143.509-01,Feminino,novaesgabriela@example.net,+55 84 6403-5237,Cardoso de Sampaio,PR,Volkswagem,Gol,2023,Prata,55300.48,2024-12-06,Leasing
+355,Luara da Mota,48,041.273.695-07,Feminino,uteixeira@example.com,+55 (081) 1748 9476,da Conceição dos Dourados,ES,Honda,Civic,2022,Azul,55615.07,2024-01-30,A vista
+356,Luísa Alves,34,098.763.125-02,Feminino,luiz-miguelmoura@example.org,(061) 2149-2324,Montenegro,PR,Chevrolet,Onix,2018,Prata,193836.17,2023-03-21,A vista
+357,Pietro Guerra,55,046.317.528-07,Masculino,juliada-rosa@example.org,+55 41 4495 0212,Cavalcante,RS,Chevrolet,S10,2023,Prata,177711.58,2024-11-11,Financiomanto
+358,Isadora das Neves,29,037.421.896-03,Feminino,caldeirayuri@example.com,(071) 2957-9400,Vasconcelos do Norte,MA,Ford,Ranger,2020,Prata,52053.06,2024-10-04,Leasing
+359,Theodoro Silveira,23,065.213.984-15,Masculino,caue20@example.com,51 8989 0208,Melo do Norte,PB,Ford,EcoSport,2020,Azul,154473.37,2023-10-09,A vista
+360,Luara Sousa,37,281.937.504-97,Feminino,viniciusramos@example.net,11 5576-6188,Pastor das Pedras,AC,Honda,HR-V,2018,Branco,213977.88,2023-09-25,Consórcio
+361,Liz da Cruz,62,605.972.134-61,Feminino,dda-rosa@example.org,61 8467 0647,Cirino,MS,Ford,Ka,2016,Preto,153782.9,2023-09-04,Consórcio
+362,Erick Mendes,51,417.506.329-34,Masculino,jpacheco@example.net,(081) 0382-6248,Rios do Campo,ES,Chevrolet,Onix,2020,Azul,47778.89,2023-04-30,A vista
+363,Ísis Fernandes,56,253.189.746-19,Feminino,mirella49@example.org,(081) 6376 1246,Nascimento do Campo,AM,Ford,Ranger,2019,Branco,159537.43,2025-01-03,A vista
+364,Bárbara Moura,60,162.508.974-02,Feminino,mendoncaisaque@example.net,(061) 8414 8366,Dias,PA,Toyota,Hilux,2019,Vermelho,148121.09,2024-09-12,Leasing
+365,Alana Guerra,34,932.167.845-09,Feminino,jandrade@example.com,(084) 8485 1980,Marques,SE,Volkswagem,Polo,2019,Vermelho,244391.98,2023-03-19,A vista
+366,Maria Clara Siqueira,56,975.031.426-34,Feminino,heloisa00@example.com,+55 (051) 9623-0353,Leão,AP,Volkswagem,Polo,2015,Prata,33399.0,2023-08-26,Consórcio
+367,Yuri Cavalcanti,23,658.041.792-76,Masculino,gabriela40@example.net,(071) 6055-4672,Rios das Pedras,AM,Honda,HR-V,2017,Vermelho,79545.01,2024-05-07,A vista
+368,Julia Souza,70,312.907.645-06,Feminino,camargojuan@example.net,+55 (031) 5631 7900,Cunha de Ferreira,RO,Ford,Ka,2019,Branco,176701.62,2023-05-26,Leasing
+369,Francisco Rocha,22,921.803.457-04,Masculino,fariasluna@example.com,0300 792 8126,Rocha Verde,AP,Chevrolet,Tracker,2022,Branco,190967.29,2024-04-30,A vista
+370,Zoe Silva,51,049.628.517-30,Feminino,upimenta@example.net,+55 (051) 9357 2558,Novais,PB,Volkswagem,T-Cross,2024,Branco,149718.73,2024-06-18,Financiomanto
+371,Juliana Borges,57,685.917.243-64,Feminino,julianadas-neves@example.org,81 4561 3998,Duarte,SE,Ford,EcoSport,2019,Prata,146085.57,2023-04-08,Leasing
+372,Luara Macedo,46,845.239.061-06,Feminino,isisnascimento@example.org,41 0407-8397,Costa,DF,Honda,Fit,2015,Preto,202275.58,2024-01-07,Consórcio
+373,Ana Luiza Machado,32,930.756.421-34,Feminino,sophiacardoso@example.org,+55 84 6341-9429,Cirino do Sul,MA,Ford,Ranger,2017,Azul,40026.68,2024-09-30,Leasing
+374,Carolina Barbosa,35,285.943.716-91,Feminino,udias@example.org,+55 (011) 1383 9612,Câmara,DF,Ford,EcoSport,2018,Vermelho,35600.67,2024-05-26,Financiomanto
+375,Cecília Vieira,43,706.834.195-01,Feminino,emillyandrade@example.com,(031) 6336-0258,Brito Paulista,MS,Volkswagem,T-Cross,2019,Prata,165753.1,2024-11-04,Leasing
+376,Eduarda Albuquerque,39,853.062.914-06,Feminino,rafaelapeixoto@example.com,+55 (081) 3316-4441,Marques Grande,PB,Honda,Civic,2018,Azul,200426.88,2024-11-24,Leasing
+377,Julia da Rosa,39,154.839.607-93,Feminino,ramosluiz-fernando@example.org,(051) 5342-4281,Oliveira,RO,Ford,Ka,2017,Vermelho,84348.62,2023-04-27,A vista
+378,Levi da Cruz,32,483.017.569-93,Masculino,yansantos@example.net,(041) 9489-1257,das Neves,SP,Volkswagem,Gol,2017,Prata,238443.94,2023-05-28,Leasing
+379,Ravi Lucca Pastor,55,368.701.945-48,Masculino,onogueira@example.org,+55 (071) 9684-9705,Fernandes de Cavalcante,SE,Chevrolet,S10,2017,Prata,193515.62,2025-02-08,Consórcio
+380,Isabelly Duarte,60,072.865.349-47,Feminino,moraesisis@example.net,(031) 5377 3208,Lima,RS,Honda,HR-V,2018,Azul,94864.27,2023-09-16,Financiomanto
+381,Gabriela Souza,60,720.419.638-40,Feminino,almeidamaria-sophia@example.net,0900-230-3495,Nunes da Mata,RR,Ford,EcoSport,2018,Azul,62210.67,2023-05-13,Leasing
+382,Ester Pereira,28,651.248.390-15,Feminino,salesravi@example.org,(041) 2169-0489,Costa do Campo,AM,Volkswagem,Polo,2015,Preto,79634.17,2025-01-19,Financiomanto
+383,Gabriela Rezende,19,789.631.542-46,Feminino,da-cruzvitor-gabriel@example.org,61 7840-9182,Sampaio de Gomes,GO,Chevrolet,S10,2019,Vermelho,64683.65,2023-04-28,Consórcio
+384,Allana Carvalho,37,351.068.729-95,Feminino,vitoria97@example.org,+55 (061) 0086 1825,Sá do Campo,MS,Ford,Ranger,2018,Branco,173768.51,2024-02-25,A vista
+385,Juliana Souza,28,475.682.390-47,Feminino,iaparecida@example.com,81 7941 1115,Rocha das Pedras,AM,Chevrolet,Onix,2019,Vermelho,172748.27,2023-07-04,Financiomanto
+386,Yasmin Pinto,34,971.438.052-97,Feminino,nina30@example.com,21 3929 5154,Ferreira do Amparo,BA,Ford,EcoSport,2015,Vermelho,203125.93,2024-02-01,Leasing
+387,Dante Martins,50,973.021.584-79,Masculino,cavalcantebento@example.org,+55 (051) 5296 2508,Andrade Paulista,MT,Honda,HR-V,2017,Branco,60953.34,2024-08-18,A vista
+388,Gael Henrique Moreira,51,198.067.524-49,Masculino,rezendeliz@example.com,+55 (071) 2245 4297,Caldeira,RJ,Chevrolet,Onix,2020,Azul,161198.08,2025-01-31,A vista
+389,Sofia Fonseca,50,147.583.206-08,Feminino,maria-clara47@example.net,84 9563-0592,Nogueira,TO,Chevrolet,S10,2022,Vermelho,218208.62,2023-11-28,Leasing
+390,José da Rosa,63,091.427.653-07,Masculino,iribeiro@example.org,(051) 4369-3975,Aparecida do Amparo,MG,Honda,Civic,2015,Prata,76602.79,2024-02-25,Leasing
+391,Gabrielly Fernandes,41,952.184.670-49,Feminino,sahadassa@example.com,(021) 1042-0952,Dias,PR,Volkswagem,Gol,2023,Vermelho,228733.99,2023-04-21,A vista
+392,Noah Silva,68,479.201.856-02,Masculino,rodriguesana-vitoria@example.com,+55 (011) 0897-9587,Azevedo,AP,Toyota,Yaris,2015,Vermelho,117633.25,2023-08-12,Leasing
+393,Ian Sales,61,658.107.942-11,Masculino,qsilva@example.org,+55 (081) 1231 7172,Costa de Monteiro,RN,Chevrolet,S10,2023,Vermelho,196062.15,2024-05-17,A vista
+394,Bryan Carvalho,18,136.479.250-80,Masculino,da-motabryan@example.org,(084) 1649-1011,Campos das Flores,SC,Toyota,Corolla,2019,Preto,174166.77,2024-12-03,Consórcio
+395,Hellena Borges,23,169.820.534-15,Feminino,rael66@example.org,(011) 8962-1982,Leão Alegre,MT,Honda,Civic,2019,Prata,144076.6,2023-05-20,Consórcio
+396,Helena Macedo,30,310.472.695-70,Feminino,da-conceicaojoao-gabriel@example.org,(051) 1830 9768,Fonseca,AM,Ford,EcoSport,2020,Azul,92772.15,2025-01-01,Leasing
+397,Emanuelly Melo,56,956.382.140-89,Feminino,asafeporto@example.com,+55 (031) 2724 8886,Camargo do Sul,DF,Honda,Fit,2017,Branco,96873.42,2024-07-19,Leasing
+398,Ana Luiza Sousa,70,217.408.635-26,Feminino,hadassa41@example.net,+55 (081) 6038-8345,Marques,PR,Chevrolet,Onix,2016,Vermelho,207438.69,2024-05-28,A vista
+399,Brenda Pacheco,61,753.209.846-00,Feminino,tcunha@example.com,(061) 6261 4381,Ribeiro de Goiás,SC,Volkswagem,Gol,2022,Prata,106263.22,2024-05-31,Financiomanto
+400,Maria Cecília Jesus,68,218.039.467-50,Feminino,qda-mata@example.org,41 1944 5924,Cavalcante de Cavalcanti,SP,Toyota,Yaris,2021,Vermelho,227088.07,2024-09-06,Financiomanto
+401,Luiz Miguel Silveira,50,684.230.517-90,Masculino,vitoriada-mata@example.com,+55 71 3554 0119,Dias,PE,Ford,Ranger,2015,Branco,117827.4,2025-02-07,Leasing
+402,Antônio Peixoto,53,978.602.314-50,Masculino,da-conceicaobella@example.net,81 8259-9922,da Cruz das Flores,RS,Toyota,Hilux,2015,Branco,192894.53,2025-02-26,Consórcio
+403,Theo Farias,19,894.051.673-75,Masculino,maria-luisavasconcelos@example.org,+55 51 7474 6386,Oliveira,RN,Toyota,Hilux,2016,Preto,194429.39,2023-11-24,Financiomanto
+404,Ana Júlia Leão,54,379.280.614-22,Feminino,nathanborges@example.net,(011) 6238 1703,Novais,CE,Volkswagem,Gol,2019,Vermelho,100003.58,2024-08-29,Financiomanto
+405,Oliver Ferreira,59,834.192.750-05,Masculino,paparecida@example.org,84 5153-5346,Sales,MS,Honda,Civic,2022,Branco,32726.16,2024-11-11,A vista
+406,Benício Casa Grande,62,012.347.895-23,Masculino,souzafernanda@example.org,(051) 2315 7436,Camargo,PB,Chevrolet,Tracker,2022,Branco,130299.95,2024-08-23,Consórcio
+407,Cecília Vasconcelos,65,195.063.247-43,Feminino,albuquerqueyuri@example.net,+55 (021) 9153-0059,Marques,TO,Toyota,Yaris,2018,Vermelho,217827.34,2023-08-09,Leasing
+408,João Vitor da Luz,55,254.017.986-01,Masculino,pimentabernardo@example.com,+55 81 4216 5875,da Rosa,TO,Toyota,Corolla,2023,Preto,218768.6,2024-06-23,Financiomanto
+409,Thiago Moreira,64,194.726.380-31,Masculino,thiagomonteiro@example.net,(011) 1366-5460,Farias de Goiás,PE,Chevrolet,S10,2015,Preto,161289.74,2024-06-21,Leasing
+410,Isis Rodrigues,70,601.834.597-84,Feminino,oliviaporto@example.com,(071) 9651 0582,Pimenta,MS,Ford,EcoSport,2021,Preto,91660.67,2025-01-29,Financiomanto
+411,Ana Lívia Melo,23,948.130.257-14,Feminino,riosbruna@example.net,71 8469 3267,Dias,RO,Honda,HR-V,2020,Vermelho,39257.01,2024-02-29,Financiomanto
+412,Ana Vitória Novais,67,316.547.089-84,Feminino,leonardosa@example.net,0900-299-0087,da Cruz,MA,Honda,Fit,2024,Azul,176580.37,2023-04-23,Consórcio
+413,Raquel Almeida,56,831.754.092-88,Feminino,gael-henriquevasconcelos@example.org,(071) 8190-2612,Castro,RS,Volkswagem,Gol,2017,Azul,105162.81,2023-09-25,Consórcio
+414,Cauã Pastor,66,582.194.306-05,Masculino,silvaana-livia@example.org,0900 022 3123,Andrade do Campo,PI,Ford,Ka,2021,Prata,36391.53,2024-01-30,Consórcio
+415,Manuella Costa,60,346.807.591-00,Feminino,moreirathales@example.org,+55 41 1567-0475,Aragão,PR,Honda,HR-V,2022,Preto,211191.62,2023-06-02,Consórcio
+416,Luísa Sampaio,69,304.571.892-23,Feminino,gustavo-henrique29@example.org,11 6585-3954,da Conceição,AL,Ford,EcoSport,2023,Preto,183689.03,2024-09-30,Financiomanto
+417,Esther da Cruz,18,786.349.502-47,Feminino,pedro16@example.org,51 1268 6098,da Costa,SC,Volkswagem,T-Cross,2015,Vermelho,73069.73,2023-06-22,Consórcio
+418,Levi Oliveira,36,945.137.068-48,Masculino,camaraalexandre@example.com,+55 84 2731-4697,Mendes Grande,SC,Chevrolet,Onix,2024,Branco,182719.03,2024-10-15,A vista
+419,Benjamin Costela,70,560.172.349-43,Masculino,asafe17@example.org,0500 420 4497,Lopes de Rios,AL,Ford,EcoSport,2023,Branco,45012.77,2024-12-20,Consórcio
+420,Pedro Lucas da Rocha,23,695.712.430-43,Masculino,lorena31@example.net,+55 (051) 1139-5487,Garcia,MS,Toyota,Hilux,2017,Preto,234024.88,2024-02-15,Leasing
+421,Raul Gonçalves,57,736.508.912-12,Masculino,gabriela93@example.com,51 9977 8569,Rios das Pedras,SE,Ford,Ranger,2019,Branco,94087.76,2023-03-28,A vista
+422,Carolina Novais,58,817.029.436-31,Feminino,xmacedo@example.org,41 0701 3630,Guerra de Goiás,DF,Chevrolet,Onix,2024,Azul,209310.88,2023-06-10,Consórcio
+423,Julia Azevedo,61,912.780.534-41,Feminino,da-costadavi-luiz@example.com,71 3589-0311,Teixeira do Sul,DF,Volkswagem,Polo,2024,Azul,89877.52,2023-05-19,Financiomanto
+424,Raquel Andrade,29,254.083.976-29,Feminino,cunhapedro-miguel@example.net,+55 (061) 1394 6681,Oliveira,AP,Toyota,Yaris,2020,Preto,43596.87,2023-09-07,A vista
+425,Maria Clara Rezende,58,982.615.340-06,Feminino,castroarthur@example.org,+55 71 5614-6593,da Mota,BA,Toyota,Yaris,2021,Azul,125814.71,2024-09-25,Consórcio
+426,Jade Barros,48,608.143.957-75,Feminino,enzo-gabriel42@example.net,61 0679 9961,Cirino,MS,Chevrolet,S10,2020,Preto,177343.74,2023-11-05,Financiomanto
+427,Igor da Rosa,65,738.629.501-40,Masculino,leticiarezende@example.org,(081) 5527-4173,Caldeira Alegre,AM,Honda,Fit,2023,Branco,44028.52,2025-02-26,Consórcio
+428,Rodrigo da Rocha,59,703.452.896-92,Masculino,luiza98@example.com,(061) 7357 9419,Câmara Grande,AM,Volkswagem,Polo,2022,Vermelho,216511.38,2024-06-06,Leasing
+429,Fernanda Araújo,45,219.048.536-33,Feminino,mfonseca@example.org,(084) 3339-9634,Guerra do Sul,RR,Honda,HR-V,2018,Preto,191950.4,2023-04-03,Financiomanto
+430,Cecilia Leão,46,485.206.379-65,Feminino,qleao@example.com,0300 949 0800,Fogaça de Azevedo,MA,Toyota,Corolla,2023,Branco,223000.93,2023-07-25,Financiomanto
+431,Vicente Garcia,25,517.432.806-53,Masculino,cauasampaio@example.com,(051) 3202 5913,Silva,PE,Toyota,Corolla,2024,Prata,204390.68,2024-04-27,A vista
+432,Ayla Souza,42,650.918.327-77,Feminino,maria-luizacaldeira@example.com,(071) 4308 6811,Machado,PE,Chevrolet,Tracker,2015,Preto,215424.95,2023-04-14,Consórcio
+433,Ana Júlia Moraes,68,312.764.985-19,Feminino,jviana@example.net,0500-638-2639,Barros Paulista,PR,Ford,EcoSport,2023,Preto,206046.79,2023-07-13,Leasing
+434,Isaac Vieira,30,056.249.137-61,Masculino,edas-neves@example.net,11 2769 9558,Correia,PR,Honda,Fit,2024,Azul,55615.28,2023-07-14,A vista
+435,Antony Aparecida,48,512.078.496-85,Masculino,anthonygarcia@example.com,+55 (041) 9997 8141,Dias,RR,Honda,Civic,2016,Azul,227109.45,2023-12-19,A vista
+436,Augusto Correia,54,751.430.268-90,Masculino,dsiqueira@example.com,(061) 0403 0447,Marques,MA,Honda,Fit,2022,Branco,122022.17,2024-12-08,Leasing
+437,Marcelo Martins,40,410.297.365-61,Masculino,anna-lizda-luz@example.net,(031) 2241 0351,da Rocha,RN,Chevrolet,Tracker,2019,Vermelho,240805.0,2024-07-01,A vista
+438,Emanuelly Borges,27,604.783.195-84,Feminino,augusto53@example.org,41 2565-9351,Melo,PI,Honda,Civic,2015,Branco,239537.01,2024-12-20,A vista
+439,Luna da Mata,29,159.372.486-19,Feminino,casa-grandesophie@example.net,+55 81 8562 4819,Barros da Serra,MT,Toyota,Yaris,2019,Azul,188861.09,2023-03-24,Leasing
+440,Isabela Lima,46,316.984.250-15,Feminino,nathan46@example.net,+55 41 4822 3903,Rios da Serra,AM,Volkswagem,Gol,2021,Preto,200677.15,2024-03-03,Leasing
+441,Ana Carolina Marques,27,342.189.075-79,Feminino,xteixeira@example.net,(061) 1153-1797,Camargo,RR,Ford,Ranger,2024,Vermelho,77808.47,2024-10-06,Consórcio
+442,Otávio Guerra,29,259.403.871-79,Masculino,murilomartins@example.com,+55 51 4483 2112,Vieira,CE,Toyota,Corolla,2017,Preto,102192.74,2024-01-21,Financiomanto
+443,João Pedro Ferreira,45,652.701.943-25,Masculino,martinsmaria-eduarda@example.org,11 4654 2817,Carvalho do Amparo,AM,Honda,Fit,2023,Azul,220611.21,2024-06-21,A vista
+444,Sophia Carvalho,68,249.013.578-32,Feminino,raquelaraujo@example.net,+55 (021) 1252 1837,da Costa,PA,Toyota,Hilux,2017,Preto,79043.82,2023-11-28,A vista
+445,Lucas Costa,29,678.324.519-55,Masculino,zviana@example.org,(071) 8546-5931,Campos da Praia,PA,Chevrolet,Tracker,2021,Vermelho,123680.17,2023-03-28,Financiomanto
+446,Liz Ribeiro,50,419.372.568-55,Feminino,ocarvalho@example.org,11 7757-8269,Cardoso de Casa Grande,AM,Volkswagem,Polo,2024,Preto,81169.46,2023-10-17,Consórcio
+447,Stella Carvalho,50,308.916.574-01,Feminino,kevin79@example.com,81 2756-8763,Nascimento do Campo,SP,Ford,EcoSport,2017,Branco,179446.19,2024-12-16,Consórcio
+448,Isaque Viana,50,120.758.936-59,Masculino,garciaana-clara@example.org,(071) 5986-8587,Gomes,ES,Honda,HR-V,2015,Vermelho,107281.47,2023-12-14,A vista
+449,Pedro Henrique Sampaio,54,835.741.209-23,Masculino,leo74@example.org,+55 (031) 1831 3224,Guerra de Minas,GO,Ford,EcoSport,2018,Prata,38541.12,2024-06-21,Consórcio
+450,Theodoro Novaes,60,589.130.627-12,Masculino,nrocha@example.net,+55 71 4535 3272,Moreira,MG,Chevrolet,S10,2019,Vermelho,240400.39,2024-08-19,Leasing
+451,Anthony Azevedo,36,204.659.873-38,Masculino,ucostela@example.org,+55 (081) 8947-5698,Cardoso,SC,Volkswagem,Polo,2019,Preto,55154.14,2024-05-27,Leasing
+452,Ana Sophia Rocha,22,935.867.240-47,Feminino,maria-isis06@example.net,+55 (061) 2008 0448,Monteiro,PE,Chevrolet,S10,2016,Prata,52663.12,2025-02-22,Financiomanto
+453,Daniel Barros,69,036.789.152-21,Masculino,barbaravargas@example.org,11 9802 6931,Rocha da Mata,MG,Chevrolet,S10,2016,Branco,224174.23,2024-05-17,Leasing
+454,Vinicius Duarte,57,358.264.107-44,Masculino,lfreitas@example.com,81 5088 8074,Santos de Andrade,TO,Chevrolet,Tracker,2015,Preto,66308.64,2024-09-05,A vista
+455,Cecília Fonseca,33,806.479.312-22,Feminino,isisgarcia@example.com,84 7665 2999,Castro,PI,Chevrolet,S10,2024,Preto,226554.0,2024-11-24,Consórcio
+456,Vinicius Cunha,31,764.819.023-04,Masculino,gustavosiqueira@example.com,+55 (084) 2410 3914,Almeida,MT,Toyota,Hilux,2023,Prata,37357.38,2025-01-25,Leasing
+457,Arthur Miguel Azevedo,69,763.295.481-37,Masculino,gabriela20@example.net,84 5868-1317,Garcia de Albuquerque,RO,Toyota,Corolla,2024,Preto,236973.37,2025-03-12,Leasing
+458,Clara Vargas,49,057.486.329-00,Feminino,melissa15@example.org,(051) 0313-3906,da Rosa de Cirino,MS,Volkswagem,T-Cross,2016,Vermelho,245527.08,2024-09-03,Leasing
+459,Valentina Moreira,35,620.879.513-30,Feminino,isabellamachado@example.org,+55 (011) 1885-6196,Sá de Farias,CE,Ford,Ka,2023,Vermelho,207811.38,2024-03-29,Financiomanto
+460,Clarice Silveira,52,502.194.783-41,Feminino,souzaana@example.net,+55 71 2282 2804,Pimenta Paulista,MS,Toyota,Corolla,2024,Branco,68119.94,2024-04-28,Leasing
+461,Ísis Fernandes,28,137.045.962-99,Feminino,da-luzlorenzo@example.com,+55 51 1548 3941,Almeida,AC,Honda,HR-V,2021,Preto,77657.83,2024-07-16,Financiomanto
+462,Lunna Porto,37,380.152.964-98,Feminino,hellenabrito@example.net,+55 21 9332-7756,Castro do Norte,RJ,Volkswagem,T-Cross,2021,Azul,81356.72,2024-09-06,A vista
+463,Rafael Aragão,23,075.961.824-02,Masculino,tvargas@example.com,(081) 9311-1960,Pimenta de Lima,MT,Toyota,Hilux,2017,Prata,143314.68,2023-12-14,Financiomanto
+464,Heloísa da Mata,30,294.867.503-00,Feminino,pedro-lucas09@example.org,+55 (081) 4533-5883,da Cruz do Campo,PB,Honda,Civic,2022,Vermelho,110957.42,2024-01-01,A vista
+465,Francisco Monteiro,18,530.794.286-92,Masculino,vicente18@example.com,+55 31 0136 0047,da Rosa,RS,Chevrolet,Tracker,2021,Prata,208727.83,2024-08-25,Consórcio
+466,André Nunes,36,105.349.276-61,Masculino,uferreira@example.org,0500 656 1363,Guerra de Fernandes,PE,Honda,Fit,2015,Prata,232738.4,2024-06-09,Leasing
+467,Yasmin Caldeira,22,605.271.934-61,Feminino,asafe33@example.com,41 0465-5997,Fernandes,PR,Chevrolet,Onix,2015,Branco,189472.69,2024-10-14,A vista
+468,Otávio Cardoso,26,390.672.854-47,Masculino,davimartins@example.com,+55 84 6169-5641,Fernandes da Mata,CE,Ford,Ka,2020,Azul,96302.82,2024-12-23,Consórcio
+469,Laís Pereira,32,102.895.763-77,Feminino,qgomes@example.org,31 0998 7877,Rios de Minas,SE,Honda,HR-V,2016,Vermelho,45237.53,2023-04-01,Financiomanto
+470,Carlos Eduardo Ferreira,64,860.491.372-69,Masculino,isadorada-mata@example.net,+55 21 1591-4070,Moraes,AM,Ford,EcoSport,2015,Preto,31636.52,2025-02-20,A vista
+471,Lunna Ramos,56,317.905.642-80,Feminino,bellapires@example.org,+55 84 8886-3765,Novaes,MT,Toyota,Yaris,2015,Preto,200839.72,2024-04-07,Consórcio
+472,Nicole Gonçalves,51,056.874.291-58,Feminino,gsa@example.net,+55 (084) 6653 7497,Porto da Serra,MS,Ford,Ranger,2017,Prata,104066.14,2023-05-30,Financiomanto
+473,Maya da Luz,41,543.697.028-10,Feminino,gael-henrique56@example.net,(051) 6126 9205,Fernandes,RJ,Toyota,Yaris,2021,Prata,123488.03,2023-07-14,A vista
+474,Hellena Andrade,59,591.684.320-89,Feminino,emanuellysantos@example.org,(031) 6596-3063,Pinto de Cavalcanti,PB,Chevrolet,Onix,2018,Preto,200521.08,2025-01-31,Financiomanto
+475,Ayla Pimenta,34,105.679.348-10,Feminino,caroline65@example.net,(021) 3962 1393,Duarte das Pedras,PE,Honda,Civic,2021,Azul,211993.27,2024-01-10,Financiomanto
+476,Maria Julia Siqueira,53,851.326.704-07,Feminino,bento82@example.net,+55 (021) 7407-2846,Andrade Verde,AC,Toyota,Hilux,2020,Vermelho,188982.17,2024-04-10,A vista
+477,Gustavo Moraes,46,108.247.536-07,Masculino,camaracecilia@example.org,+55 61 0709-6255,Freitas,RS,Honda,Fit,2024,Preto,152410.51,2023-08-09,Leasing
+478,Leonardo Araújo,34,970.538.164-00,Masculino,gcosta@example.net,+55 (031) 4982 8945,Costela,PB,Chevrolet,Onix,2020,Prata,143923.49,2024-02-21,Financiomanto
+479,Mathias Pereira,39,567.482.013-90,Masculino,bruna70@example.com,41 7265-0278,Dias,SP,Honda,Fit,2021,Preto,175021.38,2024-08-01,A vista
+480,Luísa Pastor,55,047.961.258-76,Feminino,luiz-henrique54@example.com,0900-589-3261,Camargo,RJ,Honda,Fit,2020,Prata,243579.04,2023-09-21,A vista
+481,Emanuel Borges,49,869.104.537-00,Masculino,amandacasa-grande@example.com,(071) 8782 8752,Costela do Sul,SP,Chevrolet,Onix,2019,Branco,114096.07,2025-03-15,A vista
+482,Antônio Casa Grande,29,216.785.304-17,Masculino,qcampos@example.com,(031) 4550 3020,Câmara,PR,Toyota,Hilux,2021,Preto,247251.83,2023-12-27,Consórcio
+483,Clarice Ramos,56,152.908.463-60,Feminino,tmartins@example.com,+55 (051) 4768-6239,Rodrigues,PI,Ford,EcoSport,2015,Vermelho,225436.45,2023-10-25,A vista
+484,Alexia Guerra,70,063.978.524-74,Feminino,luanda-rosa@example.com,+55 (084) 1046-3480,Azevedo de da Cruz,DF,Toyota,Corolla,2017,Azul,191059.21,2024-09-28,Consórcio
+485,Lorenzo Araújo,21,870.652.493-10,Masculino,ncavalcanti@example.com,+55 81 4119 3522,Farias dos Dourados,RR,Chevrolet,Tracker,2024,Prata,159607.48,2024-11-25,Consórcio
+486,Aurora Moura,48,651.798.032-68,Feminino,luan68@example.org,(031) 3326 9103,Lima da Serra,AL,Volkswagem,Polo,2015,Branco,202422.85,2024-03-30,A vista
+487,Luiz Fernando Cardoso,43,263.857.409-00,Masculino,ravimoreira@example.net,(031) 4294-5438,Cavalcante do Sul,PB,Toyota,Hilux,2024,Branco,72754.68,2023-09-16,A vista
+488,Vicente da Mata,49,673.502.148-71,Masculino,milena72@example.com,81 6697 1850,Vieira das Pedras,AM,Volkswagem,T-Cross,2022,Prata,197128.65,2024-11-01,Consórcio
+489,Cauã Silveira,34,340.721.569-06,Masculino,josue38@example.net,0900 483 9062,Fogaça de Melo,MS,Ford,Ka,2023,Prata,232727.96,2024-06-27,Leasing
+490,Maria Liz Melo,32,716.085.234-62,Feminino,camilafreitas@example.net,+55 41 4233 5945,Azevedo,AC,Volkswagem,Polo,2020,Azul,74183.95,2024-03-03,A vista
+491,Maria Júlia Rezende,41,825.601.749-01,Feminino,henry-gabriel99@example.org,(021) 6727 5322,Cavalcante de Pimenta,MA,Volkswagem,Gol,2024,Azul,105963.84,2023-07-30,A vista
+492,João Miguel Teixeira,27,548.173.690-00,Masculino,vitoria54@example.net,0800 522 0801,Moraes,PA,Toyota,Hilux,2018,Preto,240120.87,2024-11-05,Leasing
+493,Valentina Camargo,46,129.530.748-05,Feminino,gabriellygarcia@example.net,+55 21 8361 7154,Aparecida do Campo,AM,Volkswagem,Polo,2019,Prata,136674.72,2024-12-24,Financiomanto
+494,Maria Sophia Rodrigues,24,916.037.254-07,Feminino,fernandesvalentim@example.org,84 1919 9598,Cassiano,PE,Honda,Civic,2019,Vermelho,46204.88,2024-11-13,Leasing
+495,João Gabriel Rodrigues,68,058.126.749-49,Masculino,cvieira@example.com,+55 (084) 3597 0104,Moraes,RN,Honda,Fit,2023,Preto,170720.81,2024-12-31,Financiomanto
+496,Cecilia Cavalcanti,55,730.215.984-04,Feminino,siqueiraolivia@example.org,0800-512-4654,Casa Grande do Galho,SC,Volkswagem,T-Cross,2018,Azul,102509.57,2025-02-08,Leasing
+497,Ana Liz Santos,30,682.945.071-30,Feminino,raulsampaio@example.com,+55 84 4737 7287,Pastor da Serra,BA,Volkswagem,Gol,2024,Vermelho,186686.43,2023-11-19,Financiomanto
+498,Luigi Cavalcanti,54,826.709.145-94,Masculino,cardosobenjamin@example.com,+55 (051) 0922 7494,Siqueira,PI,Honda,HR-V,2024,Preto,95116.49,2024-06-10,Leasing
+499,Isaac Pacheco,51,420.931.576-16,Masculino,cunhapedro-lucas@example.net,(021) 4524-5480,Albuquerque,DF,Ford,Ka,2016,Azul,62986.32,2025-03-04,Financiomanto
+500,Marcos Vinicius Rezende,31,836.902.415-70,Masculino,kvasconcelos@example.org,(041) 9217-6601,Lima,SP,Volkswagem,Polo,2020,Preto,105479.15,2024-11-08,Consórcio
+501,João Vitor Moraes,27,594.823.061-98,Masculino,eloah97@example.org,41 0035 0178,Castro,MS,Chevrolet,Tracker,2017,Branco,63984.3,2025-02-23,Leasing
+502,Leonardo Correia,28,940.857.126-67,Masculino,ana-beatriznunes@example.com,+55 (061) 6279 4240,Fogaça,RR,Chevrolet,Tracker,2019,Vermelho,230915.12,2023-12-17,A vista
+503,Thales Cardoso,47,205.643.891-70,Masculino,pda-paz@example.net,41 3348-7011,Cassiano,RS,Toyota,Yaris,2020,Vermelho,113048.8,2023-06-09,A vista
+504,Maria Flor Cavalcanti,63,415.902.687-76,Feminino,jramos@example.org,+55 (041) 7420 8048,Sousa,AC,Honda,Fit,2016,Azul,143984.62,2024-03-12,Financiomanto
+505,Beatriz Correia,60,095.762.341-07,Feminino,rebecaporto@example.org,61 5742-9584,Castro de Monteiro,GO,Chevrolet,Tracker,2021,Branco,183537.06,2023-09-03,A vista
+506,Luísa Monteiro,47,934.682.517-00,Feminino,isadora81@example.com,+55 51 5489 9718,Cunha,RN,Chevrolet,Tracker,2022,Vermelho,62190.4,2023-08-15,Consórcio
+507,Daniela Cardoso,37,138.465.709-66,Feminino,bellarezende@example.com,61 6026-1291,da Mata,PA,Chevrolet,Onix,2019,Vermelho,146769.63,2024-10-06,Financiomanto
+508,Augusto das Neves,69,914.603.287-87,Masculino,nascimentodavi@example.com,+55 21 4005 7004,da Rosa,SE,Toyota,Corolla,2023,Branco,105023.38,2024-01-15,Leasing
+509,Antony da Rosa,48,034.892.157-88,Masculino,lalbuquerque@example.com,81 9674-0452,Ferreira,PI,Ford,Ka,2022,Preto,192606.87,2024-12-16,Financiomanto
+510,Mariana da Costa,52,613.745.908-00,Feminino,fernanda84@example.net,+55 51 0618 6135,Sales da Serra,CE,Volkswagem,T-Cross,2022,Azul,46705.21,2023-05-19,Consórcio
+511,Luiz Felipe Freitas,70,738.642.059-56,Masculino,falbuquerque@example.net,+55 (061) 1371 0101,Souza,SE,Toyota,Hilux,2018,Vermelho,209069.41,2024-11-16,Leasing
+512,Luara da Rosa,60,578.610.349-84,Feminino,isabelrezende@example.net,+55 (081) 7607 8105,Campos,DF,Toyota,Corolla,2022,Prata,31350.04,2023-06-25,Financiomanto
+513,Luana Azevedo,70,139.547.208-41,Feminino,limadavi-luiz@example.net,+55 (081) 9402 9113,Cardoso,RR,Chevrolet,S10,2015,Branco,249681.27,2023-03-27,Financiomanto
+514,Breno Almeida,56,610.973.528-03,Masculino,caua43@example.com,+55 (031) 6937-0619,Barbosa,PA,Ford,EcoSport,2016,Azul,147948.14,2023-04-30,Financiomanto
+515,Olívia Mendonça,19,931.580.472-41,Feminino,mborges@example.com,11 7838-1238,Vieira,PR,Chevrolet,Tracker,2016,Prata,121300.0,2023-08-31,A vista
+516,Letícia Silveira,61,203.695.478-29,Feminino,carlos-eduardo95@example.com,0300 399 6252,Souza de Minas,AP,Chevrolet,Tracker,2018,Prata,42456.29,2023-06-06,Consórcio
+517,Eloá da Conceição,65,169.380.257-03,Feminino,lsilveira@example.com,+55 (011) 2425-8276,Mendonça,GO,Honda,HR-V,2019,Preto,67814.95,2025-02-13,Consórcio
+518,Heloisa Novais,25,609.134.827-22,Feminino,zalmeida@example.net,0300-787-1257,da Cruz do Galho,CE,Ford,Ka,2020,Branco,222756.59,2023-08-24,Financiomanto
+519,Esther Jesus,47,305.864.721-26,Feminino,isadorabarbosa@example.org,31 8920-3976,Ribeiro da Mata,RO,Toyota,Corolla,2016,Preto,73119.09,2024-04-11,Leasing
+520,Ana Carolina Costela,58,890.176.432-69,Feminino,icavalcante@example.net,(071) 1399 6614,Cassiano,PR,Volkswagem,T-Cross,2021,Preto,115438.08,2024-06-22,Financiomanto
+521,Stephany Cunha,50,146.798.025-02,Feminino,pcampos@example.net,+55 (021) 1630 5804,Borges Paulista,GO,Honda,HR-V,2022,Preto,70570.33,2023-07-30,A vista
+522,Natália Moreira,46,346.521.879-55,Feminino,mariah67@example.net,(061) 2866 8547,Sousa Alegre,RR,Ford,EcoSport,2023,Vermelho,205367.11,2024-12-21,Leasing
+523,Lucas Gabriel Campos,38,286.734.951-64,Masculino,teixeirakamilly@example.com,84 7207 7994,Souza de Rios,AC,Toyota,Yaris,2016,Branco,230845.68,2023-07-07,Financiomanto
+524,Melina Alves,29,932.860.415-05,Feminino,joao-vitor55@example.com,+55 11 7570-2562,Alves,SE,Ford,Ka,2015,Azul,228056.85,2024-08-28,Consórcio
+525,Maria Julia Ribeiro,19,590.827.314-79,Feminino,lunna31@example.net,21 0338-5179,da Mata,TO,Volkswagem,T-Cross,2016,Vermelho,169900.2,2023-09-22,Financiomanto
+526,Júlia Mendonça,31,465.872.309-38,Feminino,vfernandes@example.com,+55 (071) 4689-7847,Nunes de da Paz,RS,Volkswagem,Gol,2024,Preto,238379.51,2023-05-23,A vista
+527,Ana Júlia Porto,50,521.390.864-06,Feminino,milenacarvalho@example.org,0900 219 8768,Gonçalves de Nogueira,MT,Chevrolet,Tracker,2016,Vermelho,160699.59,2024-12-11,Financiomanto
+528,Milena Farias,61,109.378.524-14,Feminino,teixeirabenicio@example.org,+55 61 1722-5173,Freitas de Gomes,CE,Ford,Ka,2021,Prata,143935.1,2024-02-27,Consórcio
+529,Amanda Albuquerque,23,263.049.857-38,Feminino,macedopedro@example.net,21 6283-1965,Barros,SC,Chevrolet,Tracker,2021,Preto,97532.37,2024-02-22,Financiomanto
+530,Maria Liz Vieira,53,736.519.084-10,Feminino,camposlorenzo@example.org,+55 (051) 1809-0299,Pereira,RR,Volkswagem,T-Cross,2020,Preto,179012.46,2025-01-18,Financiomanto
+531,André Mendonça,66,590.724.816-58,Masculino,pda-rocha@example.net,51 8457 6800,Costa,MS,Toyota,Corolla,2023,Branco,34546.68,2023-03-26,Financiomanto
+532,Sophia Vargas,60,248.351.970-97,Feminino,kbrito@example.com,+55 51 3889 1195,Sá do Oeste,ES,Honda,Fit,2020,Vermelho,218213.61,2023-04-29,A vista
+533,Joana Costela,50,264.958.370-38,Feminino,vitoriasantos@example.net,+55 (084) 9980 4763,da Costa,AM,Volkswagem,T-Cross,2022,Vermelho,214530.68,2024-08-27,Consórcio
+534,João Pedro Porto,57,570.438.961-93,Masculino,fsa@example.org,31 2377 7672,Brito de da Cunha,PA,Chevrolet,Tracker,2020,Prata,189628.64,2024-06-16,Leasing
+535,Larissa Ramos,28,478.956.023-65,Feminino,nina76@example.org,61 5599 3611,Sousa,AP,Honda,Fit,2021,Branco,83818.56,2023-03-17,A vista
+536,Sophie Moreira,23,742.691.038-50,Feminino,nuneseduardo@example.org,(051) 7976 2681,Novaes,PR,Volkswagem,T-Cross,2023,Azul,169920.11,2023-10-02,Consórcio
+537,Natália Novaes,36,396.410.578-39,Feminino,carvalhodiego@example.net,+55 (071) 4994 0788,Santos,PI,Volkswagem,Gol,2015,Branco,128769.24,2023-05-01,Leasing
+538,Hadassa Cavalcante,26,462.307.815-90,Feminino,rcasa-grande@example.net,+55 (061) 0307 5145,da Conceição de Camargo,MG,Chevrolet,Tracker,2023,Vermelho,82076.91,2024-06-18,Consórcio
+539,Calebe Albuquerque,44,853.729.601-59,Masculino,correiahadassa@example.net,+55 41 2092 3322,Moraes,DF,Honda,Civic,2023,Vermelho,130814.25,2023-04-28,Consórcio
+540,Ana Júlia Novaes,21,610.825.793-86,Feminino,souzaana-carolina@example.org,(081) 6613-3497,Moreira,TO,Ford,EcoSport,2020,Prata,128161.31,2023-11-21,Leasing
+541,Maria Liz Lopes,43,493.785.621-91,Feminino,fariaszoe@example.org,81 1692-8560,Cirino,RR,Chevrolet,Tracker,2021,Vermelho,247212.96,2023-04-29,Financiomanto
+542,Clara Pereira,65,540.963.281-89,Feminino,emendes@example.org,+55 84 1693 6813,Lopes do Sul,DF,Volkswagem,T-Cross,2016,Azul,31896.73,2023-08-24,Leasing
+543,Maria Vitória Moreira,61,127.304.659-52,Feminino,abreumaria-julia@example.org,+55 71 2018 1602,Garcia Alegre,RR,Toyota,Corolla,2017,Prata,34715.42,2025-03-06,Consórcio
+544,Joaquim Pastor,28,342.751.068-90,Masculino,da-costahenrique@example.org,0800 656 0115,Porto,RO,Volkswagem,Gol,2020,Branco,152956.16,2023-09-29,Consórcio
+545,José Miguel Cirino,32,217.943.865-64,Masculino,yrezende@example.org,0300 303 6616,Ferreira,RR,Chevrolet,S10,2023,Prata,208820.2,2024-06-28,Financiomanto
+546,Antonella Fonseca,63,872.569.413-82,Feminino,hellenada-mota@example.org,(021) 9204-6566,Brito de Souza,AP,Volkswagem,Gol,2021,Azul,101578.73,2024-01-31,Leasing
+547,Allana da Paz,48,781.264.935-00,Feminino,lauracampos@example.net,+55 (041) 8565 2476,Fonseca,DF,Toyota,Hilux,2017,Branco,182620.72,2024-11-27,Financiomanto
+548,Ester da Cunha,43,384.572.906-65,Feminino,antonymoura@example.com,0500-620-5556,Vargas,GO,Honda,HR-V,2021,Vermelho,207024.77,2024-04-13,Consórcio
+549,Manuella Teixeira,20,231.659.708-40,Feminino,ssilva@example.com,11 2040 5834,Costa,RS,Toyota,Hilux,2022,Preto,153230.42,2024-12-20,A vista
+550,Sabrina Dias,39,518.024.639-33,Feminino,moraesmaria-luiza@example.net,(031) 7066 0816,Marques de Nogueira,SE,Toyota,Yaris,2015,Vermelho,130016.76,2023-06-21,Consórcio
+551,Maria Cecília Martins,45,369.205.471-80,Feminino,eduardo33@example.com,(031) 8136-2932,Leão,SC,Toyota,Yaris,2021,Branco,39098.69,2024-06-17,Financiomanto
+552,Isaac Machado,43,489.621.750-02,Masculino,aylla50@example.org,(061) 2581 9505,Carvalho,AC,Toyota,Hilux,2022,Branco,161905.57,2024-12-23,Consórcio
+553,Maria Alice da Cunha,46,218.756.093-77,Feminino,uazevedo@example.com,(051) 1691-2254,Ferreira da Prata,RJ,Ford,Ka,2020,Preto,150122.27,2023-10-29,Leasing
+554,Alexia Martins,50,691.243.857-19,Feminino,qsiqueira@example.com,+55 (071) 1781-9572,Pimenta do Galho,MT,Honda,Fit,2021,Preto,173967.6,2024-07-27,Consórcio
+555,Maria Liz Nunes,38,903.217.548-32,Feminino,breno05@example.net,(071) 0687-0967,Viana,RS,Ford,EcoSport,2015,Prata,221538.71,2023-09-26,Consórcio
+556,Leandro Câmara,39,270.813.569-40,Masculino,salesluara@example.net,+55 11 8647 0332,Camargo de Goiás,SC,Toyota,Yaris,2019,Prata,77064.84,2025-01-05,A vista
+557,Diogo Sá,39,129.367.084-78,Masculino,fogacaana-luiza@example.net,+55 (071) 5502-2833,Araújo das Pedras,RJ,Honda,Civic,2022,Azul,103717.92,2024-11-16,A vista
+558,Alexandre da Costa,39,869.043.521-24,Masculino,bruna20@example.org,(041) 2355-0133,Melo,PE,Volkswagem,Gol,2019,Preto,135330.95,2023-10-12,A vista
+559,Caleb Teixeira,31,682.734.950-00,Masculino,fsilva@example.com,+55 (021) 4730-2715,Nogueira,AM,Volkswagem,Polo,2017,Vermelho,147714.66,2024-04-02,Consórcio
+560,Ísis Vasconcelos,57,975.421.680-02,Feminino,otto21@example.org,+55 (011) 0998 6793,Freitas,PI,Toyota,Hilux,2015,Preto,79433.52,2023-05-29,Leasing
+561,Maria Cecília Lima,31,907.361.254-34,Feminino,arthurcavalcanti@example.org,51 3515 1959,Santos da Prata,RN,Honda,HR-V,2017,Vermelho,120809.11,2024-01-19,A vista
+562,Davi Sá,58,791.520.364-99,Masculino,lauraaraujo@example.com,(071) 2247-6054,Teixeira dos Dourados,RJ,Honda,HR-V,2021,Prata,145965.35,2023-08-11,Financiomanto
+563,Luiz Otávio Campos,47,654.198.730-01,Masculino,montenegroclara@example.net,+55 (011) 2676-3174,Borges de Gonçalves,RR,Honda,Civic,2024,Branco,42425.5,2023-11-03,Leasing
+564,Liam Borges,20,193.420.867-13,Masculino,wcasa-grande@example.net,81 7785-0514,Farias da Praia,DF,Volkswagem,Polo,2021,Preto,139409.72,2024-11-18,Leasing
+565,Cauã da Cunha,41,407.829.651-30,Masculino,cbarbosa@example.net,(071) 1002 9690,Rezende,MS,Ford,Ka,2018,Vermelho,197723.45,2024-06-19,A vista
+566,Miguel Novaes,69,308.741.956-75,Masculino,gnovais@example.org,(041) 6590 3440,Ramos de Duarte,CE,Honda,Fit,2023,Vermelho,78997.08,2024-07-09,Consórcio
+567,Isaque da Mata,49,207.613.845-53,Masculino,leaobenicio@example.com,(011) 4680-7309,Aparecida,SP,Toyota,Hilux,2021,Branco,119764.84,2024-03-15,Leasing
+568,Rodrigo Sá,49,278.541.369-55,Masculino,aylla00@example.com,+55 (084) 3550 5396,Almeida de Santos,ES,Volkswagem,Polo,2022,Preto,185888.94,2023-09-25,A vista
+569,João Pedro Azevedo,31,526.381.490-98,Masculino,jsampaio@example.com,+55 (041) 4278 9879,Cassiano das Flores,PB,Ford,EcoSport,2018,Branco,167322.24,2023-08-25,Consórcio
+570,Luna Câmara,42,019.564.278-30,Feminino,albuquerquehenry-gabriel@example.net,+55 (031) 5455 7066,Novais,SE,Volkswagem,T-Cross,2017,Vermelho,128522.39,2024-10-16,Consórcio
+571,João Sá,60,482.673.901-03,Masculino,ana-liz18@example.org,+55 (061) 7738-9240,Albuquerque do Campo,PE,Ford,EcoSport,2017,Prata,211573.67,2023-09-01,A vista
+572,Maria Luísa Porto,58,467.295.301-70,Feminino,danteda-mota@example.net,+55 (021) 8291-3228,Costa,RO,Ford,Ka,2016,Vermelho,112188.44,2023-12-11,Leasing
+573,Daniela Moraes,25,381.057.624-71,Feminino,guilherme63@example.com,+55 41 8333-6313,Pinto,PI,Volkswagem,T-Cross,2023,Preto,62151.94,2023-11-16,Leasing
+574,José das Neves,35,138.056.472-71,Masculino,teixeiraraul@example.com,+55 (071) 5695-7612,Mendes de Barros,DF,Volkswagem,Gol,2017,Branco,226179.33,2023-07-16,A vista
+575,Ravi Lucca Cavalcanti,35,623.157.804-62,Masculino,barrosluiz-gustavo@example.org,(051) 2376-5160,da Rocha,BA,Honda,Fit,2018,Vermelho,49344.12,2024-08-17,Leasing
+576,Augusto Marques,24,917.482.605-02,Masculino,joao-pedro48@example.com,0500 438 9791,Leão dos Dourados,PR,Ford,EcoSport,2022,Preto,175980.85,2025-03-05,Consórcio
+577,Isabelly da Paz,35,324.059.816-70,Feminino,obrito@example.com,61 2197 1386,da Mata,PB,Volkswagem,T-Cross,2020,Preto,148599.84,2024-10-03,Leasing
+578,Yago Souza,39,254.987.136-73,Masculino,ayla91@example.org,+55 (084) 9801 1464,Siqueira de da Mota,SP,Honda,Fit,2024,Preto,212200.93,2024-01-10,Financiomanto
+579,Aylla Cardoso,38,185.346.902-51,Feminino,barbosamatheus@example.com,(051) 9871-1983,Caldeira,MT,Chevrolet,S10,2018,Prata,73696.54,2024-12-31,Consórcio
+580,Fernanda Jesus,40,789.136.420-69,Feminino,julia99@example.org,11 7995 5766,da Conceição,PE,Ford,EcoSport,2019,Branco,105653.62,2024-02-06,Leasing
+581,Isaque Novaes,54,109.732.865-12,Masculino,luiz-otaviopastor@example.com,(084) 6862-0631,Mendes,MG,Honda,Civic,2016,Vermelho,127222.49,2024-01-31,Consórcio
+582,Elisa Andrade,21,305.876.421-90,Feminino,caue07@example.org,+55 61 2811-6592,Porto,BA,Toyota,Hilux,2022,Prata,205695.11,2023-12-26,Financiomanto
+583,Juliana Rocha,63,976.025.431-06,Feminino,maria-ceciliacamara@example.org,(031) 6544 5581,Sá,PA,Ford,Ranger,2019,Branco,181658.28,2023-11-22,Consórcio
+584,Ana Cecília Novais,20,673.214.950-43,Feminino,gustavo64@example.org,84 0320 6355,Ferreira de Barbosa,CE,Toyota,Hilux,2021,Prata,43897.06,2024-06-14,Financiomanto
+585,Dom Fogaça,24,102.379.645-70,Masculino,isaque09@example.net,21 5388 3563,Albuquerque,SP,Honda,Fit,2020,Vermelho,179395.99,2024-09-04,Consórcio
+586,Maria Luiza Fonseca,42,962.457.381-64,Feminino,antonycostela@example.net,0300-685-5167,Monteiro,ES,Toyota,Corolla,2024,Branco,225870.52,2024-07-08,A vista
+587,Catarina Barros,30,841.026.795-02,Feminino,vnogueira@example.com,+55 (071) 0290-6941,Duarte,AC,Chevrolet,S10,2024,Preto,109288.49,2024-07-20,Leasing
+588,Maria Liz Ribeiro,27,163.927.804-40,Feminino,marquesgabriela@example.com,0900-987-3407,Fonseca,MT,Toyota,Corolla,2023,Preto,203231.61,2023-09-04,Leasing
+589,Marcelo Ramos,64,613.258.794-28,Masculino,peixotovitor-gabriel@example.com,+55 21 0249 0975,Sampaio de da Rocha,PR,Toyota,Yaris,2023,Prata,209752.17,2023-12-24,A vista
+590,Catarina Fonseca,25,245.986.370-56,Feminino,raul06@example.com,+55 (081) 1363 2291,da Mata Verde,AL,Ford,Ka,2016,Preto,37058.54,2024-12-27,Consórcio
+591,Ana Julia Correia,51,732.198.654-37,Feminino,costelabruna@example.org,81 4655 7865,Ribeiro,PI,Volkswagem,Polo,2018,Branco,71410.81,2023-12-22,Leasing
+592,João Felipe Rodrigues,65,468.059.712-76,Masculino,salesanthony-gabriel@example.net,+55 41 1919-9913,Oliveira dos Dourados,AC,Toyota,Corolla,2022,Branco,229783.6,2023-06-02,Consórcio
+593,Luigi Vasconcelos,32,295.384.071-05,Masculino,oliver32@example.net,71 9396 7232,Sousa,PR,Honda,Civic,2015,Vermelho,131872.58,2023-11-14,Financiomanto
+594,Allana Nascimento,67,721.906.835-21,Feminino,jlopes@example.net,(041) 5684 8343,Alves do Amparo,SP,Volkswagem,Polo,2019,Branco,233888.74,2023-09-04,A vista
+595,Beatriz Fonseca,51,948.253.107-88,Feminino,costabenjamim@example.org,+55 51 4299 3463,Lima,RN,Chevrolet,Tracker,2017,Azul,140933.92,2023-03-24,Leasing
+596,Allana da Paz,59,802.965.413-89,Feminino,zcostela@example.org,(081) 4750-2100,Porto,PA,Honda,Fit,2020,Branco,75844.77,2023-09-16,A vista
+597,Carlos Eduardo Rezende,36,723.849.051-04,Masculino,pereiraluiz-felipe@example.com,31 1567 2510,Fonseca,MT,Toyota,Corolla,2020,Vermelho,121238.61,2025-02-20,Leasing
+598,Maysa Freitas,59,357.984.126-28,Feminino,agatha37@example.com,+55 (031) 6007-4199,Campos de Goiás,SC,Chevrolet,Onix,2023,Vermelho,216801.65,2024-08-27,A vista
+599,Vitor Sousa,46,581.694.703-66,Masculino,joao-vitor23@example.net,+55 (071) 8637-9487,Oliveira da Prata,RR,Volkswagem,Gol,2023,Azul,231432.01,2023-09-21,A vista
+600,Luiz Miguel Sá,69,530.924.687-83,Masculino,rcunha@example.org,51 5736 7134,Castro do Galho,AL,Toyota,Hilux,2023,Vermelho,151948.87,2024-01-24,Consórcio
+601,Henry Silva,70,408.271.693-96,Masculino,fgomes@example.net,+55 51 6980 1853,Garcia do Sul,AP,Toyota,Yaris,2023,Prata,79959.32,2023-07-01,Leasing
+602,Pedro Correia,22,612.354.809-33,Masculino,ana-lizramos@example.com,0800 050 3887,das Neves,BA,Toyota,Hilux,2015,Azul,49409.92,2024-11-03,Consórcio
+603,Gael Henrique Almeida,25,612.754.803-90,Masculino,da-matacarlos-eduardo@example.org,+55 11 0698 6363,Araújo Alegre,RJ,Chevrolet,Onix,2019,Azul,109531.16,2024-02-10,Leasing
+604,Ravi Viana,65,157.920.348-50,Masculino,snovaes@example.net,+55 61 6908-3657,Campos,BA,Chevrolet,S10,2022,Azul,114536.23,2023-10-03,Consórcio
+605,Maya Peixoto,50,743.058.629-56,Feminino,ana-lizsa@example.com,+55 (051) 2684 8862,Cavalcante,CE,Toyota,Corolla,2024,Vermelho,63113.54,2023-04-28,Financiomanto
+606,Ravi Lucca Cardoso,43,025.167.498-30,Masculino,alvesgael-henrique@example.org,+55 (021) 5406-3925,Barros,CE,Volkswagem,T-Cross,2015,Branco,218426.49,2024-09-06,Leasing
+607,Lavínia Camargo,20,789.325.160-30,Feminino,ramosluiz-otavio@example.com,84 6828-9750,Correia,MA,Volkswagem,T-Cross,2015,Branco,100838.97,2024-01-01,Leasing
+608,Sarah Garcia,26,972.130.846-31,Feminino,benicio92@example.net,+55 (041) 5792-4540,Guerra Grande,RR,Honda,Civic,2020,Preto,193245.48,2024-11-22,Consórcio
+609,Caleb Santos,44,248.917.530-05,Masculino,speixoto@example.net,+55 21 2664-3772,da Cunha de Melo,RO,Ford,Ka,2018,Prata,106012.74,2023-06-30,Consórcio
+610,Cauã Oliveira,45,851.049.627-76,Masculino,davi-lucca74@example.org,+55 31 8098-4386,Vieira da Serra,SC,Volkswagem,Gol,2022,Prata,185462.84,2023-05-18,Consórcio
+611,Nina Brito,63,375.148.296-28,Feminino,laravieira@example.org,+55 (084) 1131-9706,Cardoso de Pacheco,PB,Toyota,Corolla,2023,Preto,214421.25,2023-06-21,Consórcio
+612,Davi Luiz Azevedo,22,964.817.025-85,Masculino,milenadias@example.org,+55 11 7281-3936,Melo de Caldeira,MA,Toyota,Corolla,2021,Vermelho,212708.13,2023-08-18,Leasing
+613,Erick Camargo,24,241.935.608-05,Masculino,fernanda76@example.com,+55 51 1866 1438,Brito,SC,Honda,HR-V,2020,Azul,175707.72,2023-05-01,A vista
+614,Cecília Almeida,27,410.368.725-80,Feminino,calebe85@example.net,+55 (051) 9299-4792,Camargo,PB,Chevrolet,Tracker,2017,Vermelho,134733.07,2025-01-12,A vista
+615,Henry Marques,33,870.925.314-97,Masculino,henry-gabriel88@example.com,0300 558 6795,Silva de das Neves,MT,Honda,HR-V,2022,Vermelho,68635.18,2024-07-15,Consórcio
+616,Carolina Fogaça,45,768.140.529-11,Feminino,tcampos@example.org,51 7251 1777,Vargas do Galho,AC,Volkswagem,Polo,2024,Preto,169861.33,2024-09-18,Financiomanto
+617,Isabella Correia,69,578.219.306-95,Feminino,isabellalopes@example.org,+55 (051) 4825 7224,Camargo,RS,Honda,Fit,2018,Branco,217236.49,2023-05-24,Financiomanto
+618,Lorenzo Vasconcelos,29,091.256.837-21,Masculino,leonardo52@example.net,(051) 5476 1123,Brito,SC,Toyota,Hilux,2024,Vermelho,249513.12,2024-03-08,Consórcio
+619,Maria Sophia Almeida,49,109.825.473-23,Feminino,vargaskamilly@example.net,+55 (031) 0770-0749,Aparecida da Prata,RS,Volkswagem,Gol,2015,Branco,44446.02,2024-08-31,Consórcio
+620,Brayan Brito,32,853.627.041-17,Masculino,wcirino@example.com,(061) 5806 0178,Sá,CE,Honda,HR-V,2018,Azul,200466.97,2024-09-30,Consórcio
+621,Caroline da Costa,58,038.657.941-57,Feminino,pintoasafe@example.org,+55 11 5161 7489,Machado do Norte,RS,Ford,EcoSport,2023,Preto,183781.87,2023-12-02,Consórcio
+622,Rhavi Casa Grande,47,628.105.497-02,Masculino,miguel83@example.org,+55 21 9328 6241,Ramos,ES,Chevrolet,Tracker,2023,Prata,154798.99,2025-01-23,A vista
+623,Gael Siqueira,37,056.873.294-47,Masculino,carvalhoallana@example.net,+55 (061) 9384 0103,Novais,MT,Volkswagem,Polo,2021,Branco,215054.5,2023-10-22,Consórcio
+624,Isadora Andrade,45,540.821.763-90,Feminino,camposbento@example.com,+55 (031) 3951-7710,Melo do Norte,PE,Chevrolet,S10,2024,Azul,96951.23,2024-08-06,A vista
+625,Leandro Brito,33,430.782.569-10,Masculino,marcelaviana@example.net,(071) 6666 5283,Mendes do Galho,MG,Toyota,Yaris,2023,Branco,245223.53,2023-06-13,Consórcio
+626,Maria Isis Ferreira,63,387.904.125-32,Feminino,meloolivia@example.net,(061) 1028 0891,Cavalcante,RO,Volkswagem,T-Cross,2023,Vermelho,165099.79,2024-08-22,Leasing
+627,Ana Carvalho,23,306.718.954-00,Feminino,britojoao-pedro@example.org,+55 31 4686-6594,Pinto da Serra,AC,Honda,HR-V,2018,Prata,126976.44,2023-07-14,Consórcio
+628,Gael Henrique Pinto,49,054.691.327-06,Masculino,cassianorael@example.net,(041) 1599 4688,Melo,PR,Volkswagem,Gol,2024,Prata,205980.81,2023-07-07,Leasing
+629,Bianca Rocha,60,015.237.894-41,Feminino,hgarcia@example.net,81 3249-6457,Nunes,RS,Chevrolet,Onix,2022,Azul,224323.66,2023-12-09,A vista
+630,Valentina da Cunha,62,821.745.306-35,Feminino,joao-gabriel48@example.org,0900-436-5794,Correia,AC,Volkswagem,Polo,2021,Branco,113720.55,2024-09-22,A vista
+631,Ravy Mendes,26,761.254.039-80,Masculino,rael02@example.org,+55 (081) 0311 5171,Peixoto de Goiás,AC,Ford,EcoSport,2022,Azul,239899.09,2024-07-07,Financiomanto
+632,Luiz Miguel Alves,45,037.841.256-62,Masculino,yasminalbuquerque@example.net,+55 41 2074 9402,Nogueira,SC,Chevrolet,Onix,2021,Prata,119977.8,2024-10-18,Financiomanto
+633,Vitor Gabriel Silva,45,423.687.109-22,Masculino,das-nevesbruna@example.net,41 6236 8330,Pereira,RS,Ford,EcoSport,2017,Preto,183808.72,2024-04-30,A vista
+634,Ana Laura Vargas,68,790.842.315-97,Feminino,isales@example.com,41 3630 8313,Fonseca da Serra,AM,Honda,Civic,2015,Azul,115105.23,2023-08-06,Leasing
+635,José Miguel Novais,70,142.573.608-44,Masculino,arthur-miguel31@example.org,51 0515 0318,da Rocha,ES,Ford,EcoSport,2017,Preto,120095.33,2023-09-19,Leasing
+636,Leandro da Luz,30,517.384.960-66,Masculino,mendoncacecilia@example.com,(041) 0213-3330,Martins,MG,Honda,Civic,2017,Vermelho,83340.73,2023-06-01,Financiomanto
+637,Cecília Andrade,32,860.123.459-33,Feminino,freitasmaria-eduarda@example.com,+55 (011) 9076-3503,da Mota,AP,Ford,Ka,2017,Vermelho,207299.52,2024-08-05,Financiomanto
+638,Giovanna Duarte,64,593.701.486-39,Feminino,borgesenzo-gabriel@example.com,(021) 9128-0808,Cardoso da Mata,AL,Volkswagem,T-Cross,2015,Preto,226094.91,2024-11-19,Financiomanto
+639,Arthur Gabriel Ramos,28,498.135.027-97,Masculino,da-mataemilly@example.org,+55 71 2959 1239,Casa Grande,PI,Toyota,Yaris,2020,Azul,190742.56,2024-05-17,A vista
+640,Ana Duarte,64,159.073.482-32,Feminino,qcardoso@example.org,+55 71 6653 4688,Sá,MT,Toyota,Corolla,2015,Prata,56274.97,2023-03-30,A vista
+641,Esther Freitas,20,718.532.904-32,Feminino,antonella09@example.org,(084) 3956-0366,Jesus Verde,TO,Honda,HR-V,2021,Azul,77729.7,2024-01-20,Consórcio
+642,Ana Beatriz da Paz,18,423.980.561-98,Feminino,isadora50@example.net,+55 (031) 3325-0025,Cavalcanti,TO,Toyota,Hilux,2021,Preto,55422.26,2025-03-05,Financiomanto
+643,Mariana Vasconcelos,60,217.846.905-11,Feminino,araujoalana@example.org,+55 84 4100 0509,Siqueira,PB,Toyota,Yaris,2019,Azul,234130.22,2024-08-17,Consórcio
+644,Allana da Mota,33,159.046.372-25,Feminino,ada-paz@example.org,(031) 1465-1352,Duarte do Oeste,AC,Toyota,Hilux,2022,Vermelho,94445.98,2023-05-05,A vista
+645,Ayla Rezende,33,251.406.378-71,Feminino,gael-henriquenovaes@example.com,+55 61 1472-3851,Câmara,SP,Toyota,Corolla,2024,Azul,75503.08,2024-04-30,A vista
+646,Enrico Nascimento,34,207.891.453-32,Masculino,erick29@example.net,(021) 4673 3003,Montenegro da Praia,MG,Toyota,Yaris,2019,Preto,178303.41,2024-02-07,A vista
+647,João Miguel Marques,54,146.259.387-91,Masculino,stellada-cunha@example.org,84 6926 1027,Camargo do Oeste,CE,Toyota,Hilux,2017,Preto,202876.45,2023-04-06,Financiomanto
+648,Amanda Borges,41,750.324.619-70,Feminino,azevedozoe@example.com,+55 31 7940 5079,Lima,RO,Ford,EcoSport,2023,Azul,193231.09,2024-06-03,Consórcio
+649,Thiago Sá,49,065.342.971-16,Masculino,henry-gabrielcampos@example.org,0300-739-4052,Siqueira,RR,Toyota,Yaris,2023,Vermelho,124168.63,2023-03-20,Financiomanto
+650,Juliana Cunha,37,681.235.094-05,Feminino,cgomes@example.net,+55 (041) 5551-6138,Silva,RO,Chevrolet,Onix,2015,Azul,152846.82,2023-09-15,Financiomanto
+651,Ana Castro,34,840.796.251-11,Feminino,zfonseca@example.org,+55 41 4274 9381,Melo,RO,Volkswagem,T-Cross,2015,Azul,39532.26,2023-06-18,A vista
+652,Rebeca Vieira,26,342.051.978-88,Feminino,fogacaallana@example.com,51 5549 4266,Viana do Oeste,SP,Honda,Fit,2017,Prata,93515.38,2023-06-10,Consórcio
+653,Léo Pastor,63,402.796.358-00,Masculino,emilly75@example.org,+55 41 4142-4759,Moura,PR,Volkswagem,Polo,2024,Preto,43725.93,2023-08-02,Financiomanto
+654,Noah Aparecida,45,609.217.834-69,Masculino,sofiaporto@example.com,(021) 7913 4148,Machado do Amparo,SP,Chevrolet,Tracker,2017,Preto,67440.28,2024-08-30,A vista
+655,José Sales,56,072.596.138-40,Masculino,lorenzoda-cunha@example.net,+55 71 4283 9509,Mendonça,DF,Ford,Ranger,2015,Preto,102412.8,2023-05-31,Consórcio
+656,Isis Pastor,62,237.095.468-00,Feminino,luanlopes@example.com,+55 (021) 2975-0331,Ramos,PR,Honda,Fit,2016,Branco,40194.77,2025-01-12,Leasing
+657,Gabriel Silveira,44,490.127.863-04,Masculino,isabel64@example.com,+55 31 7167-5104,Farias Paulista,RJ,Volkswagem,Gol,2019,Branco,128385.68,2024-11-04,Consórcio
+658,Lorena da Costa,27,481.367.502-62,Feminino,guerrasofia@example.com,+55 21 2168-7429,Ferreira,CE,Volkswagem,T-Cross,2015,Azul,237208.34,2023-08-31,Consórcio
+659,Brenda Barbosa,43,753.014.289-50,Feminino,esther11@example.com,61 1273-1765,Fonseca,PI,Honda,Fit,2020,Prata,229975.68,2023-07-26,Leasing
+660,Melissa Vasconcelos,37,894.136.705-01,Feminino,jvieira@example.org,0900-029-2286,Araújo,RO,Toyota,Yaris,2024,Preto,155353.1,2024-10-09,A vista
+661,João Vitor Ramos,35,046.135.897-20,Masculino,rafaelamendes@example.net,41 6082 1423,Nascimento,SE,Volkswagem,T-Cross,2022,Branco,235662.49,2024-02-29,Leasing
+662,Maria Alice Barros,68,431.829.056-51,Feminino,tpastor@example.org,(084) 8535-5119,Vargas,AP,Toyota,Yaris,2018,Azul,149254.48,2024-12-25,Leasing
+663,Levi Sampaio,58,140.582.937-05,Masculino,dcorreia@example.net,0900-612-8040,Albuquerque,PE,Volkswagem,Polo,2022,Preto,63547.9,2023-06-09,Financiomanto
+664,Matheus Câmara,32,571.493.068-10,Masculino,lunna90@example.org,+55 (051) 0616 1129,Fernandes do Amparo,AP,Toyota,Hilux,2015,Preto,176798.08,2023-07-17,A vista
+665,Benjamin Silveira,60,568.492.031-42,Masculino,garciaanthony-gabriel@example.org,11 9675-7631,Cirino da Mata,BA,Volkswagem,T-Cross,2020,Prata,181737.92,2023-04-27,Leasing
+666,André Rocha,29,293.156.487-73,Masculino,claraduarte@example.net,+55 (061) 5960 6245,Barbosa,SP,Volkswagem,Polo,2015,Prata,137524.09,2024-12-17,A vista
+667,Maria Liz Sampaio,50,240.136.579-61,Feminino,manuelafonseca@example.net,+55 81 8199 0537,Leão,DF,Ford,EcoSport,2024,Branco,146828.81,2025-03-12,Financiomanto
+668,Yago Novaes,32,602.815.749-01,Masculino,caroline70@example.org,+55 81 0763-2686,Silva,ES,Honda,HR-V,2018,Prata,154773.83,2023-10-10,A vista
+669,Henrique Câmara,70,539.621.840-15,Masculino,theo42@example.org,+55 (041) 8987-7824,Pastor,PE,Chevrolet,Onix,2022,Azul,135412.7,2024-12-05,Leasing
+670,José Jesus,58,135.869.402-89,Masculino,jmacedo@example.net,+55 (081) 6373-6233,Aragão,CE,Volkswagem,Polo,2018,Prata,208770.0,2025-01-22,Consórcio
+671,Beatriz Ribeiro,39,098.165.347-20,Feminino,ynovais@example.net,+55 21 6601-9369,Cavalcanti,MS,Volkswagem,Polo,2017,Branco,32596.55,2024-02-14,A vista
+672,Noah Araújo,42,709.562.184-58,Masculino,thomasmoura@example.net,+55 (051) 6616-3920,da Paz,RJ,Ford,EcoSport,2018,Azul,105332.01,2023-05-17,Consórcio
+673,Emanuella Nunes,54,815.769.420-58,Feminino,claricemachado@example.org,(061) 9112-3899,Castro,PR,Honda,Fit,2020,Branco,86428.4,2024-10-17,A vista
+674,Davi Leão,46,326.850.479-56,Masculino,thiagonovais@example.com,0500 331 8698,Barros,AL,Volkswagem,Polo,2019,Vermelho,109055.43,2024-03-08,Consórcio
+675,Maria Fernanda Silveira,38,047.593.281-14,Feminino,davi-miguelfarias@example.org,(041) 4960 7248,Cavalcante Grande,PA,Ford,Ka,2022,Preto,99369.14,2024-01-14,A vista
+676,Cecilia Casa Grande,53,538.240.971-41,Feminino,rafaelaferreira@example.net,+55 (021) 8423-8039,Gomes do Amparo,BA,Toyota,Hilux,2017,Branco,46983.4,2023-09-16,Leasing
+677,Manuella Cardoso,21,721.894.365-91,Feminino,alicesouza@example.org,11 2382 7611,Costa do Sul,TO,Toyota,Corolla,2018,Prata,105227.0,2023-05-29,Leasing
+678,Marcelo Correia,60,089.751.426-20,Masculino,peixotomaria-flor@example.net,+55 31 7092 5828,Fonseca,PR,Honda,Civic,2019,Preto,38828.43,2025-03-06,Consórcio
+679,Isaque Albuquerque,65,834.109.762-13,Masculino,da-conceicaobarbara@example.org,(061) 8701-5896,Cirino,RO,Ford,Ranger,2020,Branco,68868.49,2023-11-09,Leasing
+680,Davi Miguel Fernandes,20,724.619.830-03,Masculino,murilo18@example.com,+55 81 9257-4310,Cavalcante,RN,Toyota,Corolla,2015,Preto,60556.46,2024-03-13,Consórcio
+681,Vinicius Lopes,24,762.019.345-61,Masculino,luna51@example.net,31 7002 0220,Pimenta,RS,Toyota,Yaris,2022,Vermelho,210483.36,2023-10-02,A vista
+682,Noah Andrade,58,687.039.542-00,Masculino,raulmendonca@example.org,31 2845 5816,Campos,BA,Chevrolet,Tracker,2015,Azul,114127.61,2023-11-23,Consórcio
+683,Bryan Cavalcante,58,749.305.862-83,Masculino,gabriel11@example.net,51 3288 2192,Novaes,ES,Toyota,Yaris,2016,Vermelho,105894.38,2023-04-30,A vista
+684,Bruno Barbosa,18,476.839.250-47,Masculino,tda-cruz@example.com,61 8531-0570,Duarte,MG,Honda,HR-V,2016,Vermelho,164741.7,2024-01-07,Financiomanto
+685,Catarina Alves,45,321.567.904-34,Feminino,ana-lizda-cunha@example.org,(081) 3573-7042,Azevedo dos Dourados,PR,Volkswagem,T-Cross,2018,Branco,184490.98,2024-01-10,Financiomanto
+686,Maria Sophia Pereira,24,601.427.395-61,Feminino,emanuel19@example.org,+55 31 5934 9538,da Mota,MT,Honda,Fit,2023,Preto,56119.73,2024-11-12,A vista
+687,Emanuelly Cavalcante,40,089.341.657-66,Feminino,brenda65@example.net,+55 (011) 9547 3798,Cirino do Amparo,RS,Volkswagem,T-Cross,2018,Prata,186943.77,2023-12-13,A vista
+688,Davi Miguel Moraes,45,059.237.461-07,Masculino,levi64@example.net,(071) 5922 6908,Gonçalves de Sampaio,MT,Volkswagem,Polo,2015,Prata,244577.31,2024-06-03,A vista
+689,Manuella Leão,45,392.681.740-22,Feminino,yuri20@example.com,+55 71 2697 6877,Castro de Siqueira,MS,Ford,Ranger,2019,Preto,128467.55,2025-03-05,Financiomanto
+690,Fernanda Barbosa,40,180.625.974-58,Feminino,cunhamateus@example.org,0300-873-8815,Vasconcelos do Galho,MA,Ford,EcoSport,2022,Azul,63481.99,2024-12-06,Financiomanto
+691,João Nunes,36,089.456.371-84,Masculino,rodrigo08@example.net,71 5728-6544,da Mata,PR,Toyota,Corolla,2016,Vermelho,127885.99,2024-05-11,A vista
+692,Otto Sá,32,527.609.813-12,Masculino,cassianotheo@example.net,+55 (011) 5882 9838,Vieira de Barros,PI,Ford,Ka,2020,Vermelho,203897.18,2024-09-04,Leasing
+693,Laura Andrade,63,139.748.652-09,Feminino,esther50@example.org,(084) 1070-8924,Duarte,SP,Chevrolet,Tracker,2016,Prata,182001.75,2024-12-17,Financiomanto
+694,Luísa Mendes,21,914.803.572-60,Feminino,dabreu@example.org,(071) 8216 2272,Mendes da Prata,AP,Chevrolet,Onix,2023,Preto,226858.31,2023-11-10,Financiomanto
+695,Maria Luísa Rios,34,601.327.594-70,Feminino,qsampaio@example.com,+55 (031) 2601 7829,Cavalcante da Mata,SC,Toyota,Corolla,2015,Vermelho,193897.23,2024-08-07,Leasing
+696,Manuela Duarte,34,093.182.674-87,Feminino,avasconcelos@example.net,+55 (071) 5773-2992,Cardoso das Pedras,MT,Ford,Ranger,2023,Preto,97008.46,2025-01-26,Financiomanto
+697,Luísa Caldeira,21,875.491.260-11,Feminino,maria-cecilia42@example.net,0800-005-8144,Correia de Dias,ES,Chevrolet,Tracker,2022,Azul,200524.78,2023-05-27,Consórcio
+698,Maria Clara Lima,54,684.230.571-35,Feminino,mirellagarcia@example.org,+55 (021) 4954 4021,Nunes do Norte,BA,Chevrolet,Onix,2021,Azul,188764.45,2023-07-03,Financiomanto
+699,Elisa Peixoto,20,753.840.192-04,Feminino,estercasa-grande@example.org,0300-323-4973,Andrade do Galho,BA,Ford,EcoSport,2021,Azul,227673.55,2024-02-06,Financiomanto
+700,Nina Lima,70,948.270.635-83,Feminino,davi-miguelda-costa@example.com,+55 61 9232 6387,Alves de Carvalho,AM,Ford,EcoSport,2020,Vermelho,128477.07,2024-05-23,A vista
+701,Nina Moraes,19,043.972.165-25,Feminino,gabriela89@example.org,+55 61 9611-6629,Carvalho de Cardoso,PB,Ford,Ka,2018,Prata,204619.87,2025-01-16,Leasing
+702,Ana Julia Vieira,26,850.364.179-84,Feminino,fdias@example.com,(041) 1329-6551,Guerra,MA,Ford,EcoSport,2017,Preto,174632.03,2023-07-23,Leasing
+703,Maria Laura Vargas,39,326.174.089-22,Feminino,melissaferreira@example.org,+55 (021) 8959 3233,Ferreira das Pedras,PB,Chevrolet,Tracker,2021,Azul,248989.01,2023-09-30,Consórcio
+704,Fernanda Ramos,29,601.357.942-34,Feminino,urios@example.net,+55 (084) 8977-6637,Silva de Siqueira,MS,Volkswagem,Polo,2021,Preto,219808.52,2024-04-19,A vista
+705,Lavínia Freitas,29,270.954.813-50,Feminino,clima@example.com,51 3655 3577,Santos,AL,Volkswagem,T-Cross,2018,Prata,242852.05,2023-11-05,Consórcio
+706,Matheus Barros,58,876.219.530-12,Masculino,luisa68@example.com,+55 (084) 7553 6049,da Cruz Paulista,SE,Ford,EcoSport,2021,Preto,67104.93,2024-12-20,Consórcio
+707,Sara Câmara,39,527.490.163-80,Feminino,maria-juliacirino@example.org,(051) 7926 9546,Andrade,PI,Volkswagem,Gol,2016,Branco,138179.81,2023-09-09,Financiomanto
+708,Juan Rocha,27,182.674.930-69,Masculino,andre98@example.net,11 3614-4472,da Paz Verde,RS,Volkswagem,T-Cross,2017,Azul,202910.17,2024-11-24,A vista
+709,Maria Alice Cardoso,25,286.590.147-58,Feminino,rezendeemanuelly@example.org,+55 (084) 9496 4107,Borges,AC,Chevrolet,S10,2021,Preto,92513.82,2023-09-26,Financiomanto
+710,Theo Fonseca,31,291.574.863-28,Masculino,pferreira@example.org,+55 (011) 1171 2565,Sousa,DF,Honda,Fit,2023,Preto,187972.45,2023-08-31,A vista
+711,Luiza da Rosa,69,682.093.174-31,Feminino,amelo@example.org,(051) 3457-2255,Cassiano,RS,Ford,Ka,2021,Branco,245033.9,2024-07-19,A vista
+712,Mathias Cardoso,34,304.591.867-01,Masculino,limacaue@example.org,(051) 9348 7991,Vasconcelos,MA,Ford,Ranger,2018,Vermelho,109502.55,2025-01-20,Financiomanto
+713,Nicole Rios,38,038.745.619-84,Feminino,gabrielasiqueira@example.com,84 7497 2420,Melo Verde,PI,Ford,EcoSport,2020,Preto,154131.53,2023-10-07,Financiomanto
+714,Luigi da Mata,68,634.821.590-33,Masculino,joao-gabriel61@example.org,+55 (011) 2116 5052,Viana,RR,Chevrolet,Tracker,2024,Prata,45899.9,2023-10-07,Consórcio
+715,Ana Vitória Viana,26,138.954.702-79,Feminino,machadopaulo@example.org,+55 41 1415-3494,Barros da Serra,PE,Volkswagem,T-Cross,2020,Preto,167417.64,2023-04-07,A vista
+716,José das Neves,37,431.975.862-55,Masculino,abreudavi-lucas@example.net,(011) 6808-7397,Borges,PI,Ford,Ranger,2021,Prata,139869.73,2024-06-14,Financiomanto
+717,Maria Fernanda Caldeira,32,829.417.560-94,Feminino,alexandrevieira@example.net,+55 (061) 5804 2616,Nascimento,ES,Toyota,Hilux,2020,Branco,66224.36,2024-02-05,Consórcio
+718,Rael da Conceição,21,430.792.165-80,Masculino,leticia17@example.org,+55 71 0528-3428,da Paz de Farias,PR,Volkswagem,T-Cross,2024,Preto,86705.89,2024-09-01,Consórcio
+719,Bryan Andrade,35,827.451.936-19,Masculino,marceloalmeida@example.com,(021) 2862 9655,Sá,TO,Volkswagem,T-Cross,2018,Azul,236638.23,2023-12-23,Leasing
+720,Luiz Fernando Mendes,26,098.316.275-12,Masculino,jnovais@example.org,(061) 0592 4730,Pimenta dos Dourados,SE,Chevrolet,Tracker,2015,Branco,64311.59,2024-09-02,Leasing
+721,Ana Clara Gonçalves,21,746.598.102-67,Feminino,flopes@example.net,+55 31 0958 1597,da Mota,PA,Ford,Ranger,2019,Vermelho,237037.19,2023-05-14,A vista
+722,Sophia Pereira,27,193.065.874-57,Feminino,ana-carolinada-conceicao@example.com,31 1140 0639,Moreira do Oeste,AM,Toyota,Yaris,2016,Prata,157759.12,2025-01-20,Financiomanto
+723,Bryan Mendonça,64,835.602.471-44,Masculino,valentina47@example.com,(011) 8176-3330,Oliveira de Duarte,SP,Volkswagem,T-Cross,2023,Prata,98337.69,2024-11-08,Financiomanto
+724,Ana Vitória Campos,64,495.812.637-64,Feminino,cassianoluara@example.net,71 6456 5795,Moreira das Flores,CE,Ford,Ranger,2018,Azul,239393.85,2024-09-20,A vista
+725,Henry Oliveira,24,954.812.076-30,Masculino,caio54@example.com,+55 81 8870 4754,Siqueira,PA,Volkswagem,Gol,2023,Prata,153427.65,2023-11-16,Consórcio
+726,Pietra Camargo,38,182.947.053-14,Feminino,moraeslunna@example.org,31 7568 6644,Borges de Goiás,RJ,Toyota,Hilux,2019,Preto,86463.44,2024-06-05,Consórcio
+727,Brenda da Rocha,33,023.971.564-07,Feminino,emanuellynunes@example.net,(081) 6479 1443,Santos das Pedras,MS,Honda,HR-V,2019,Prata,163163.86,2023-11-27,A vista
+728,Enrico Campos,27,708.359.614-00,Masculino,mathiassousa@example.org,(041) 0723-3457,Fonseca do Sul,BA,Ford,EcoSport,2018,Azul,99586.89,2025-02-16,Consórcio
+729,Thomas Andrade,58,437.608.259-74,Masculino,salesjoao@example.net,(011) 5739 8014,Marques,AP,Ford,Ka,2021,Branco,125901.26,2025-01-24,Leasing
+730,Samuel Correia,67,607.159.348-48,Masculino,manuellagoncalves@example.net,51 8920 0675,das Neves,MS,Chevrolet,Tracker,2020,Azul,211085.23,2023-08-12,Financiomanto
+731,Yuri Rodrigues,59,638.127.540-53,Masculino,osilva@example.com,0500-508-4614,Gomes,ES,Honda,Civic,2016,Branco,89628.72,2023-05-24,Financiomanto
+732,Antony Porto,48,017.843.965-75,Masculino,pedro-henriquepacheco@example.org,(084) 4031-7158,Cirino da Serra,RS,Ford,EcoSport,2021,Azul,60284.36,2023-06-14,Financiomanto
+733,Carlos Eduardo Nascimento,70,658.042.731-08,Masculino,icasa-grande@example.net,+55 (071) 7080 5446,da Mata,AM,Ford,Ranger,2018,Vermelho,125339.75,2025-01-09,Consórcio
+734,Isabella Castro,38,921.075.638-02,Feminino,dcasa-grande@example.com,+55 84 6167-8379,da Rocha,AC,Chevrolet,S10,2019,Branco,183462.48,2024-08-28,Consórcio
+735,Ana Laura Correia,27,053.962.418-70,Feminino,mcostela@example.net,0900 030 3841,Viana,SE,Toyota,Yaris,2021,Branco,96034.22,2023-07-09,Financiomanto
+736,Olívia Rodrigues,23,941.573.268-73,Feminino,zferreira@example.org,+55 (031) 4918-7160,Peixoto,PI,Volkswagem,T-Cross,2020,Prata,147167.65,2024-08-13,Financiomanto
+737,Ester Lopes,23,925.730.186-95,Feminino,martinslevi@example.org,51 0297 7897,da Cunha,MS,Toyota,Yaris,2018,Vermelho,115590.63,2024-04-16,A vista
+738,José Miguel Castro,32,635.924.018-15,Masculino,costaapollo@example.com,+55 (041) 9652-2267,Costela Verde,TO,Chevrolet,Tracker,2020,Branco,242862.12,2024-08-25,Financiomanto
+739,Eduardo Novais,34,096.214.537-80,Masculino,maria-liz34@example.org,(041) 0713-3365,Araújo Alegre,RJ,Honda,HR-V,2023,Azul,138108.43,2024-08-05,Leasing
+740,Ian Cardoso,51,034.821.756-08,Masculino,henriquemachado@example.com,+55 (061) 8390-4708,Lima,SC,Toyota,Hilux,2020,Azul,169055.53,2023-12-14,Financiomanto
+741,Catarina Dias,24,198.642.375-19,Feminino,rsales@example.net,+55 (084) 2782-7626,da Luz,RJ,Honda,Fit,2015,Preto,73586.96,2024-07-19,Leasing
+742,João Lucas Barros,26,387.096.415-48,Masculino,mendescarlos-eduardo@example.com,0300-190-3076,da Mota,RJ,Honda,Fit,2022,Azul,85838.47,2023-10-24,Financiomanto
+743,Liz Cavalcanti,46,704.691.825-20,Feminino,vinicius52@example.com,(084) 5232 4844,Monteiro,TO,Honda,Civic,2015,Vermelho,141513.84,2023-07-08,Financiomanto
+744,Sabrina Pinto,30,486.372.591-46,Feminino,enzorezende@example.com,(011) 5058 7642,Teixeira de Cunha,PB,Honda,Fit,2022,Vermelho,52162.58,2024-10-15,Financiomanto
+745,Yuri da Mata,24,342.687.095-92,Masculino,piresravi-lucca@example.com,+55 61 9289 2842,da Costa,PE,Toyota,Yaris,2020,Vermelho,81304.19,2024-12-18,Consórcio
+746,Yan Castro,61,135.906.842-24,Masculino,benicio25@example.com,+55 (031) 5033 6015,Marques da Praia,ES,Volkswagem,T-Cross,2020,Branco,232811.63,2023-04-28,A vista
+747,Stephany da Cruz,44,045.892.613-24,Feminino,joao-guilherme97@example.org,71 4697-3661,Nogueira,PR,Toyota,Hilux,2022,Branco,109699.53,2023-08-28,A vista
+748,Yuri Albuquerque,43,374.201.698-96,Masculino,bnovais@example.com,(021) 8204 0193,Duarte de da Mata,SP,Honda,Fit,2017,Azul,64534.78,2024-07-04,Leasing
+749,Pedro Miguel Abreu,47,807.215.694-20,Masculino,ycarvalho@example.com,(031) 6521-9913,Oliveira,SP,Ford,Ranger,2024,Branco,215347.19,2023-09-16,A vista
+750,José Novais,35,615.239.847-91,Masculino,ana-lizpastor@example.org,+55 71 0694 1828,Carvalho de Araújo,RR,Ford,Ka,2015,Vermelho,223746.85,2023-07-25,A vista
+751,Sarah Sá,20,798.021.543-50,Feminino,mendesmaya@example.org,+55 84 9663-8471,Duarte de Souza,TO,Ford,EcoSport,2017,Azul,30451.16,2023-07-18,Financiomanto
+752,Luara Andrade,36,348.251.607-35,Feminino,znunes@example.org,+55 71 0534-8494,Abreu,MT,Toyota,Hilux,2018,Vermelho,173437.53,2024-10-19,Financiomanto
+753,Bárbara Barbosa,32,725.841.603-07,Feminino,maria-sophia13@example.org,(061) 8601-6120,Leão,AL,Chevrolet,S10,2016,Branco,63284.64,2025-02-16,Leasing
+754,Helena Costa,50,526.710.483-35,Feminino,halbuquerque@example.com,(011) 5657 9095,Vieira,MA,Ford,Ka,2022,Azul,128277.73,2023-09-10,A vista
+755,Ana Liz Pinto,33,073.298.146-87,Feminino,stelladias@example.com,(051) 0819 1711,Brito de Casa Grande,PR,Toyota,Hilux,2019,Prata,174782.64,2023-12-23,Leasing
+756,Antonella da Cruz,62,659.827.104-58,Feminino,riosmilena@example.com,+55 (041) 5185 1917,Vasconcelos,AL,Honda,Civic,2017,Preto,188572.05,2023-10-28,Financiomanto
+757,Emanuelly Cunha,51,739.520.184-14,Feminino,mathias12@example.org,84 4059 5609,Leão de Minas,BA,Volkswagem,T-Cross,2018,Preto,109012.56,2024-11-01,A vista
+758,Pedro Souza,60,195.627.038-86,Masculino,rnogueira@example.net,+55 (021) 6673 6120,Aparecida,PA,Ford,EcoSport,2021,Preto,66188.17,2024-01-24,Consórcio
+759,Valentina Albuquerque,40,503.849.726-83,Feminino,aragaoisabela@example.com,(051) 2145 5913,Fogaça,TO,Ford,Ka,2022,Prata,82134.27,2024-01-09,Financiomanto
+760,Benício Rezende,33,982.175.460-02,Masculino,olivia26@example.com,41 2266 9219,Sá,SE,Volkswagem,Gol,2021,Azul,141797.0,2024-07-21,Leasing
+761,Luigi Duarte,20,613.754.029-43,Masculino,kcunha@example.org,(021) 9496 2886,Marques de Nunes,AL,Toyota,Corolla,2024,Azul,169400.84,2024-04-14,Financiomanto
+762,Jade Vasconcelos,36,132.680.579-77,Feminino,ianmonteiro@example.com,61 5560-8870,Abreu de Marques,SC,Honda,Fit,2020,Azul,211476.71,2024-07-06,Consórcio
+763,Enrico Fernandes,57,347.185.290-50,Masculino,souzadanilo@example.org,+55 71 6680-4920,Rios,MS,Volkswagem,Gol,2020,Preto,109919.59,2024-02-12,Consórcio
+764,Stella Rocha,63,402.813.569-98,Feminino,tda-costa@example.com,+55 81 6949-0935,Aragão de da Conceição,RS,Toyota,Corolla,2021,Preto,195459.43,2024-10-17,A vista
+765,Emanuella Casa Grande,67,216.057.893-21,Feminino,portoagatha@example.org,+55 31 3495-5462,Araújo,RJ,Volkswagem,T-Cross,2022,Preto,208723.27,2024-10-05,A vista
+766,Sabrina Fonseca,55,572.638.940-92,Feminino,da-rochakevin@example.com,0800 144 5088,Campos,PB,Toyota,Yaris,2021,Preto,86369.8,2023-12-12,Financiomanto
+767,Caio Fonseca,70,354.819.027-88,Masculino,manuella44@example.net,+55 (071) 8211-8568,Rocha Alegre,SC,Volkswagem,Gol,2022,Vermelho,162162.7,2023-05-20,A vista
+768,Sofia Pimenta,22,415.238.976-19,Feminino,silvavitoria@example.com,+55 61 2039-4056,Abreu de Goiás,DF,Volkswagem,Gol,2023,Branco,221404.76,2024-04-06,Consórcio
+769,Murilo Azevedo,43,879.623.501-21,Masculino,kamillycavalcanti@example.org,(061) 0867-5799,Macedo de Moreira,TO,Chevrolet,Tracker,2015,Prata,41347.9,2023-11-28,Financiomanto
+770,João Gabriel Rocha,25,732.618.905-68,Masculino,esteroliveira@example.net,51 3539 6241,Guerra da Praia,MG,Ford,EcoSport,2021,Preto,59117.61,2023-05-24,Financiomanto
+771,Ravy Barros,41,073.619.452-52,Masculino,pviana@example.com,+55 (061) 9271-7058,Garcia,MT,Honda,Civic,2023,Branco,191168.08,2024-08-17,Consórcio
+772,Ana Luiza Moura,48,385.721.960-21,Feminino,fsantos@example.net,0900-566-1331,Brito,RO,Toyota,Corolla,2023,Preto,50478.43,2023-07-18,A vista
+773,Pedro Henrique Peixoto,34,350.267.849-92,Masculino,albuquerqueenzo@example.net,71 0322 3775,Cunha,DF,Toyota,Yaris,2022,Azul,147045.46,2024-05-20,A vista
+774,Marcela Moreira,57,538.914.072-97,Feminino,manuella59@example.org,11 0790-0726,da Mata,RS,Volkswagem,Gol,2016,Prata,120436.68,2023-10-08,Leasing
+775,Maria Fernanda Montenegro,58,526.974.831-28,Feminino,tvargas@example.net,+55 (084) 0592 7264,Castro da Mata,GO,Toyota,Hilux,2023,Prata,164444.64,2024-01-08,A vista
+776,Bella Carvalho,61,952.876.340-56,Feminino,almeidabernardo@example.net,71 2879 2564,Pereira Verde,MG,Chevrolet,Tracker,2016,Branco,107739.94,2023-06-27,Consórcio
+777,Henry Gabriel Novaes,33,543.208.196-24,Masculino,alexia05@example.org,+55 61 7246 2064,Barros de Albuquerque,AC,Chevrolet,Onix,2020,Prata,201297.55,2024-06-08,Consórcio
+778,Dante Freitas,60,809.215.637-95,Masculino,rnovaes@example.net,+55 (071) 6128-3847,Fonseca,SE,Ford,EcoSport,2020,Branco,134421.69,2024-02-01,Financiomanto
+779,Antonella Rezende,56,138.470.265-26,Feminino,leviaragao@example.com,+55 51 6092 5913,Lopes das Pedras,RR,Chevrolet,Onix,2020,Azul,122840.13,2024-05-22,Consórcio
+780,Maria Helena Cardoso,62,529.860.134-06,Feminino,stephanyrezende@example.net,(011) 5764-8904,Moura de Teixeira,AC,Toyota,Corolla,2024,Preto,123718.36,2023-08-25,Consórcio
+781,Maria Flor Viana,41,637.290.154-43,Feminino,otto01@example.com,+55 81 4596 6746,Sales,RJ,Volkswagem,Gol,2022,Branco,153993.07,2023-10-16,A vista
+782,Rhavi Guerra,69,014.563.728-07,Masculino,leandrovasconcelos@example.com,41 2135 4499,Sampaio do Galho,SP,Honda,HR-V,2016,Preto,89460.0,2024-07-30,Consórcio
+783,Anthony Gabriel Mendes,54,860.529.137-03,Masculino,nunesluiz-otavio@example.org,(011) 9283-9039,Costela,ES,Ford,Ranger,2016,Branco,211248.32,2023-06-28,Leasing
+784,Maria Julia Viana,40,769.034.815-75,Feminino,santosmaria-julia@example.net,(031) 3890 2454,da Luz Verde,AL,Honda,Civic,2023,Azul,80004.38,2024-11-27,A vista
+785,Catarina Cirino,19,978.614.352-37,Feminino,novaesguilherme@example.net,+55 (084) 0613-2771,Viana do Norte,PR,Honda,Fit,2024,Preto,235877.66,2025-03-14,Consórcio
+786,Pedro Henrique Abreu,52,183.025.746-35,Masculino,portobenicio@example.org,+55 61 9640-2122,Lopes,TO,Toyota,Yaris,2018,Azul,68099.94,2023-06-14,Consórcio
+787,Júlia Siqueira,41,387.610.294-40,Feminino,emoura@example.com,+55 (061) 2747 5968,Azevedo,GO,Toyota,Yaris,2022,Vermelho,222643.78,2023-08-17,Consórcio
+788,Asafe Machado,55,673.481.259-64,Masculino,dnovais@example.org,(084) 1945 7536,Fernandes de Rodrigues,AL,Toyota,Yaris,2019,Azul,116653.97,2024-10-15,Leasing
+789,Gabriela Araújo,25,573.402.698-00,Feminino,aramos@example.com,+55 (084) 5531-3153,Pereira,PR,Honda,Civic,2020,Vermelho,160017.07,2024-12-15,Leasing
+790,Luiz Fernando Caldeira,26,965.701.238-40,Masculino,cunhaasafe@example.org,81 9009-3481,Peixoto das Flores,RS,Chevrolet,S10,2015,Branco,138209.52,2025-03-02,Consórcio
+791,Leonardo Costa,65,917.420.356-80,Masculino,melissa00@example.org,+55 84 6702-4441,Guerra de da Conceição,AP,Honda,Civic,2017,Azul,90090.99,2024-05-12,Consórcio
+792,Diego da Paz,28,096.712.845-58,Masculino,pfogaca@example.org,81 2420-0642,Novaes,ES,Toyota,Corolla,2018,Branco,63455.81,2024-03-27,A vista
+793,Leonardo Macedo,30,063.475.291-06,Masculino,cirinodavi-lucas@example.org,41 6490-8387,Castro do Galho,AM,Toyota,Corolla,2016,Azul,165779.66,2023-08-24,Financiomanto
+794,Theo Peixoto,52,279.583.614-91,Masculino,luccaazevedo@example.org,41 3633-4352,Carvalho da Mata,AC,Chevrolet,Tracker,2023,Azul,148053.31,2024-09-07,Leasing
+795,Augusto Casa Grande,35,326.549.708-92,Masculino,hpacheco@example.com,71 9575 9430,Nunes de Farias,PA,Toyota,Corolla,2016,Azul,113225.19,2023-04-07,Consórcio
+796,Jade Abreu,19,850.127.493-32,Feminino,erios@example.com,(011) 9924 6728,das Neves,PE,Honda,Civic,2016,Preto,197257.24,2025-02-27,A vista
+797,Caio Vargas,36,921.386.407-87,Masculino,bento87@example.org,61 9413-3534,Moreira,PA,Chevrolet,S10,2018,Azul,156095.58,2024-10-27,Consórcio
+798,Laura Castro,59,438.671.520-71,Feminino,ana-juliabarbosa@example.com,+55 41 9722-6594,da Cruz,MS,Chevrolet,Tracker,2016,Vermelho,93766.74,2024-05-07,Leasing
+799,Ryan Gomes,50,975.168.234-73,Masculino,cassianovicente@example.com,(011) 5192 5301,Pereira,MS,Toyota,Yaris,2018,Preto,75929.7,2023-03-27,A vista
+800,Matheus Azevedo,33,813.074.659-00,Masculino,diogomoraes@example.org,+55 81 5356-5781,Andrade,MG,Honda,Fit,2016,Preto,192958.45,2023-05-08,Financiomanto
+801,Pedro Henrique da Mata,48,857.301.469-57,Masculino,oborges@example.org,(031) 2741 8551,Rezende,RN,Honda,Civic,2020,Branco,207565.19,2024-04-16,A vista
+802,Ryan Vargas,70,782.560.493-83,Masculino,das-neveslavinia@example.com,(071) 9526 1388,Nascimento,SP,Volkswagem,T-Cross,2019,Preto,74892.89,2023-09-02,Leasing
+803,João Pedro Monteiro,34,458.620.179-76,Masculino,natalialeao@example.org,0900-719-9717,Aparecida Grande,AP,Ford,Ka,2020,Prata,122210.78,2023-06-01,Leasing
+804,Enzo Jesus,21,107.532.489-05,Masculino,nfernandes@example.org,+55 21 3915 4193,Cavalcante,AC,Volkswagem,Gol,2018,Branco,177229.57,2024-02-04,A vista
+805,Kevin Alves,32,602.945.873-65,Masculino,wfreitas@example.com,31 7156 9655,Caldeira de Ferreira,SP,Ford,EcoSport,2020,Prata,109097.61,2024-09-30,Leasing
+806,Rael Sampaio,47,524.906.873-10,Masculino,valentim09@example.net,+55 (011) 3493 1594,Dias,AP,Honda,HR-V,2022,Branco,207955.04,2024-09-14,Financiomanto
+807,Arthur Gabriel Silva,68,052.164.789-49,Masculino,mariane45@example.com,84 2241-9074,da Mota do Sul,SC,Volkswagem,Polo,2015,Branco,200523.05,2024-10-14,A vista
+808,Eloah Cunha,38,042.763.918-22,Feminino,ninamarques@example.org,51 3691 6015,Rios,PB,Chevrolet,Onix,2024,Branco,145625.71,2024-04-13,Leasing
+809,Cauã Cavalcanti,60,379.240.168-13,Masculino,marcelocarvalho@example.com,(084) 9449 5598,Martins de Silva,PE,Toyota,Corolla,2018,Branco,145175.85,2024-12-02,Consórcio
+810,Ágatha Costela,70,279.031.568-02,Feminino,diasraul@example.net,+55 84 2762 8854,Gonçalves,MG,Volkswagem,Polo,2021,Vermelho,114225.1,2023-05-05,Consórcio
+811,Juliana Santos,19,642.513.097-07,Feminino,cirinodaniel@example.org,+55 (011) 2517 8107,Pimenta da Praia,PE,Ford,Ranger,2019,Preto,149206.36,2024-05-28,Financiomanto
+812,Sophia Cardoso,26,467.809.153-00,Feminino,olivia16@example.org,(021) 8127-8158,Rios do Campo,PB,Volkswagem,T-Cross,2017,Azul,74622.54,2024-03-27,Financiomanto
+813,Enrico Machado,54,014.376.289-31,Masculino,gmoraes@example.net,+55 11 5653 4980,Peixoto,RJ,Toyota,Corolla,2016,Vermelho,209629.68,2023-06-18,Leasing
+814,Yago Leão,68,958.421.673-28,Masculino,barrosguilherme@example.org,0900-610-0379,Martins,RN,Ford,EcoSport,2021,Prata,121630.42,2023-10-10,Leasing
+815,Lucas Fogaça,62,475.132.609-07,Masculino,kaiquemendonca@example.org,21 1148 2783,Abreu,PR,Volkswagem,Polo,2023,Vermelho,180816.38,2024-01-04,A vista
+816,Davi Luiz Vargas,46,961.475.803-10,Masculino,vieiraemanuel@example.net,+55 41 1467 6003,Costa,RJ,Honda,Civic,2020,Azul,43485.7,2024-12-22,A vista
+817,Maysa Almeida,46,416.532.897-91,Feminino,kamilly09@example.com,84 4905-3670,Porto das Pedras,DF,Ford,Ranger,2019,Branco,215676.86,2024-12-10,Leasing
+818,Mirella Pimenta,27,581.279.046-94,Feminino,ujesus@example.org,(011) 6869-1239,Lopes,AL,Volkswagem,T-Cross,2023,Preto,206749.81,2024-12-07,A vista
+819,Isabelly Câmara,53,504.297.613-25,Feminino,beatrizribeiro@example.net,+55 (041) 1236-9226,Nascimento,PA,Volkswagem,T-Cross,2024,Branco,38282.84,2023-06-25,Consórcio
+820,Giovanna da Mota,49,209.716.853-12,Feminino,ana84@example.net,0500 066 7100,Lopes do Amparo,MS,Toyota,Corolla,2023,Branco,220663.06,2024-01-07,Financiomanto
+821,Levi Oliveira,64,840.963.751-01,Masculino,mjesus@example.com,+55 (071) 3288-9496,Dias,CE,Honda,Civic,2017,Branco,211061.67,2024-02-11,A vista
+822,Vicente da Mota,33,312.865.407-71,Masculino,isaac22@example.org,81 6516-4201,Casa Grande de Ferreira,BA,Chevrolet,Tracker,2015,Branco,225218.61,2023-05-21,Leasing
+823,Maria Helena Montenegro,40,258.639.701-03,Feminino,franciscoteixeira@example.net,+55 71 4128-4395,Barros do Campo,BA,Volkswagem,T-Cross,2021,Preto,213081.22,2024-03-03,Consórcio
+824,Ana Júlia Jesus,32,621.598.473-64,Feminino,joao-miguelsilva@example.com,+55 41 1694 7288,Brito,RS,Honda,Civic,2023,Azul,171814.88,2023-05-10,Leasing
+825,Anna Liz da Mata,43,081.967.425-76,Feminino,ayla67@example.org,21 5836-1075,Barbosa,MS,Volkswagem,T-Cross,2019,Branco,54402.93,2023-11-13,Consórcio
+826,Isabelly Casa Grande,28,173.652.490-99,Feminino,leaojose-pedro@example.org,+55 81 8265-4537,Moura Verde,PR,Honda,Fit,2024,Vermelho,84284.17,2025-03-03,Financiomanto
+827,Diogo Fogaça,19,984.307.126-31,Masculino,aylaporto@example.net,(061) 6915-6122,Pereira da Praia,CE,Honda,HR-V,2019,Prata,240700.79,2024-12-01,Leasing
+828,Antony Gonçalves,37,436.509.172-70,Masculino,aparecidalucas-gabriel@example.org,+55 (061) 2567 2576,Cavalcanti de Camargo,MA,Volkswagem,Polo,2016,Branco,77628.34,2024-07-16,A vista
+829,Maitê Garcia,35,985.301.246-42,Feminino,maite11@example.org,0900-170-6882,Dias,PA,Toyota,Corolla,2024,Preto,200904.88,2023-09-02,Consórcio
+830,Samuel Sampaio,49,870.413.265-35,Masculino,fda-mata@example.net,+55 (051) 8134-4269,Macedo do Campo,ES,Honda,HR-V,2021,Azul,111594.09,2023-12-07,Leasing
+831,João Miguel Pires,53,963.572.140-43,Masculino,luiz-otaviomoreira@example.org,84 3986-7623,Campos de Guerra,AP,Ford,Ka,2020,Branco,132855.76,2023-12-27,Consórcio
+832,Nina Garcia,61,795.328.160-03,Feminino,dcamara@example.net,0500 884 9798,Correia,ES,Chevrolet,S10,2019,Preto,157256.93,2024-07-07,Consórcio
+833,Ravi Lucca da Mota,57,061.293.475-61,Masculino,jbrito@example.net,(051) 4534-1852,Vieira,RR,Chevrolet,Onix,2017,Prata,100608.94,2024-04-13,Consórcio
+834,Gabrielly Moreira,29,907.865.342-65,Feminino,da-cruzemilly@example.com,81 9718 8743,Albuquerque Grande,MG,Volkswagem,Gol,2015,Prata,33792.62,2023-12-12,A vista
+835,Yago Aragão,45,806.532.714-17,Masculino,fferreira@example.org,+55 (081) 4673-4370,Nunes de da Cunha,SC,Chevrolet,Onix,2019,Preto,129811.27,2024-03-03,A vista
+836,Maysa Vargas,43,210.457.396-34,Feminino,zcavalcante@example.net,31 7206-9289,Jesus,SP,Chevrolet,Tracker,2023,Vermelho,52823.23,2024-03-09,A vista
+837,Valentim Brito,52,318.609.247-78,Masculino,aragaoluara@example.net,0500-973-8543,Pereira Verde,SE,Ford,Ka,2024,Preto,113678.19,2023-05-26,A vista
+838,Sophie Silveira,52,856.304.972-00,Feminino,benjamim28@example.com,31 5614-3261,Porto da Prata,RN,Chevrolet,Tracker,2024,Azul,153760.92,2024-10-10,Financiomanto
+839,Renan Souza,59,814.379.605-10,Masculino,joanaabreu@example.net,(011) 0368-5575,Cavalcanti de Minas,PE,Ford,Ranger,2022,Prata,239570.3,2024-02-17,A vista
+840,Marcelo Fernandes,59,705.986.342-74,Masculino,diassophie@example.net,+55 (031) 0225-7897,Borges do Galho,MA,Chevrolet,Tracker,2018,Prata,159092.76,2024-04-11,Leasing
+841,Pedro Albuquerque,31,847.561.320-90,Masculino,uviana@example.net,81 3421 1755,Garcia,PR,Honda,HR-V,2020,Preto,105200.6,2023-10-22,Consórcio
+842,Heitor Azevedo,29,041.725.396-61,Masculino,henry-gabrielda-costa@example.com,(041) 8046-6972,Nascimento de Cassiano,RS,Volkswagem,Gol,2024,Preto,135475.01,2025-02-22,A vista
+843,Antônio Leão,64,092.761.345-06,Masculino,sabrina67@example.org,+55 (081) 2406 1488,Novais dos Dourados,PI,Toyota,Hilux,2023,Branco,167951.02,2024-08-25,A vista
+844,José Miguel Sampaio,30,186.754.903-48,Masculino,ferreiraalexandre@example.com,+55 31 7797 5021,Cunha,GO,Chevrolet,S10,2020,Preto,38961.67,2024-04-09,Financiomanto
+845,Ravi da Luz,21,290.387.516-21,Masculino,aduarte@example.net,+55 (084) 4067-9288,Gomes,DF,Toyota,Yaris,2019,Preto,99258.59,2023-11-01,Financiomanto
+846,Mariah Monteiro,51,428.365.709-38,Feminino,pedro-henrique06@example.org,(081) 5969 7746,Vargas Verde,PB,Honda,Civic,2020,Vermelho,195911.45,2023-04-21,Consórcio
+847,Henry Farias,38,935.824.761-46,Masculino,gabriellyfreitas@example.org,+55 (081) 8577-4223,Pacheco,DF,Volkswagem,Polo,2016,Prata,190571.16,2023-07-18,A vista
+848,Antonella Duarte,67,982.403.765-92,Feminino,maria-luiza66@example.net,0300 845 9576,Leão,PR,Ford,Ranger,2018,Azul,225396.89,2023-10-14,Leasing
+849,Thiago Cunha,30,809.462.317-96,Masculino,hjesus@example.net,+55 41 6676 9314,Brito do Galho,DF,Honda,HR-V,2015,Preto,65313.17,2024-01-18,A vista
+850,José Pereira,58,615.390.247-25,Masculino,azevedoanthony@example.com,61 2082-9606,Novaes,PB,Volkswagem,T-Cross,2019,Prata,82107.36,2023-10-24,Leasing
+851,Gael Viana,63,615.397.820-77,Masculino,anthony68@example.org,(061) 4204 8522,Mendonça,PB,Toyota,Corolla,2024,Azul,36842.53,2023-11-16,Consórcio
+852,Maria Eduarda Brito,51,894.160.735-39,Feminino,theodoro02@example.net,(051) 1978 2114,das Neves,RS,Ford,Ka,2021,Azul,164139.43,2024-10-06,Leasing
+853,Gael Henrique Cavalcante,36,730.816.529-95,Masculino,lopeselisa@example.net,+55 61 6532 5852,Peixoto,RJ,Ford,Ka,2023,Preto,78266.99,2024-10-30,A vista
+854,Enrico Barros,55,905.386.412-15,Masculino,dante95@example.net,11 1780-9693,Alves Verde,MT,Honda,Civic,2017,Prata,120633.25,2025-01-07,Financiomanto
+855,Bernardo da Cunha,64,548.293.671-64,Masculino,lorenzoribeiro@example.org,+55 (081) 0539 5092,Souza de Novais,PA,Chevrolet,S10,2016,Prata,74229.79,2024-10-26,Financiomanto
+856,Matheus Pastor,33,209.345.187-50,Masculino,diegofreitas@example.org,+55 (071) 6624 7623,Sousa de Pires,TO,Volkswagem,Polo,2022,Vermelho,177512.55,2024-02-02,Financiomanto
+857,Helena Pacheco,27,194.368.025-60,Feminino,msales@example.org,(081) 4339-1265,Campos da Serra,MA,Ford,Ranger,2023,Azul,192706.72,2024-09-07,A vista
+858,José Pedro Melo,26,673.502.194-07,Masculino,julia40@example.net,+55 (021) 9514 4362,Cavalcante,PI,Chevrolet,S10,2015,Preto,130223.29,2024-09-19,A vista
+859,Brenda Mendes,26,615.032.479-61,Feminino,eduardo26@example.org,71 4534-2580,da Conceição das Flores,AL,Chevrolet,Onix,2016,Vermelho,225591.45,2023-09-27,Financiomanto
+860,Brayan Monteiro,70,564.092.178-11,Masculino,viniciuspinto@example.net,+55 71 7645 1383,Souza,RR,Toyota,Hilux,2020,Branco,155050.27,2025-01-16,Financiomanto
+861,Valentim das Neves,44,689.371.420-31,Masculino,qvargas@example.org,81 5902-8044,das Neves das Flores,PR,Volkswagem,T-Cross,2015,Preto,171402.46,2023-08-31,A vista
+862,Evelyn Mendonça,63,523.169.870-95,Feminino,jcardoso@example.net,+55 (071) 2475-2122,Pastor Verde,PI,Honda,Fit,2017,Azul,199409.32,2024-03-06,A vista
+863,Zoe da Cruz,62,045.869.732-00,Feminino,rochadavi-miguel@example.org,0800 103 0805,Pereira,PI,Volkswagem,Gol,2019,Vermelho,206150.38,2024-07-29,A vista
+864,Pedro Rocha,40,852.304.971-14,Masculino,gda-conceicao@example.com,+55 (031) 9556-3719,Brito,SE,Ford,Ranger,2016,Prata,215396.38,2024-01-08,Financiomanto
+865,Sofia Almeida,56,618.293.540-51,Feminino,isabelasilva@example.com,+55 21 3035 0657,Peixoto,PA,Volkswagem,Polo,2017,Prata,142482.17,2024-02-23,Financiomanto
+866,Ana Júlia Martins,53,893.072.614-31,Feminino,efogaca@example.com,(041) 9595 4344,Dias,PB,Toyota,Yaris,2019,Prata,170605.49,2025-01-08,A vista
+867,Letícia Nascimento,44,813.246.957-73,Feminino,pastoragatha@example.com,+55 (061) 9197 3817,Marques de Mendonça,RJ,Volkswagem,Gol,2021,Azul,147724.3,2023-10-27,Leasing
+868,Bento Nogueira,55,895.372.610-77,Masculino,ynascimento@example.org,41 2296-0384,da Cunha de da Mota,RR,Volkswagem,Polo,2024,Vermelho,230428.4,2024-04-18,Consórcio
+869,Maria Julia Santos,31,580.317.296-03,Feminino,ana-carolina58@example.org,(011) 1047-6785,Nunes do Sul,MA,Honda,Civic,2015,Vermelho,79037.25,2024-02-10,Consórcio
+870,Emanuella da Rosa,30,584.760.139-57,Feminino,bruna01@example.net,+55 41 9495 7310,Vieira,PE,Ford,EcoSport,2017,Branco,170124.56,2023-12-21,Financiomanto
+871,Davi Lucas da Rosa,25,624.580.397-74,Masculino,marina91@example.org,+55 71 8823 3797,da Costa,MS,Chevrolet,Tracker,2022,Azul,206913.65,2023-06-10,Leasing
+872,Agatha Azevedo,25,691.523.470-52,Feminino,das-nevesnicolas@example.org,84 8472 8599,da Paz,MA,Chevrolet,S10,2017,Vermelho,128578.48,2024-07-09,Leasing
+873,Alice Santos,40,657.380.429-56,Feminino,ufernandes@example.org,+55 61 7873-0839,Pereira dos Dourados,AC,Toyota,Hilux,2018,Prata,157565.55,2025-02-28,Consórcio
+874,José Miguel Alves,42,013.596.847-00,Masculino,vitornovais@example.org,+55 (021) 6605 4678,Vasconcelos Grande,PA,Toyota,Corolla,2016,Preto,74676.28,2023-08-13,Leasing
+875,Maria Flor Porto,23,169.732.504-16,Feminino,laispinto@example.com,+55 (071) 0030-4946,Lima,TO,Ford,EcoSport,2021,Azul,163224.81,2023-10-24,A vista
+876,Sofia Fernandes,68,154.678.230-35,Feminino,jose-miguel35@example.org,11 7632 3650,Duarte da Serra,PE,Ford,Ka,2021,Branco,112910.55,2023-03-29,Leasing
+877,Lucca Camargo,36,816.735.294-37,Masculino,eloamelo@example.net,(061) 0634 2429,da Cruz,RO,Chevrolet,S10,2017,Prata,177400.29,2024-06-28,Financiomanto
+878,João Vitor Camargo,32,972.641.835-64,Masculino,cirinodavi-luiz@example.com,(011) 9817-8922,Novaes de da Mata,CE,Volkswagem,Polo,2016,Vermelho,175011.68,2024-12-13,A vista
+879,Maria Sophia Moreira,68,839.546.712-55,Feminino,diogocosta@example.org,0800-220-8494,Leão do Galho,CE,Volkswagem,T-Cross,2017,Preto,86176.09,2025-01-01,Financiomanto
+880,Ravy Mendes,67,045.967.812-49,Masculino,nicolemelo@example.org,0800-504-4298,Novais das Pedras,SP,Chevrolet,S10,2024,Preto,58572.69,2023-09-23,Consórcio
+881,Ana Beatriz Teixeira,64,804.516.792-02,Feminino,apollodas-neves@example.com,41 6204-2484,Barros do Galho,RR,Ford,EcoSport,2020,Vermelho,77968.26,2024-11-14,Financiomanto
+882,Jade Sampaio,50,870.653.124-53,Feminino,theodoroda-rocha@example.org,(041) 5378 6595,Cirino Paulista,RS,Ford,EcoSport,2021,Branco,228171.79,2024-12-09,Consórcio
+883,Melissa Sousa,27,459.072.163-52,Feminino,leviramos@example.com,(071) 9278 7333,Mendes,AL,Honda,Civic,2018,Azul,89080.09,2025-01-09,Consórcio
+884,Ravi Martins,50,753.691.420-25,Masculino,clarasouza@example.com,(011) 0901-6110,da Cruz,SE,Ford,Ka,2019,Preto,242089.58,2023-08-10,A vista
+885,Eduarda Araújo,51,285.074.169-85,Feminino,vieirajoao-vitor@example.com,+55 84 7845-5176,Jesus do Sul,RS,Honda,Civic,2019,Branco,106700.57,2024-05-12,Financiomanto
+886,Levi Dias,60,569.473.018-66,Masculino,vianatheo@example.net,0800 207 5349,Pastor Alegre,GO,Volkswagem,Polo,2017,Azul,180525.06,2024-03-12,Financiomanto
+887,Isis da Luz,59,710.562.948-76,Feminino,novaesagatha@example.com,(041) 0941-8624,Pires do Galho,RO,Volkswagem,Gol,2018,Branco,97753.11,2023-08-22,A vista
+888,Eloá Fogaça,19,190.742.368-04,Feminino,rhavi74@example.net,(011) 9520-7226,Silva,PI,Chevrolet,Onix,2024,Prata,245269.23,2023-09-20,Consórcio
+889,José Vasconcelos,22,083.162.594-51,Masculino,leaomaria-alice@example.net,(011) 4998 3914,Castro,MA,Honda,Civic,2019,Azul,248548.88,2024-09-29,A vista
+890,Carolina Cassiano,43,286.745.091-85,Feminino,opimenta@example.net,+55 21 8542 8719,Carvalho Verde,PB,Toyota,Corolla,2015,Prata,247165.47,2024-06-13,Leasing
+891,Sabrina da Cruz,40,389.256.417-55,Feminino,pereirasofia@example.com,+55 84 5390-5954,Lima,TO,Honda,Civic,2023,Preto,206079.33,2024-06-04,Leasing
+892,João Pedro Gomes,70,294.810.763-69,Masculino,pirespedro-miguel@example.org,21 4948-8569,Barros,MG,Ford,EcoSport,2023,Prata,130067.62,2024-04-13,A vista
+893,Lucas Vargas,65,195.438.267-73,Masculino,benicio84@example.com,+55 (051) 0838 7738,Cavalcante do Galho,PE,Volkswagem,Polo,2024,Azul,101567.04,2025-01-10,Consórcio
+894,Antony Moura,45,378.619.502-12,Masculino,rezendeleo@example.com,21 6200 1726,Silva da Prata,SP,Chevrolet,S10,2022,Prata,148048.75,2024-08-21,Consórcio
+895,Alana Silveira,62,148.973.056-75,Feminino,xmoreira@example.com,+55 (011) 2323-2655,Pereira,RS,Toyota,Yaris,2021,Vermelho,229173.01,2024-02-26,Financiomanto
+896,Thiago da Conceição,49,421.953.780-50,Masculino,machadoeduarda@example.org,(071) 9194-7855,Azevedo,MS,Chevrolet,Onix,2021,Prata,34726.27,2023-09-11,Consórcio
+897,André Mendes,38,169.487.025-11,Masculino,arthur-miguelpacheco@example.net,31 7599-6998,Novaes,PI,Ford,EcoSport,2021,Azul,127408.01,2023-10-11,Financiomanto
+898,Renan da Conceição,32,503.416.789-10,Masculino,rezendejuan@example.net,(031) 8028 5389,Araújo,SP,Honda,Civic,2017,Branco,124133.2,2024-02-07,A vista
+899,Juan Andrade,25,904.238.167-13,Masculino,nrios@example.net,+55 71 1754 9857,Novais,RN,Ford,Ranger,2015,Vermelho,158067.01,2024-06-08,Consórcio
+900,Ian Cavalcanti,33,925.764.083-38,Masculino,luanda-rocha@example.net,(051) 6803-0923,Fernandes,PR,Honda,Fit,2019,Prata,153039.1,2024-06-25,Consórcio
+901,Davi Novaes,47,495.763.182-46,Masculino,melissa28@example.org,84 1235-9932,Vieira dos Dourados,RN,Toyota,Corolla,2015,Prata,73858.96,2024-07-08,Leasing
+902,Ravi Melo,27,485.927.306-00,Masculino,maria-cecilia22@example.org,84 5340-7663,Freitas,RJ,Volkswagem,Gol,2017,Prata,239650.88,2024-12-16,Financiomanto
+903,Heloisa Aragão,52,130.578.469-39,Feminino,wdias@example.com,0500 593 5096,Pires,MS,Toyota,Hilux,2023,Preto,56408.98,2023-10-21,Leasing
+904,Sarah Albuquerque,35,475.921.803-32,Feminino,sacecilia@example.org,51 4027 8914,Alves,MS,Chevrolet,S10,2018,Prata,56705.08,2023-12-08,Consórcio
+905,Nina Borges,57,625.709.814-94,Feminino,jose-pedroalmeida@example.org,+55 41 8043-0010,Costa de Novaes,SC,Toyota,Corolla,2018,Branco,190514.83,2025-01-16,Financiomanto
+906,Mathias Cavalcante,58,298.461.537-91,Masculino,lorenada-rocha@example.net,(041) 8495 0197,Duarte do Norte,RN,Honda,Fit,2023,Vermelho,205666.06,2023-10-06,A vista
+907,Ana Lívia Dias,30,140.396.875-66,Feminino,arthur98@example.com,84 6890-0319,Borges,RR,Toyota,Yaris,2021,Preto,133899.63,2025-01-03,A vista
+908,Pietra Sá,64,938.601.542-06,Feminino,rebecacamara@example.net,21 5738-0248,Viana dos Dourados,CE,Ford,EcoSport,2018,Vermelho,186101.83,2024-03-13,A vista
+909,Ana Clara da Rocha,24,725.369.418-09,Feminino,sousaantonio@example.com,51 9112 0094,Vasconcelos,PE,Ford,Ranger,2020,Prata,111310.63,2024-03-09,A vista
+910,Lucca Aparecida,50,184.069.257-01,Masculino,valentina04@example.org,+55 (041) 8666-1720,Albuquerque,SC,Toyota,Yaris,2016,Preto,30581.67,2024-01-12,Financiomanto
+911,Lorenzo Correia,50,236.587.014-71,Masculino,hgomes@example.com,+55 11 5431-7902,Costa,PE,Honda,HR-V,2020,Prata,242403.51,2024-06-03,Consórcio
+912,Laís Camargo,55,461.308.795-39,Feminino,leo80@example.org,61 2807 0492,Novaes de Goiás,AP,Volkswagem,Polo,2017,Preto,85628.65,2024-12-29,Leasing
+913,Luiz Fernando Silva,46,382.795.406-10,Masculino,fernandesnicolas@example.com,+55 41 1526-3709,Alves da Mata,RN,Toyota,Yaris,2020,Preto,221966.5,2025-03-04,Leasing
+914,Stephany Pereira,34,218.536.794-37,Feminino,otto86@example.com,0900-523-0248,Ribeiro de Pinto,PE,Honda,Fit,2024,Prata,53785.01,2024-02-27,Financiomanto
+915,Bento Silveira,49,061.923.478-40,Masculino,alexandreoliveira@example.org,+55 (051) 2613 1206,Mendes,RJ,Volkswagem,Polo,2019,Azul,169665.77,2024-05-21,Financiomanto
+916,Paulo Silveira,67,873.054.219-79,Masculino,thomasvieira@example.org,11 4847 1164,da Rocha das Flores,GO,Chevrolet,Onix,2022,Preto,167978.61,2023-06-07,Consórcio
+917,Bernardo Barros,42,948.360.712-40,Masculino,apolloaparecida@example.com,+55 51 5286 9077,Nogueira Verde,SC,Honda,Fit,2018,Vermelho,52157.3,2024-09-25,Consórcio
+918,Carlos Eduardo Melo,42,328.047.615-17,Masculino,ynascimento@example.com,+55 (071) 5427-6017,Cavalcante Paulista,GO,Honda,HR-V,2018,Vermelho,70165.85,2024-06-27,Consórcio
+919,Lívia Duarte,41,890.154.732-50,Feminino,ana-vitoria57@example.com,71 5480 8342,Barbosa,DF,Volkswagem,T-Cross,2020,Azul,167136.93,2023-11-03,Consórcio
+920,João Vitor Fonseca,23,134.896.275-55,Masculino,beatrizcavalcanti@example.net,31 9802 8265,da Costa,MS,Toyota,Corolla,2018,Vermelho,241896.65,2024-02-21,Financiomanto
+921,André Fogaça,62,605.741.392-06,Masculino,cavalcantijuliana@example.net,(051) 6475-3330,Dias,AC,Honda,HR-V,2018,Prata,214121.82,2024-01-14,A vista
+922,Davi Luiz Camargo,55,613.270.984-31,Masculino,machadoaugusto@example.net,+55 (011) 5614-0194,Sampaio,AP,Ford,Ka,2023,Azul,248297.7,2025-02-21,Financiomanto
+923,Ana Beatriz Melo,30,987.304.125-79,Feminino,sjesus@example.com,(084) 5197 4516,Dias,PE,Chevrolet,Onix,2024,Prata,189090.4,2023-10-08,A vista
+924,Vicente Costa,66,873.410.296-50,Masculino,gcastro@example.com,(011) 4087-4687,Azevedo,BA,Volkswagem,Polo,2016,Prata,154213.04,2023-10-02,Leasing
+925,Daniela Silva,39,314.506.278-62,Feminino,pachecovitor-hugo@example.net,(084) 7464-4863,Garcia Paulista,TO,Toyota,Yaris,2017,Prata,74155.15,2024-06-09,A vista
+926,Alexia Macedo,34,845.026.793-56,Feminino,joao-miguelpastor@example.net,+55 84 6703 8534,Pires,MG,Honda,Civic,2021,Vermelho,118979.8,2023-07-12,Consórcio
+927,Ana Luiza Ferreira,65,940.215.783-23,Feminino,apollo61@example.net,+55 (011) 2878-2195,Vasconcelos,MS,Toyota,Hilux,2024,Prata,56630.61,2024-10-04,Financiomanto
+928,Lívia Teixeira,23,058.793.214-79,Feminino,elisa30@example.com,+55 (021) 2003-7136,Silva,RS,Honda,Fit,2018,Preto,101666.08,2024-04-29,A vista
+929,Ana Beatriz Cirino,32,239.614.785-46,Feminino,souzabarbara@example.org,71 0631-2411,Cunha de Freitas,TO,Volkswagem,Polo,2021,Vermelho,166600.1,2023-04-11,Consórcio
+930,Maysa Vieira,27,736.249.158-19,Feminino,maria-laurarezende@example.org,81 1553-0052,Jesus de Minas,DF,Chevrolet,S10,2024,Branco,103752.53,2024-01-14,Financiomanto
+931,Emilly da Cruz,47,863.271.054-08,Feminino,da-cruzlorenzo@example.com,+55 81 1300 4767,Sampaio do Amparo,PI,Toyota,Yaris,2015,Azul,118878.26,2023-07-25,Leasing
+932,Yan Souza,18,896.532.417-37,Masculino,mendesana-beatriz@example.com,0500-534-1059,Abreu Paulista,SP,Chevrolet,Tracker,2015,Branco,82673.3,2024-07-07,Consórcio
+933,Maria Luiza Borges,51,805.743.219-50,Feminino,osiqueira@example.com,+55 51 9908 3897,Leão,AM,Honda,Civic,2015,Branco,190851.0,2024-01-16,A vista
+934,Mateus Melo,59,164.859.320-89,Masculino,pachecoclarice@example.net,11 3314 9865,Nunes,BA,Ford,EcoSport,2024,Azul,112598.24,2024-08-21,Consórcio
+935,Maria Julia Albuquerque,33,186.927.053-30,Feminino,ocirino@example.com,+55 (071) 8008 2037,Garcia do Norte,PB,Toyota,Yaris,2019,Preto,112502.12,2024-03-22,Leasing
+936,Letícia Moura,28,038.715.296-21,Feminino,kfarias@example.org,+55 (041) 9260 2422,Ribeiro,RR,Chevrolet,S10,2021,Branco,187048.52,2024-09-18,Leasing
+937,Bárbara Andrade,22,895.706.123-12,Feminino,pastorbella@example.org,0500-571-4315,Sales,AC,Chevrolet,Onix,2022,Vermelho,87194.69,2023-09-27,Leasing
+938,João Felipe Oliveira,45,140.852.967-01,Masculino,ramosjoao-vitor@example.com,0300-480-8676,Viana Grande,PR,Chevrolet,S10,2021,Vermelho,138562.31,2024-07-04,A vista
+939,Gael Pastor,49,513.420.876-07,Masculino,ana-juliafernandes@example.net,+55 (021) 2999 8082,Melo do Galho,GO,Toyota,Corolla,2018,Prata,189717.31,2025-01-30,A vista
+940,Pedro Lucas Souza,28,950.674.328-29,Masculino,vinicius11@example.net,+55 (041) 5382 1855,das Neves da Mata,RO,Volkswagem,T-Cross,2020,Branco,147380.59,2024-10-07,Consórcio
+941,Vitor Pacheco,29,063.529.148-70,Masculino,nicole50@example.org,+55 41 0643-8394,Lopes,PI,Honda,Fit,2023,Prata,31250.67,2023-10-26,Financiomanto
+942,Ísis Aparecida,68,748.129.053-97,Feminino,maria-eduardaoliveira@example.net,71 5838-0052,Ferreira de da Rosa,BA,Honda,HR-V,2019,Vermelho,138768.74,2024-07-11,Consórcio
+943,Bella da Rocha,33,041.276.583-71,Feminino,cecilia50@example.com,84 7685-0957,Vieira das Flores,AL,Honda,HR-V,2015,Azul,59483.09,2024-09-15,A vista
+944,Carolina Novaes,33,609.732.581-95,Feminino,yjesus@example.net,21 2949 9090,Ramos,AM,Honda,Fit,2018,Vermelho,223951.46,2023-10-14,A vista
+945,Rafaela da Conceição,53,476.083.192-40,Feminino,ana-livia49@example.org,(071) 3426 1422,Pimenta de Goiás,PA,Chevrolet,Tracker,2022,Vermelho,220812.4,2023-09-11,Financiomanto
+946,Esther Pires,60,965.184.370-57,Feminino,vpinto@example.com,(084) 9672-3098,das Neves,PE,Chevrolet,Onix,2021,Preto,158650.93,2024-03-06,Consórcio
+947,Davi Luiz Fogaça,50,308.174.695-75,Masculino,diogodas-neves@example.com,0900-388-4918,Pires,MS,Volkswagem,Polo,2018,Branco,146805.43,2024-02-04,A vista
+948,Eloah Abreu,56,081.973.642-22,Feminino,bruno94@example.org,+55 (021) 4091-4143,Costa,TO,Toyota,Yaris,2017,Branco,131670.94,2024-03-23,A vista
+949,João Vitor da Cruz,50,025.483.961-42,Masculino,igor41@example.net,11 2395-4535,Gonçalves de Alves,RJ,Honda,HR-V,2024,Azul,203393.95,2024-03-16,A vista
+950,João Pedro da Mata,27,107.493.286-22,Masculino,joao-lucassiqueira@example.org,+55 61 6877-7914,Martins,SP,Chevrolet,Tracker,2017,Prata,120069.52,2024-01-01,Leasing
+951,Melina Ribeiro,25,246.957.380-74,Feminino,natalia90@example.net,(011) 4367-3631,Martins de Santos,SC,Toyota,Corolla,2024,Branco,249856.66,2024-05-31,Consórcio
+952,Anna Liz da Paz,18,356.701.498-66,Feminino,otavio58@example.net,61 8895-8655,da Cunha de Goiás,AP,Ford,EcoSport,2020,Prata,177677.12,2024-08-12,Leasing
+953,Thomas Pinto,35,561.207.834-07,Masculino,scasa-grande@example.net,41 7795-6215,Pires,SC,Ford,Ranger,2018,Preto,63001.94,2023-09-16,Leasing
+954,Emilly Brito,44,706.352.419-43,Feminino,clariceribeiro@example.net,+55 61 4098-5214,Porto,PI,Honda,Civic,2021,Preto,73080.58,2023-12-27,Financiomanto
+955,Dom Oliveira,45,485.937.612-91,Masculino,vasconcelosdiego@example.com,(084) 8708-4378,Rocha,DF,Honda,HR-V,2018,Branco,183154.61,2023-03-24,Financiomanto
+956,Helena Santos,50,478.591.602-85,Feminino,evelyn74@example.org,(071) 6371-8524,Carvalho das Pedras,CE,Chevrolet,S10,2019,Preto,236707.85,2024-09-20,Financiomanto
+957,Henry Brito,29,679.852.314-55,Masculino,larafreitas@example.com,+55 (021) 5305 0786,da Paz,SE,Ford,Ranger,2019,Preto,45557.02,2024-12-26,Leasing
+958,Dante Ramos,65,871.296.403-40,Masculino,costaisabelly@example.net,0500-354-5313,Moura de Goiás,GO,Volkswagem,Gol,2016,Vermelho,174442.79,2024-10-12,Leasing
+959,Maria Isis Nunes,65,782.950.341-97,Feminino,brendarezende@example.net,+55 (031) 3250 0241,Jesus da Mata,AC,Honda,Civic,2017,Branco,159551.44,2024-05-30,Leasing
+960,Asafe Fonseca,49,045.617.382-07,Masculino,tmachado@example.net,+55 31 2628 5941,Cassiano de Aparecida,DF,Chevrolet,Onix,2024,Prata,185001.29,2024-12-08,A vista
+961,Isabelly Aragão,48,902.345.186-42,Feminino,barrosbenicio@example.net,+55 (051) 5991 0212,Silva do Galho,SC,Volkswagem,Polo,2020,Azul,32425.16,2025-02-25,Consórcio
+962,Letícia Santos,41,916.430.827-87,Feminino,benjamim75@example.com,51 3357 1358,Dias,PI,Ford,Ka,2019,Vermelho,52232.76,2023-05-29,Consórcio
+963,Ravy Cirino,60,624.593.810-42,Masculino,zoe42@example.org,+55 (071) 8007-5936,Barros de Rezende,GO,Toyota,Yaris,2023,Preto,54157.52,2024-06-27,Leasing
+964,Theodoro Machado,28,536.402.871-26,Masculino,moreiratheodoro@example.net,51 5184 2115,Mendonça,RS,Honda,Civic,2015,Prata,211391.26,2023-06-17,A vista
+965,Raul Pinto,65,930.712.486-87,Masculino,heloisa51@example.org,+55 (084) 9532 3995,Sampaio,PA,Ford,Ranger,2020,Azul,64790.26,2024-03-02,Leasing
+966,Luara Ferreira,67,601.957.384-20,Feminino,asafesilva@example.net,(041) 2213 5335,Porto,SE,Toyota,Corolla,2021,Vermelho,79482.58,2023-06-11,Leasing
+967,Ayla Freitas,70,850.731.942-41,Feminino,rpinto@example.net,+55 (041) 4703 2898,Cardoso de Mendes,SP,Honda,Civic,2017,Azul,109376.86,2024-05-17,A vista
+968,Rael Duarte,62,649.081.523-06,Masculino,maria-alice95@example.com,(061) 7340-0460,Cunha do Campo,GO,Honda,Civic,2023,Branco,174292.19,2024-02-20,Consórcio
+969,Ryan Nunes,46,301.795.468-48,Masculino,clara48@example.net,41 7510 3248,Marques de da Rosa,MT,Honda,Civic,2024,Azul,238841.69,2024-08-26,Leasing
+970,Ana Luiza Jesus,55,134.650.827-53,Feminino,manuellapacheco@example.org,+55 61 3026-5341,Fernandes de Goiás,AM,Volkswagem,Polo,2020,Prata,233666.87,2024-04-15,A vista
+971,Isadora Cunha,35,831.572.064-35,Feminino,leoda-rocha@example.org,31 9214 8007,Azevedo,AC,Toyota,Corolla,2024,Azul,210723.82,2023-09-27,A vista
+972,Hadassa Alves,35,476.851.290-94,Feminino,fogacaisabela@example.org,31 0892 1957,Rezende,GO,Chevrolet,Onix,2022,Prata,169593.4,2024-12-17,A vista
+973,Raul Rezende,53,504.619.723-52,Masculino,maria-laurafreitas@example.org,+55 84 7126-5502,Rocha,TO,Ford,Ranger,2017,Vermelho,131216.77,2023-04-12,Consórcio
+974,Daniel Oliveira,31,142.860.739-04,Masculino,ana-beatriz19@example.com,(084) 7627 4297,Moura da Serra,MA,Honda,Civic,2019,Preto,244861.19,2023-07-23,Consórcio
+975,Maria Liz Araújo,23,061.584.792-76,Feminino,almeidaluara@example.net,21 1142-6795,Costela de Carvalho,AP,Toyota,Hilux,2017,Preto,236638.05,2024-10-03,A vista
+976,Sofia Vasconcelos,67,106.793.458-84,Feminino,pietraporto@example.org,(081) 1082-1458,Costela de Minas,MT,Chevrolet,S10,2020,Branco,248447.1,2024-09-18,Financiomanto
+977,Davi Miguel Correia,20,369.851.047-20,Masculino,jborges@example.net,(011) 2025-8125,Macedo,DF,Volkswagem,Polo,2024,Prata,201624.63,2025-01-23,Consórcio
+978,Brenda Duarte,23,026.183.795-86,Feminino,lavinia07@example.com,0900 271 2937,Fonseca Grande,SE,Chevrolet,Onix,2016,Branco,113553.98,2024-07-24,Consórcio
+979,Sabrina da Rocha,70,014.325.796-06,Feminino,pda-cunha@example.com,+55 31 1804-7309,da Paz dos Dourados,GO,Honda,HR-V,2015,Branco,229840.85,2025-02-18,Financiomanto
+980,Luiz Otávio Melo,48,861.423.709-03,Masculino,da-luzagatha@example.com,11 0949 3010,Sampaio das Pedras,RR,Toyota,Corolla,2019,Preto,152563.32,2024-06-22,Financiomanto
+981,Augusto Lima,64,528.643.190-98,Masculino,gabrielviana@example.net,+55 (011) 4126 8041,Pinto,MG,Honda,HR-V,2016,Prata,160738.99,2023-10-14,Consórcio
+982,Maria Flor Monteiro,26,038.792.546-56,Feminino,fogacaester@example.org,0500-523-7978,das Neves de Minas,TO,Volkswagem,Polo,2020,Prata,169804.33,2023-11-07,Consórcio
+983,Luiz Felipe Melo,44,570.394.618-20,Masculino,rochadavi-lucca@example.org,41 3610 2870,Montenegro,PB,Ford,Ka,2019,Vermelho,155787.75,2024-04-14,Leasing
+984,Luiza Guerra,41,865.920.431-05,Feminino,apeixoto@example.net,+55 61 3249 1688,da Rosa da Prata,AM,Honda,Fit,2019,Branco,120620.48,2024-07-15,Financiomanto
+985,Sofia Costela,48,268.530.174-71,Feminino,albuquerqueisadora@example.org,+55 11 1342 9443,Correia,DF,Toyota,Yaris,2021,Branco,81794.88,2023-08-13,Consórcio
+986,João Vitor da Rosa,39,267.895.403-00,Masculino,oferreira@example.org,71 9220 4207,Pinto,TO,Honda,Fit,2020,Prata,41021.44,2023-06-16,Consórcio
+987,Ravi Lucca Garcia,38,869.431.520-33,Masculino,alexandrelima@example.com,(041) 3582 5994,Moraes,ES,Toyota,Hilux,2018,Azul,134198.36,2023-11-10,A vista
+988,Lara Machado,70,564.039.712-80,Feminino,sampaioapollo@example.com,(011) 6446 8443,Martins,AC,Volkswagem,Gol,2023,Prata,199089.61,2023-10-24,A vista
+989,Ágatha Dias,36,610.895.374-84,Feminino,isis05@example.org,+55 (011) 2881-5270,Montenegro da Praia,ES,Honda,HR-V,2015,Preto,106837.68,2023-07-01,A vista
+990,Vitor Gabriel Siqueira,32,296.785.431-09,Masculino,ravi-luccanovaes@example.net,+55 (071) 1318-6644,da Rocha Grande,RR,Toyota,Corolla,2022,Preto,181595.9,2024-10-26,A vista
+991,Vitor Gabriel Pacheco,22,953.672.018-30,Masculino,julianaaraujo@example.org,+55 (051) 9990-5799,Fonseca dos Dourados,BA,Volkswagem,Gol,2018,Vermelho,137883.83,2025-02-05,Leasing
+992,José Miguel Garcia,40,382.150.469-24,Masculino,lfonseca@example.com,+55 (081) 1488 3594,Aparecida,GO,Toyota,Hilux,2020,Vermelho,246590.46,2023-05-03,Leasing
+993,Gael Peixoto,22,659.814.730-10,Masculino,zpastor@example.net,31 9177-7668,Duarte da Serra,RR,Honda,Fit,2015,Preto,136282.15,2023-07-06,Consórcio
+994,Apollo Pastor,36,382.075.496-29,Masculino,camila98@example.com,+55 21 0665 0081,Mendes do Campo,PB,Chevrolet,S10,2016,Prata,109243.04,2024-08-14,Leasing
+995,Rodrigo Castro,27,462.935.081-06,Masculino,antoniofogaca@example.org,(071) 3084 2887,Monteiro,RJ,Ford,Ranger,2023,Branco,211813.35,2024-09-19,Consórcio
+996,Maria Júlia Peixoto,22,302.759.814-79,Feminino,qda-costa@example.net,(071) 3135 0077,Teixeira Verde,MA,Chevrolet,S10,2017,Vermelho,60529.99,2023-03-31,Financiomanto
+997,João Miguel Silveira,42,796.421.508-67,Masculino,zmonteiro@example.org,(031) 1863-1188,Moura,MT,Honda,Civic,2015,Prata,30229.69,2024-12-13,Consórcio
+998,Gael da Rosa,67,735.894.102-05,Masculino,jose-pedromartins@example.net,+55 (051) 3824-4487,Moura do Sul,MS,Honda,Civic,2023,Prata,190587.95,2023-10-12,Consórcio
+999,Luara Duarte,55,518.964.072-85,Feminino,cassianorael@example.net,+55 (011) 3004-9944,Barros,SP,Toyota,Hilux,2023,Vermelho,211920.6,2023-07-28,Leasing
+1000,Mathias Barbosa,52,623.975.814-00,Masculino,martinsnatalia@example.org,+55 (021) 7032-7490,Montenegro de Ribeiro,PA,Toyota,Corolla,2015,Preto,206409.46,2024-03-14,Financiomanto
