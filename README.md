@@ -13,7 +13,9 @@ Os projetos estão organizados em branches separadas para facilitar a navegaçã
 
 Aqui estão alguns dos projetos disponíveis:
 
-🔹 **Projeto 1:** [Nome do Projeto] - Breve descrição do objetivo e técnicas utilizadas.
+🔹 **Projeto 1:** Filiais de Vendas de Carros - Este projeto tem como objetivo identificar padrões e insights para otimizar estratégias de marketing, analisando o desempenho de vendas de uma rede de filiais automotivas. Para isso, utilizei Python com a biblioteca Faker para gerar dados fictícios e conduzi a análise sob a perspectiva do Princípio de Pareto (80/20), explorando variáveis como filial, estado, cidade, sexo, idade, marca e modelo dos veículos.
+
+Os resultados revelaram insights valiosos sobre as unidades de maior destaque, perfis de clientes e veículos mais populares, permitindo recomendações estratégicas para impulsionar as vendas. As ferramentas utilizadas incluem Python, Pandas, Google Drive e Google Sheets.
 
 🔹 **Projeto 2:** [Nome do Projeto] - Breve descrição do objetivo e técnicas utilizadas.
 
