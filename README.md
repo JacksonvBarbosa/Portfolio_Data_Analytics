@@ -13,11 +13,13 @@ Os projetos estão organizados em branches separadas para facilitar a navegaçã
 
 Aqui estão alguns dos projetos disponíveis:
 
-🔹 **Projeto 1:** Filiais de Vendas de Carros - Este projeto tem como objetivo identificar padrões e insights para otimizar estratégias de marketing, analisando o desempenho de vendas de uma rede de filiais automotivas. Para isso, utilizei Python com a biblioteca Faker para gerar dados fictícios e conduzi a análise sob a perspectiva do Princípio de Pareto (80/20), explorando variáveis como filial, estado, cidade, sexo, idade, marca e modelo dos veículos.
+🔹 **Projeto 1:** Filiais de Vendas de Carros - Este projeto tem como objetivo identificar padrões e insights para otimizar estratégias de marketing, analisando o desempenho de vendas de uma rede de filiais automotivas. Para isso, utilizei Python com a biblioteca Faker para gerar dados fictícios e conduzi a análise sob a perspectiva do Princípio de Pareto (80/20), explorando variáveis como filial, estado, cidade, sexo, idade, marca e modelo dos veículos.  
+Este projeto está na branch vendas_filiais_carros
 
 Os resultados revelaram insights valiosos sobre as unidades de maior destaque, perfis de clientes e veículos mais populares, permitindo recomendações estratégicas para impulsionar as vendas. As ferramentas utilizadas incluem Python, Pandas, Google Drive e Google Sheets.
 
-🔹 **Projeto 2:** [Nome do Projeto] - Breve descrição do objetivo e técnicas utilizadas.
+🔹 **Projeto 2:** Pesquisa de qualidade de vinhos JACKWine - A distribuidora JACKWine está expandindo seu catálogo através da importação de vinhos portugueses, com destaque para a marca "Vinho Verde". Como analista de dados da empresa, fui designado para realizar uma análise exploratória dos vinhos tintos, a fim de entender os fatores químicos que influenciam sua qualidade e fornecer insights para o processo de seleção e importação.  
+Este projeto está na branch vinhos_jackwine
 
 _(Mais projetos serão adicionados conforme avanço nos estudos.)_
 
