@@ -115,7 +115,11 @@ Foco nas seguintes variáveis e relacionamentos:
 ## 📚 Referências
 - UCI Machine Learning Repository - Wine Quality Dataset
 - Winefun - "Acidez volátil: conheça um dos defeitos mais controvertidos do mundo dos vinhos"
+  Fonte: Winefun  
+  https://winefun.com.br/acidez-volatil-conheca-um-dos-defeitos-mais-controvertidos-do-mundo-dos-vinhos/
 - Wine.com.br - Winepedia: "Álcool pra quê?"
+  link:  
+  https://www.wine.com.br/winepedia/alcool-pra-que/
 
 ---
 
